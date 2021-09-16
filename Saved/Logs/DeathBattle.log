@@ -5070,3 +5070,254 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.09.16-07.03.35:195][819]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.16-07.03.35:195][819]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
 [2021.09.16-07.03.35:195][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.09.16-07.04.22:692][ 49]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.16-07.04.54:219][911]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-07.04.54:238][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-07.04.54:238][911]PIE: New page: PIE session: Moon (16 sep. 2021 11:04:54)
+[2021.09.16-07.04.54:286][911]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.09.16-07.04.54:291][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004491s)
+[2021.09.16-07.04.54:292][911]LogAIModule: Creating AISystem for world Moon
+[2021.09.16-07.04.54:292][911]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028834C26A00), frame # 143911
+[2021.09.16-07.04.54:293][911]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000286A322B240), frame # 143911
+[2021.09.16-07.04.54:293][911]LogPlayLevel: PIE: World Init took: (0.002027s)
+[2021.09.16-07.04.54:293][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.006733s)
+[2021.09.16-07.04.54:342][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.09.16-07.04.54:346][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-07.04.54:346][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-07.04.54:346][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-07.04.54:346][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-07.04.54:346][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-07.04.54:346][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-07.04.54:346][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-07.04.54:346][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-07.04.54:346][911]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-07.04.54:346][911]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-07.04.54:350][911]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-07.04.54:350][911]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-07.04.54:373][911]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.16-07.04.54:373][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-07.04.54:373][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-07.04.54:373][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-07.04.54:373][911]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-07.04.54:394][911]LogInit: FAudioDevice initialized.
+[2021.09.16-07.04.54:401][911]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.16-07.04.54:404][911]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 0) at 2021.09.16-09.04.54
+[2021.09.16-07.04.54:404][911]LogWorld: Bringing up level for play took: 0.001588
+[2021.09.16-07.04.54:404][911]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.09.16-07.04.54:410][911]PIE: Server logged in
+[2021.09.16-07.04.54:411][911]PIE: Play in editor total start time 0,174 seconds.
+[2021.09.16-07.04.57:568][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-07.04.57:568][159]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.09.16-07.04.57:568][159]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.04.57:568][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.04.57:577][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-07.04.57:583][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.04.57:650][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-07.04.57:651][159]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000286A322B240), frame # 144159
+[2021.09.16-07.04.57:651][159]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028834C26A00), frame # 144159
+[2021.09.16-07.04.57:655][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.09.16-07.04.57:707][160]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.09.16-07.04.58:984][277]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.16-07.05.00:628][419]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2021.09.16-07.05.23:685][ 91]Cmd: TRANSACTION UNDO
+[2021.09.16-07.05.23:685][ 91]LogEditorTransaction: Undo Edit Temp
+[2021.09.16-07.05.37:209][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.16-07.05.37:267][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.09.16-07.05.37:303][ 63]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/MoonE5E10F9C4341E11A79FDD4ACB1DDCBE1.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.09.16-07.05.37:338][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.09.16-07.05.37:356][ 63]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltDataE83C7665401394B9C30F9E9F76B97537.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.09.16-07.05.37:379][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.16-07.05.37:379][ 63]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.09.16-07.05.37:379][ 63]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.09.16-07.06.40:683][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.16-07.06.40:740][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.09.16-07.06.40:780][885]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon981F5B7D4EDC61A73AD788B1D66E533A.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.09.16-07.06.40:813][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.09.16-07.06.40:832][885]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltData4045F23148216675C9A833BC0169AC8B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.09.16-07.06.40:855][885]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.16-07.06.40:855][885]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.09.16-07.06.40:855][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.09.16-07.07.01:562][690]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Health.Health
+[2021.09.16-07.07.46:568][348]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.16-07.08.11:412][ 60]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.16-07.08.44:308][573]BlueprintLog: New page: Compile Health
+[2021.09.16-07.08.44:428][573]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2021.09.16-07.08.45:250][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Health.uasset" SILENT=true
+[2021.09.16-07.08.45:257][640]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Health5B0E0FCA4F2E2B299A9363A5685A4C12.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Health.uasset'
+[2021.09.16-07.08.45:317][640]AssetCheck: New page: Asset Save: Health
+[2021.09.16-07.08.45:317][640]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Health.Health
+[2021.09.16-07.09.19:733][669]BlueprintLog: New page: Compile Health
+[2021.09.16-07.09.19:796][669]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2021.09.16-07.09.20:346][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Health.uasset" SILENT=true
+[2021.09.16-07.09.20:363][719]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Health6DA9BEEF4CF2FBE2A3DD00A003265B7D.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Health.uasset'
+[2021.09.16-07.09.20:382][719]AssetCheck: New page: Asset Save: Health
+[2021.09.16-07.09.20:382][719]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Health.Health
+[2021.09.16-07.09.22:849][907]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.09.22:849][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.09.23:746][950]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.16-07.09.23:746][950]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.09.23:746][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.09.25:464][ 55]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.16-07.09.25:464][ 55]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.09.25:464][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.10.04:382][965]LogSlate: Took 0.008303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.16-07.10.08:727][351]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.09.16-07.10.08:854][351]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.09.16-07.10.25:197][127]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.09.16-07.10.25:312][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.09.16-07.10.56:855][433]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.09.16-07.10.56:932][433]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.09.16-07.11.12:987][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gustav/Projectile.Projectile
+[2021.09.16-07.13.57:143][379]BlueprintLog: New page: Compile Projectile
+[2021.09.16-07.13.57:231][379]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.09.16-07.13.57:936][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.09.16-07.13.57:965][434]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile3F24C383479146C698388E8AF54FF744.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.09.16-07.13.57:982][434]AssetCheck: New page: Asset Save: Projectile
+[2021.09.16-07.13.57:983][434]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.09.16-07.14.40:990][987]BlueprintLog: New page: Compile Projectile
+[2021.09.16-07.14.41:065][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.09.16-07.16.40:858][829]LogUObjectHash: Compacting FUObjectHashTables data took   9.02ms
+[2021.09.16-07.16.40:894][829]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_Auto1D3F8AD07457B0B1E0E08B6BAECE50012.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Map/Moon_Auto1.umap'
+[2021.09.16-07.16.40:895][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Moon' took 0.103
+[2021.09.16-07.16.40:895][829]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.103
+[2021.09.16-07.16.40:896][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2021.09.16-07.16.40:951][829]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2021.09.16-07.16.40:952][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2021.09.16-07.16.40:989][829]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter_Auto141EB76B8451A09DF09848981737730D6.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset'
+[2021.09.16-07.16.40:991][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gustav/Projectile] ([1] browsable assets)...
+[2021.09.16-07.16.41:044][829]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gustav/Projectile.Projectile]
+[2021.09.16-07.16.41:045][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gustav/Projectile]
+[2021.09.16-07.16.41:074][829]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile_Auto18E37132C47E0620D77F02CA0D504BB75.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Gustav/Projectile_Auto1.uasset'
+[2021.09.16-07.16.41:075][829]LogFileHelpers: Auto-saving content packages took 0.179
+[2021.09.16-07.19.15:039][475]BlueprintLog: New page: Compile Health
+[2021.09.16-07.19.15:042][475]LogBlueprint: Error: [Compiler Health] The type of  Object  is undetermined.  Connect something to  Cast To SideScrollerCharacter  to imply a specific type.
+[2021.09.16-07.19.15:042][475]LogBlueprint: Error: [Compiler Health] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.09.16-07.19.15:042][475]LogBlueprint: Error: [Compiler Health] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar_140 ': Member:GetPercent_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2021.09.16-07.19.15:096][475]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2021.09.16-07.19.37:553][519]BlueprintLog: New page: Compile Health
+[2021.09.16-07.19.37:555][519]LogBlueprint: Error: [Compiler Health] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar_140 ': Member:GetPercent_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2021.09.16-07.19.37:601][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.09.16-07.19.43:408][142]BlueprintLog: New page: Compile Health
+[2021.09.16-07.19.43:411][142]LogBlueprint: Error: [Compiler Health] Binding: Property ' /Script/UMG.ProgressBar:PercentDelegate ' on Widget ' ProgressBar_140 ': Member:GetPercent_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2021.09.16-07.19.43:453][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.09.16-07.26.41:529][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.09.16-07.26.41:532][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Moon' took 0.049
+[2021.09.16-07.26.41:532][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Health] ([1] browsable assets)...
+[2021.09.16-07.26.41:532][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Health]
+[2021.09.16-07.26.41:546][415]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Health_Auto2201F42AA4D38AF646290C3BAB48F3D09.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Health_Auto2.uasset'
+[2021.09.16-07.26.41:546][415]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.09.16-07.32.48:013][510]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.32.48:013][510]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.32.48:224][511]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.32.48:224][511]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.34.42:592][794]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.36.26:357][ 13]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.36.27:210][ 14]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.36.33:385][ 16]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.36.49:774][ 50]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.09.16-07.38.21:781][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.09.16-07.38.23:143][528]LogSlate: Window 'Save Content' being destroyed
+[2021.09.16-07.38.23:250][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Health" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Health.uasset" SILENT=true
+[2021.09.16-07.38.23:326][528]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Health827A1FC34A7184AAA5A2B69C2212ED0A.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Health.uasset'
+[2021.09.16-07.38.23:334][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.09.16-07.38.23:405][528]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile510B65CF4C90EF88702905BBE1DAE2F5.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.09.16-07.38.23:410][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.16-07.38.23:514][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.09.16-07.38.23:620][528]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/MoonFA2AEAE84B3E4A55EC5AFEAF1EBBFBAE.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.09.16-07.38.23:711][528]LogFileHelpers: Saving map 'Moon' took 0.302
+[2021.09.16-07.38.23:711][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.09.16-07.38.23:767][528]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltData1B7B237040D89AAA19CA4B9BC64AA7B6.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.09.16-07.38.23:851][528]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter8FFF49C74DF035C70D7E5FA7DEDCA6F7.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.09.16-07.38.23:958][528]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.23:958][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.38.24:265][528]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.24:265][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.38.24:465][528]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.16-07.38.24:466][528]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.24:466][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.38.24:753][528]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.24:754][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.38.24:773][528]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.24:774][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-07.38.25:095][528]LogSlate: Window 'DeathBattle - Unreal Editor' being destroyed
+[2021.09.16-07.38.25:103][528]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.09.16-07.38.28:559][528]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.16-07.38.28:559][528]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Health.Health
+[2021.09.16-07.38.28:560][528]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.09.16-07.38.28:560][528]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.09.16-07.38.28:560][528]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.09.16-07.38.28:560][528]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.09.16-07.38.28:745][529]Cmd: QUIT_EDITOR
+[2021.09.16-07.38.28:745][529]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.09.16-07.38.28:872][529]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.09.16-07.38.29:626][529]LogExit: Preparing to exit.
+[2021.09.16-07.38.30:179][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:179][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:179][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:179][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:179][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:179][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:179][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:179][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:184][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:184][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:184][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:184][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:184][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:184][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:184][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:184][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:189][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:189][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:189][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:189][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:189][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:189][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:189][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:190][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:192][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:193][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:193][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:193][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:193][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:193][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:193][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:193][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:195][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:195][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:195][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:195][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:195][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:195][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:196][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:196][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:197][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:197][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:198][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:198][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:199][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:199][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:199][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:199][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:201][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:201][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:201][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:201][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:202][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:202][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:202][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:202][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:204][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:204][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:204][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:204][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:204][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:204][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:204][529]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.16-07.38.30:204][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:334][529]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-07.38.30:335][529]LogExit: Editor shut down
+[2021.09.16-07.38.30:345][529]LogExit: Transaction tracking system shut down
+[2021.09.16-07.38.30:448][529]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.09.16-07.38.31:660][529]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000286E4BDBEC0), frame # 222529
+[2021.09.16-07.38.31:660][529]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028704887800), frame # 222529
