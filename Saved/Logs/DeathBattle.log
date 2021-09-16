@@ -2794,3 +2794,185 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.16-06.39.03:410][300]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.09.16-06.39.03:410][300]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
 [2021.09.16-06.39.03:410][300]LogFileHelpers: Loading map 'Moon' took 0.524
+[2021.09.16-06.39.41:907][940]BlueprintLog: New page: Compile FloatingObject1
+[2021.09.16-06.39.41:958][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.09.16-06.39.50:627][456]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.16-06.39.51:581][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.09.16-06.40.01:754][ 43]BlueprintLog: New page: Compile FloatingObject1_2
+[2021.09.16-06.40.01:809][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.09.16-06.40.09:068][444]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.16-06.40.13:839][725]Cmd: TRANSACTION UNDO
+[2021.09.16-06.40.13:839][725]LogEditorTransaction: Undo Move Actors
+[2021.09.16-06.40.14:619][753]Cmd: TRANSACTION UNDO
+[2021.09.16-06.40.14:619][753]LogEditorTransaction: Undo Move Actors
+[2021.09.16-06.40.16:713][878]Cmd: TRANSACTION UNDO
+[2021.09.16-06.40.16:713][878]LogEditorTransaction: Undo Move Actors
+[2021.09.16-06.40.17:080][900]Cmd: TRANSACTION UNDO
+[2021.09.16-06.40.17:080][900]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.16-06.40.22:198][186]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-06.40.22:216][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-06.40.22:216][186]PIE: New page: PIE session: Moon (16 sep. 2021 10:40:22)
+[2021.09.16-06.40.22:239][186]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.09.16-06.40.22:242][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003364s)
+[2021.09.16-06.40.22:244][186]LogAIModule: Creating AISystem for world Moon
+[2021.09.16-06.40.22:244][186]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000287ABED3600), frame # 73186
+[2021.09.16-06.40.22:244][186]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002878C2C0180), frame # 73186
+[2021.09.16-06.40.22:245][186]LogPlayLevel: PIE: World Init took: (0.002083s)
+[2021.09.16-06.40.22:245][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.005637s)
+[2021.09.16-06.40.22:284][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.16-06.40.22:286][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-06.40.22:287][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-06.40.22:287][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-06.40.22:287][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-06.40.22:287][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-06.40.22:287][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-06.40.22:287][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-06.40.22:287][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-06.40.22:287][186]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-06.40.22:287][186]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-06.40.22:289][186]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-06.40.22:290][186]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-06.40.22:314][186]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.16-06.40.22:314][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-06.40.22:314][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-06.40.22:315][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-06.40.22:315][186]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-06.40.22:336][186]LogInit: FAudioDevice initialized.
+[2021.09.16-06.40.22:348][186]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.16-06.40.22:350][186]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.09.16-08.40.22
+[2021.09.16-06.40.22:350][186]LogWorld: Bringing up level for play took: 0.001546
+[2021.09.16-06.40.22:351][186]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.09.16-06.40.22:353][186]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-06.40.22:353][186]PIE: Server logged in
+[2021.09.16-06.40.22:354][186]PIE: Play in editor total start time 0,14 seconds.
+[2021.09.16-06.40.28:630][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-06.40.28:630][553]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.09.16-06.40.28:631][553]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-06.40.28:631][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.40.28:639][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-06.40.28:643][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.40.28:696][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-06.40.28:697][553]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000287ABED3600), frame # 73553
+[2021.09.16-06.40.28:697][553]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002878C2C0180), frame # 73553
+[2021.09.16-06.40.28:700][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.09.16-06.40.28:734][554]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.09.16-06.40.36:821][ 16]LogEditorViewport: Clicking on Actor (LMB): FloatingObject1_2_C (FloatingObject1_2)
+[2021.09.16-06.40.53:267][979]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-06.40.53:282][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-06.40.53:282][979]PIE: New page: PIE session: Moon (16 sep. 2021 10:40:53)
+[2021.09.16-06.40.53:282][979]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.09.16-06.40.53:285][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003406s)
+[2021.09.16-06.40.53:287][979]LogAIModule: Creating AISystem for world Moon
+[2021.09.16-06.40.53:287][979]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000287B3B69600), frame # 74979
+[2021.09.16-06.40.53:287][979]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002878C2C1440), frame # 74979
+[2021.09.16-06.40.53:288][979]LogPlayLevel: PIE: World Init took: (0.002445s)
+[2021.09.16-06.40.53:288][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.006095s)
+[2021.09.16-06.40.53:329][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.09.16-06.40.53:332][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-06.40.53:332][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-06.40.53:332][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-06.40.53:332][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-06.40.53:332][979]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-06.40.53:332][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-06.40.53:332][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-06.40.53:332][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-06.40.53:333][979]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-06.40.53:333][979]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-06.40.53:335][979]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-06.40.53:335][979]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-06.40.53:355][979]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.16-06.40.53:355][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-06.40.53:355][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-06.40.53:355][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-06.40.53:356][979]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-06.40.53:374][979]LogInit: FAudioDevice initialized.
+[2021.09.16-06.40.53:385][979]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.16-06.40.53:387][979]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.09.16-08.40.53
+[2021.09.16-06.40.53:388][979]LogWorld: Bringing up level for play took: 0.001421
+[2021.09.16-06.40.53:388][979]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.09.16-06.40.53:390][979]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-06.40.53:390][979]PIE: Server logged in
+[2021.09.16-06.40.53:391][979]PIE: Play in editor total start time 0,11 seconds.
+[2021.09.16-06.40.57:620][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-06.40.57:620][227]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.09.16-06.40.57:620][227]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-06.40.57:620][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.40.57:630][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-06.40.57:634][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.40.57:683][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-06.40.57:684][227]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002878C2C1440), frame # 75227
+[2021.09.16-06.40.57:684][227]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000287B3B69600), frame # 75227
+[2021.09.16-06.40.57:687][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.09.16-06.40.57:719][228]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.09.16-06.40.58:847][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.16-06.40.58:883][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.09.16-06.40.58:905][287]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/MoonBB9625734AE23483B3AB81B743247EAD.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.09.16-06.40.58:933][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.09.16-06.40.58:949][287]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltData98669B424C4B225E1D772CAEC62DE041.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.09.16-06.40.58:967][287]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.16-06.40.58:967][287]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.09.16-06.40.58:968][287]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.09.16-06.41.19:373][463]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-06.41.19:392][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-06.41.19:392][463]PIE: New page: PIE session: Moon (16 sep. 2021 10:41:19)
+[2021.09.16-06.41.19:392][463]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.09.16-06.41.19:396][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003714s)
+[2021.09.16-06.41.19:397][463]LogAIModule: Creating AISystem for world Moon
+[2021.09.16-06.41.19:397][463]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000287849F1A00), frame # 76463
+[2021.09.16-06.41.19:397][463]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000287B36D2980), frame # 76463
+[2021.09.16-06.41.19:397][463]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2021.09.16-06.41.19:397][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.005436s)
+[2021.09.16-06.41.19:437][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.09.16-06.41.19:440][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-06.41.19:440][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-06.41.19:440][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-06.41.19:440][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-06.41.19:440][463]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-06.41.19:440][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-06.41.19:440][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-06.41.19:440][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-06.41.19:440][463]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-06.41.19:440][463]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-06.41.19:443][463]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-06.41.19:443][463]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-06.41.19:466][463]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.16-06.41.19:466][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-06.41.19:466][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-06.41.19:466][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-06.41.19:467][463]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-06.41.19:486][463]LogInit: FAudioDevice initialized.
+[2021.09.16-06.41.19:496][463]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.16-06.41.19:499][463]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.09.16-08.41.19
+[2021.09.16-06.41.19:500][463]LogWorld: Bringing up level for play took: 0.001707
+[2021.09.16-06.41.19:500][463]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.09.16-06.41.19:502][463]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-06.41.19:502][463]PIE: Server logged in
+[2021.09.16-06.41.19:503][463]PIE: Play in editor total start time 0,113 seconds.
+[2021.09.16-06.41.23:170][678]LogCharacterMovement: SideScrollerCharacter_78 is stuck and failed to move! Velocity: X=0.00 Y=-108.90 Z=0.00 Location: X=0.00 Y=-1350.25 Z=148.15 Normal: X=-1.00 Y=0.00 Z=-0.00 PenetrationDepth:54.500 Actor:Projectile_C_0 Component:Cube BoneName:None (0 other events since notify)
+[2021.09.16-06.41.23:170][678]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2021.09.16-06.41.23:170][678]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2021.09.16-06.41.23:185][679]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2021.09.16-06.41.23:185][679]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2021.09.16-06.41.23:185][679]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2021.09.16-06.41.23:201][680]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2021.09.16-06.41.23:201][680]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2021.09.16-06.41.23:201][680]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2021.09.16-06.41.24:861][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-06.41.24:861][777]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.09.16-06.41.24:862][777]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-06.41.24:863][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.41.24:890][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-06.41.24:900][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.41.24:954][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-06.41.24:955][777]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000287B36D2980), frame # 76777
+[2021.09.16-06.41.24:955][777]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000287849F1A00), frame # 76777
+[2021.09.16-06.41.24:958][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.09.16-06.41.24:987][778]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.09.16-06.41.25:593][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.16-06.41.25:631][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.09.16-06.41.25:654][807]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon0519F63E48C09BEC785E978DDB035F21.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.09.16-06.41.25:682][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.09.16-06.41.25:697][807]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltData8554507247E2889C72DC608DDBEA7144.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.09.16-06.41.25:718][807]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.16-06.41.25:718][807]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.09.16-06.41.25:718][807]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
