@@ -2382,3 +2382,78 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.16-06.35.30:233][185]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.16-06.35.30:234][185]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
 [2021.09.16-06.35.30:234][185]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.09.16-06.36.47:462][817]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:462][817]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:464][817]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:464][817]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:465][817]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:465][817]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:465][817]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:465][817]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:466][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:466][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:466][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:466][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:466][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:466][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:467][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:468][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:468][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:468][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:468][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:468][817]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.36.47:541][817]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/NewMap.NewMap
+[2021.09.16-06.36.47:567][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.09.16-06.36.48:942][817]LogSlate: Window 'Save Content' being destroyed
+[2021.09.16-06.36.49:002][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FloatingObject1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/FloatingObject1.uasset" SILENT=true
+[2021.09.16-06.36.49:015][817]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/FloatingObject179D626AD454381EFBB0C858CABEE270D.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/FloatingObject1.uasset'
+[2021.09.16-06.36.49:058][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FloatingObject1_2" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/FloatingObject1_2.uasset" SILENT=true
+[2021.09.16-06.36.49:067][817]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/FloatingObject1_25ABC2A55414BDA0035E052982EAF4A9F.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/FloatingObject1_2.uasset'
+[2021.09.16-06.36.49:111][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.09.16-06.36.49:128][817]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1B893BE949FA9A2EBF74BDB0C1BE9DCC.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.09.16-06.36.49:130][817]Cmd: MAP LOAD FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.16-06.36.49:130][817]LightingResults: New page: Lighting Build
+[2021.09.16-06.36.49:130][817]LoadErrors: New page: Loading map: NewMap.umap
+[2021.09.16-06.36.49:175][817]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-06.36.49:175][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.36.49:175][817]MapCheck: New page: Map Check
+[2021.09.16-06.36.49:175][817]LightingResults: New page: Lighting Build
+[2021.09.16-06.36.49:202][817]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000286CAFDFE00), frame # 62817
+[2021.09.16-06.36.49:202][817]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000286D44E47C0), frame # 62817
+[2021.09.16-06.36.49:204][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.09.16-06.36.49:336][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.16-06.36.49:337][817]LogAIModule: Creating AISystem for world NewMap
+[2021.09.16-06.36.49:337][817]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028710063200), frame # 62817
+[2021.09.16-06.36.49:337][817]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002871A149580), frame # 62817
+[2021.09.16-06.36.49:362][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.09.16-06.36.49:378][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.16-06.36.49:379][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2021.09.16-06.36.49:379][817]LogFileHelpers: Loading map 'NewMap' took 0.249
+[2021.09.16-06.36.49:433][817]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.16-06.36.49:433][817]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FloatingObject1.FloatingObject1
+[2021.09.16-06.36.49:433][817]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FloatingObject1_2.FloatingObject1_2
+[2021.09.16-06.36.49:433][817]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.09.16-06.36.49:433][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test2_2
+[2021.09.16-06.36.49:433][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test3
+[2021.09.16-06.36.49:433][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test4
+[2021.09.16-06.36.49:433][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test5
+[2021.09.16-06.36.49:434][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test6
+[2021.09.16-06.36.49:434][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test_2
+[2021.09.16-06.36.49:434][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test2_2
+[2021.09.16-06.36.49:434][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test3
+[2021.09.16-06.36.49:434][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test4
+[2021.09.16-06.36.49:434][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test5
+[2021.09.16-06.36.49:434][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test6
+[2021.09.16-06.36.49:434][817]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test_2
