@@ -3314,3 +3314,255 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.09.16-06.49.27:807][703]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.16-06.49.27:807][703]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
 [2021.09.16-06.49.27:807][703]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.09.16-06.51.00:006][546]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-06.51.00:025][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-06.51.00:025][546]PIE: New page: PIE session: Moon (16 sep. 2021 10:51:00)
+[2021.09.16-06.51.00:025][546]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.09.16-06.51.00:029][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004105s)
+[2021.09.16-06.51.00:030][546]LogAIModule: Creating AISystem for world Moon
+[2021.09.16-06.51.00:031][546]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000287E7B5E000), frame # 97546
+[2021.09.16-06.51.00:031][546]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000286E4BDA980), frame # 97546
+[2021.09.16-06.51.00:031][546]LogPlayLevel: PIE: World Init took: (0.001795s)
+[2021.09.16-06.51.00:031][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.006105s)
+[2021.09.16-06.51.00:066][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.09.16-06.51.00:071][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-06.51.00:071][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-06.51.00:071][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-06.51.00:071][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-06.51.00:071][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-06.51.00:071][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-06.51.00:071][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-06.51.00:071][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-06.51.00:071][546]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-06.51.00:071][546]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-06.51.00:074][546]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-06.51.00:074][546]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-06.51.00:096][546]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.16-06.51.00:096][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-06.51.00:096][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-06.51.00:096][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-06.51.00:097][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-06.51.00:115][546]LogInit: FAudioDevice initialized.
+[2021.09.16-06.51.00:123][546]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.16-06.51.00:126][546]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.09.16-08.51.00
+[2021.09.16-06.51.00:126][546]LogWorld: Bringing up level for play took: 0.001884
+[2021.09.16-06.51.00:127][546]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.09.16-06.51.00:132][546]PIE: Server logged in
+[2021.09.16-06.51.00:133][546]PIE: Play in editor total start time 0,109 seconds.
+[2021.09.16-06.51.03:699][755]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=-270.73 Z=0.00 Location: X=0.00 Y=577.19 Z=148.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:58.000 Actor:Projectile_C_2 Component:Sphere BoneName:None (0 other events since notify)
+[2021.09.16-06.51.03:715][756]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2021.09.16-06.51.03:732][757]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2021.09.16-06.51.03:749][758]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2021.09.16-06.51.03:916][768]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2021.09.16-06.51.03:916][768]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2021.09.16-06.51.03:932][769]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2021.09.16-06.51.03:932][769]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2021.09.16-06.51.03:932][769]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2021.09.16-06.51.03:948][770]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2021.09.16-06.51.03:948][770]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2021.09.16-06.51.03:948][770]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2021.09.16-06.51.04:082][778]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2021.09.16-06.51.04:082][778]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2021.09.16-06.51.04:099][779]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2021.09.16-06.51.05:332][853]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2021.09.16-06.51.05:433][859]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=-600.00 Z=0.00 Location: X=0.00 Y=205.85 Z=148.15 Normal: X=-1.00 Y=0.00 Z=-0.00 PenetrationDepth:54.500 Actor:Projectile_C_8 Component:Cube BoneName:None (8 other events since notify)
+[2021.09.16-06.51.05:433][859]LogBlueprintUserMessages: [Projectile_C_8] Hello
+[2021.09.16-06.51.05:433][859]LogBlueprintUserMessages: [Projectile_C_8] Hello
+[2021.09.16-06.51.05:449][860]LogBlueprintUserMessages: [Projectile_C_8] Hello
+[2021.09.16-06.51.05:482][862]LogBlueprintUserMessages: [Projectile_C_8] Hello
+[2021.09.16-06.51.05:482][862]LogBlueprintUserMessages: [Projectile_C_8] Hello
+[2021.09.16-06.51.06:149][902]LogBlueprintUserMessages: [Projectile_C_9] Hello
+[2021.09.16-06.51.06:149][902]LogBlueprintUserMessages: [Projectile_C_9] Hello
+[2021.09.16-06.51.06:165][903]LogBlueprintUserMessages: [Projectile_C_9] Hello
+[2021.09.16-06.51.06:199][905]LogBlueprintUserMessages: [Projectile_C_9] Hello
+[2021.09.16-06.51.06:199][905]LogBlueprintUserMessages: [Projectile_C_9] Hello
+[2021.09.16-06.51.06:333][913]LogBlueprintUserMessages: [Projectile_C_10] Hello
+[2021.09.16-06.51.06:333][913]LogBlueprintUserMessages: [Projectile_C_10] Hello
+[2021.09.16-06.51.06:349][914]LogBlueprintUserMessages: [Projectile_C_10] Hello
+[2021.09.16-06.51.07:233][967]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=-44.08 Z=0.00 Location: X=0.00 Y=-154.96 Z=148.15 Normal: X=-1.00 Y=0.00 Z=-0.00 PenetrationDepth:54.500 Actor:Projectile_C_14 Component:Cube BoneName:None (2 other events since notify)
+[2021.09.16-06.51.07:233][967]LogBlueprintUserMessages: [Projectile_C_14] Hello
+[2021.09.16-06.51.07:233][967]LogBlueprintUserMessages: [Projectile_C_14] Hello
+[2021.09.16-06.51.07:248][968]LogBlueprintUserMessages: [Projectile_C_14] Hello
+[2021.09.16-06.51.07:449][980]LogBlueprintUserMessages: [Projectile_C_15] Hello
+[2021.09.16-06.51.07:449][980]LogBlueprintUserMessages: [Projectile_C_15] Hello
+[2021.09.16-06.51.07:465][981]LogBlueprintUserMessages: [Projectile_C_15] Hello
+[2021.09.16-06.51.07:699][995]LogBlueprintUserMessages: [Projectile_C_16] Hello
+[2021.09.16-06.51.07:699][995]LogBlueprintUserMessages: [Projectile_C_16] Hello
+[2021.09.16-06.51.07:715][996]LogBlueprintUserMessages: [Projectile_C_16] Hello
+[2021.09.16-06.51.07:833][  3]LogBlueprintUserMessages: [Projectile_C_16] Hello
+[2021.09.16-06.51.07:833][  3]LogBlueprintUserMessages: [Projectile_C_14] Hello
+[2021.09.16-06.51.07:833][  3]LogBlueprintUserMessages: [Projectile_C_16] Hello
+[2021.09.16-06.51.07:950][ 10]LogBlueprintUserMessages: [Projectile_C_17] Hello
+[2021.09.16-06.51.07:950][ 10]LogBlueprintUserMessages: [Projectile_C_17] Hello
+[2021.09.16-06.51.07:966][ 11]LogBlueprintUserMessages: [Projectile_C_17] Hello
+[2021.09.16-06.51.08:199][ 25]LogBlueprintUserMessages: [Projectile_C_18] Hello
+[2021.09.16-06.51.08:199][ 25]LogBlueprintUserMessages: [Projectile_C_18] Hello
+[2021.09.16-06.51.08:199][ 25]LogBlueprintUserMessages: [Projectile_C_18] Hello
+[2021.09.16-06.51.08:215][ 26]LogBlueprintUserMessages: [Projectile_C_18] Hello
+[2021.09.16-06.51.08:215][ 26]LogBlueprintUserMessages: [Projectile_C_18] Hello
+[2021.09.16-06.51.08:215][ 26]LogBlueprintUserMessages: [Projectile_C_18] Hello
+[2021.09.16-06.51.08:583][ 48]LogBlueprintUserMessages: [Projectile_C_19] Hello
+[2021.09.16-06.51.08:583][ 48]LogBlueprintUserMessages: [Projectile_C_19] Hello
+[2021.09.16-06.51.08:583][ 48]LogBlueprintUserMessages: [Projectile_C_19] Hello
+[2021.09.16-06.51.08:598][ 49]LogBlueprintUserMessages: [Projectile_C_19] Hello
+[2021.09.16-06.51.08:632][ 51]LogBlueprintUserMessages: [Projectile_C_19] Hello
+[2021.09.16-06.51.08:816][ 62]LogBlueprintUserMessages: [Projectile_C_20] Hello
+[2021.09.16-06.51.08:816][ 62]LogBlueprintUserMessages: [Projectile_C_20] Hello
+[2021.09.16-06.51.08:816][ 62]LogBlueprintUserMessages: [Projectile_C_20] Hello
+[2021.09.16-06.51.08:832][ 63]LogBlueprintUserMessages: [Projectile_C_20] Hello
+[2021.09.16-06.51.08:899][ 67]LogBlueprintUserMessages: [Projectile_C_20] Hello
+[2021.09.16-06.51.09:000][ 73]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:000][ 73]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:001][ 73]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:016][ 74]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:016][ 74]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:016][ 74]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:016][ 74]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:016][ 74]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:016][ 74]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:016][ 74]LogBlueprintUserMessages: [Projectile_C_21] Hello
+[2021.09.16-06.51.09:199][ 85]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:199][ 85]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:199][ 85]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:215][ 86]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:215][ 86]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:215][ 86]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:215][ 86]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:215][ 86]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:216][ 86]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:216][ 86]LogBlueprintUserMessages: [Projectile_C_22] Hello
+[2021.09.16-06.51.09:402][ 97]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:402][ 97]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:402][ 97]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:417][ 98]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:417][ 98]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:417][ 98]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:418][ 98]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:418][ 98]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:418][ 98]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:418][ 98]LogBlueprintUserMessages: [Projectile_C_23] Hello
+[2021.09.16-06.51.09:632][110]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:632][110]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:633][110]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:654][111]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:654][111]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:654][111]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:654][111]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:654][111]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:654][111]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:654][111]LogBlueprintUserMessages: [Projectile_C_24] Hello
+[2021.09.16-06.51.09:840][122]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:840][122]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:840][122]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:861][123]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:861][123]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:861][123]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:862][123]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:862][123]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:862][123]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.09:862][123]LogBlueprintUserMessages: [Projectile_C_25] Hello
+[2021.09.16-06.51.10:051][134]LogBlueprintUserMessages: [Projectile_C_26] Hello
+[2021.09.16-06.51.10:051][134]LogBlueprintUserMessages: [Projectile_C_26] Hello
+[2021.09.16-06.51.10:051][134]LogBlueprintUserMessages: [Projectile_C_26] Hello
+[2021.09.16-06.51.10:066][135]LogBlueprintUserMessages: [Projectile_C_26] Hello
+[2021.09.16-06.51.10:285][148]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=246.04 Z=0.00 Location: X=0.00 Y=279.28 Z=148.15 Normal: X=1.00 Y=-0.00 Z=-0.00 PenetrationDepth:54.500 Actor:Projectile_C_27 Component:Cube BoneName:None (6 other events since notify)
+[2021.09.16-06.51.10:285][148]LogBlueprintUserMessages: [Projectile_C_27] Hello
+[2021.09.16-06.51.10:285][148]LogBlueprintUserMessages: [Projectile_C_27] Hello
+[2021.09.16-06.51.10:299][149]LogBlueprintUserMessages: [Projectile_C_27] Hello
+[2021.09.16-06.51.10:299][149]LogBlueprintUserMessages: [Projectile_C_27] Hello
+[2021.09.16-06.51.10:299][149]LogBlueprintUserMessages: [Projectile_C_27] Hello
+[2021.09.16-06.51.17:857][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-06.51.17:857][601]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.09.16-06.51.17:858][601]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-06.51.17:858][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.51.17:867][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-06.51.17:872][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.51.17:924][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-06.51.17:926][601]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000286E4BDA980), frame # 98601
+[2021.09.16-06.51.17:926][601]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000287E7B5E000), frame # 98601
+[2021.09.16-06.51.17:930][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.09.16-06.51.17:953][602]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.09.16-06.51.20:651][733]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:651][733]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:653][733]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:653][733]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:654][733]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:654][733]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:654][733]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:654][733]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:655][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:656][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:656][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:656][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:656][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:656][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:656][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:656][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:657][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:657][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:657][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:657][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:657][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:657][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:657][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:657][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:658][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:658][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:658][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:658][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:658][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:658][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:658][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:658][733]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.09.16-06.51.20:669][733]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/NewMap.NewMap
+[2021.09.16-06.51.20:705][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.09.16-06.51.20:706][733]Cmd: MAP LOAD FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.16-06.51.20:707][733]LightingResults: New page: Lighting Build
+[2021.09.16-06.51.20:707][733]LoadErrors: New page: Loading map: NewMap.umap
+[2021.09.16-06.51.20:708][733]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-06.51.20:708][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.51.20:708][733]MapCheck: New page: Map Check
+[2021.09.16-06.51.20:708][733]LightingResults: New page: Lighting Build
+[2021.09.16-06.51.20:739][733]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000287E209C680), frame # 98733
+[2021.09.16-06.51.20:739][733]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002870BD35C00), frame # 98733
+[2021.09.16-06.51.20:742][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.09.16-06.51.21:280][733]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.16-06.51.21:280][733]LogAIModule: Creating AISystem for world NewMap
+[2021.09.16-06.51.21:281][733]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028773326200), frame # 98733
+[2021.09.16-06.51.21:281][733]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000287D8AA1BC0), frame # 98733
+[2021.09.16-06.51.21:314][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.09.16-06.51.21:336][733]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.16-06.51.21:336][733]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,132ms to complete.
+[2021.09.16-06.51.21:336][733]LogFileHelpers: Loading map 'NewMap' took 0.630
+[2021.09.16-06.51.21:416][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test2_2
+[2021.09.16-06.51.21:416][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test3
+[2021.09.16-06.51.21:416][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test4
+[2021.09.16-06.51.21:416][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test5
+[2021.09.16-06.51.21:416][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test6
+[2021.09.16-06.51.21:416][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test_2
+[2021.09.16-06.51.21:416][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test2_2
+[2021.09.16-06.51.21:416][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test3
+[2021.09.16-06.51.21:417][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test4
+[2021.09.16-06.51.21:417][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test5
+[2021.09.16-06.51.21:417][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test6
+[2021.09.16-06.51.21:417][733]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test_2
+[2021.09.16-06.51.22:008][763]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Moon.Moon
+[2021.09.16-06.51.22:044][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.09.16-06.51.22:046][763]Cmd: MAP LOAD FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.16-06.51.22:046][763]LightingResults: New page: Lighting Build
+[2021.09.16-06.51.22:046][763]LoadErrors: New page: Loading map: Moon.umap
+[2021.09.16-06.51.22:047][763]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-06.51.22:047][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-06.51.22:047][763]MapCheck: New page: Map Check
+[2021.09.16-06.51.22:047][763]LightingResults: New page: Lighting Build
+[2021.09.16-06.51.22:077][763]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000287D8AA1BC0), frame # 98763
+[2021.09.16-06.51.22:077][763]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028773326200), frame # 98763
+[2021.09.16-06.51.22:080][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.09.16-06.51.22:669][763]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.16-06.51.22:669][763]LogAIModule: Creating AISystem for world Moon
+[2021.09.16-06.51.22:669][763]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028704887800), frame # 98763
+[2021.09.16-06.51.22:669][763]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000286E4BDBEC0), frame # 98763
+[2021.09.16-06.51.22:703][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.09.16-06.51.22:726][763]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.16-06.51.22:726][763]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,158ms to complete.
+[2021.09.16-06.51.22:726][763]LogFileHelpers: Loading map 'Moon' took 0.680
