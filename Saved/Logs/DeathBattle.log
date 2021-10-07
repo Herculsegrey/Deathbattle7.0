@@ -2616,3 +2616,744 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-07.03.12:018][182]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.07-07.03.12:018][182]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
 [2021.10.07-07.03.12:018][182]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.10.07-07.03.50:959][110]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.10.07-07.03.51:004][110]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.10.07-07.03.51:069][110]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2021.10.07-07.03.51:069][110]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2021.10.07-07.03.51:070][110]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2021.10.07-07.03.51:070][110]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2021.10.07-07.03.51:070][110]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.10.07-07.03.51:190][110]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.03.52:540][110]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 125 classes and 0 folders.
+[2021.10.07-07.03.54:997][110]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2021.10.07-07.03.55:107][110]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2021.10.07-07.03.55:375][110]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.10.07-07.03.55:375][110]LogSlate: Took 0.000471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.07-07.03.55:582][111]LogSlate: Took 0.014818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.07-07.03.56:023][127]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 234
+[2021.10.07-07.03.56:168][130]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 224
+[2021.10.07-07.03.58:230][193]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2021.10.07-07.03.58:531][206]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 214
+[2021.10.07-07.03.58:781][213]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 204
+[2021.10.07-07.04.05:601][489]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 194
+[2021.10.07-07.04.06:289][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 184
+[2021.10.07-07.04.07:916][587]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 174
+[2021.10.07-07.04.09:801][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 164
+[2021.10.07-07.04.17:187][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 154
+[2021.10.07-07.04.18:034][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 144
+[2021.10.07-07.04.19:465][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 134
+[2021.10.07-07.04.20:266][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 124
+[2021.10.07-07.04.25:867][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 114
+[2021.10.07-07.04.31:184][706]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2021.10.07-07.04.31:479][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2021.10.07-07.04.31:976][745]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2021.10.07-07.04.37:082][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2021.10.07-07.04.43:848][304]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2021.10.07-07.04.44:155][317]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2021.10.07-07.04.47:466][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2021.10.07-07.04.51:374][659]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.10.07-07.04.57:583][957]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.10.07-07.05.01:882][151]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.10.07-07.05.03:595][230]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.10.07-07.05.06:796][376]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.10.07-07.05.09:979][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.10.07-07.05.13:124][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.10.07-07.05.13:728][633]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.10.07-07.05.13:728][633]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.07-07.08.50:354][200]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.10.15:286][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-07.10.15:319][211]PIE: New page: PIE session: Moon (7 okt. 2021 11:10:15)
+[2021.10.07-07.10.15:323][211]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.07-07.10.15:328][211]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.07-07.10.15:328][211]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.15:335][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006756s)
+[2021.10.07-07.10.15:336][211]LogAIModule: Creating AISystem for world Moon
+[2021.10.07-07.10.15:336][211]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020E5C0EBE00), frame # 76211
+[2021.10.07-07.10.15:336][211]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E5C114680), frame # 76211
+[2021.10.07-07.10.15:336][211]LogPlayLevel: PIE: World Init took: (0.002015s)
+[2021.10.07-07.10.15:336][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.009008s)
+[2021.10.07-07.10.15:372][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.10.07-07.10.15:374][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-07.10.15:374][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-07.10.15:374][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-07.10.15:374][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-07.10.15:374][211]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-07.10.15:374][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-07.10.15:374][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-07.10.15:374][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-07.10.15:375][211]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.07-07.10.15:375][211]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-07.10.15:378][211]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-07.10.15:378][211]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-07.10.15:403][211]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.10.07-07.10.15:403][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-07.10.15:403][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-07.10.15:403][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-07.10.15:404][211]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-07.10.15:423][211]LogInit: FAudioDevice initialized.
+[2021.10.07-07.10.15:490][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.15:499][211]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.10.07-07.10.15:501][211]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.10.07-09.10.15
+[2021.10.07-07.10.15:502][211]LogWorld: Bringing up level for play took: 0.000968
+[2021.10.07-07.10.15:502][211]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.10.07-07.10.15:508][211]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2021.10.07-07.10.15:521][211]PIE: Server logged in
+[2021.10.07-07.10.15:522][211]PIE: Play in editor total start time 0,237 seconds.
+[2021.10.07-07.10.15:533][211]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2021.10.07-07.10.15:537][211]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2021.10.07-07.10.24:040][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.24:040][618]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.24:041][618]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.10.07-07.10.24:062][618]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-07.10.24:065][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.24:077][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-07.10.24:083][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.24:190][618]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020E5C0EBE00), frame # 76618
+[2021.10.07-07.10.24:190][618]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E5C114680), frame # 76618
+[2021.10.07-07.10.24:200][618]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2021.10.07-07.10.24:242][619]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.10.07-07.10.25:898][718]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.07-07.10.25:928][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-07.10.25:928][718]PIE: New page: PIE session: Moon (7 okt. 2021 11:10:25)
+[2021.10.07-07.10.25:929][718]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.25:934][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005516s)
+[2021.10.07-07.10.25:937][718]LogAIModule: Creating AISystem for world Moon
+[2021.10.07-07.10.25:937][718]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020E90675400), frame # 76718
+[2021.10.07-07.10.25:937][718]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E96697880), frame # 76718
+[2021.10.07-07.10.25:937][718]LogPlayLevel: PIE: World Init took: (0.002555s)
+[2021.10.07-07.10.25:937][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.008423s)
+[2021.10.07-07.10.25:979][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.10.07-07.10.25:980][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-07.10.25:980][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-07.10.25:980][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-07.10.25:980][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-07.10.25:980][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-07.10.25:980][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-07.10.25:980][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-07.10.25:980][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-07.10.25:981][718]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.07-07.10.25:981][718]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-07.10.25:983][718]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-07.10.25:983][718]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-07.10.26:010][718]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.10.07-07.10.26:010][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-07.10.26:010][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-07.10.26:010][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-07.10.26:011][718]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-07.10.26:033][718]LogInit: FAudioDevice initialized.
+[2021.10.07-07.10.26:090][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.26:090][718]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.10.07-07.10.26:092][718]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.10.07-09.10.26
+[2021.10.07-07.10.26:093][718]LogWorld: Bringing up level for play took: 0.001358
+[2021.10.07-07.10.26:093][718]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.10.07-07.10.26:108][718]PIE: Server logged in
+[2021.10.07-07.10.26:110][718]PIE: Play in editor total start time 0,186 seconds.
+[2021.10.07-07.10.29:431][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.29:431][824]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.29:431][824]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.10.07-07.10.29:456][824]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-07.10.29:459][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.29:476][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-07.10.29:481][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.29:569][824]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E96697880), frame # 76824
+[2021.10.07-07.10.29:569][824]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020E90675400), frame # 76824
+[2021.10.07-07.10.29:574][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.10.07-07.10.29:622][825]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.10.07-07.10.31:895][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-07.10.31:896][943]PIE: New page: PIE session: Moon (7 okt. 2021 11:10:31)
+[2021.10.07-07.10.31:896][943]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.31:900][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003777s)
+[2021.10.07-07.10.31:901][943]LogAIModule: Creating AISystem for world Moon
+[2021.10.07-07.10.31:901][943]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020E8E37D600), frame # 76943
+[2021.10.07-07.10.31:901][943]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E8AD8E840), frame # 76943
+[2021.10.07-07.10.31:902][943]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2021.10.07-07.10.31:902][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.005672s)
+[2021.10.07-07.10.31:938][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.10.07-07.10.31:939][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-07.10.31:939][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-07.10.31:939][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-07.10.31:939][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-07.10.31:939][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-07.10.31:939][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-07.10.31:939][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-07.10.31:939][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-07.10.31:940][943]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.07-07.10.31:940][943]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-07.10.31:943][943]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-07.10.31:943][943]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-07.10.31:970][943]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.10.07-07.10.31:971][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-07.10.31:971][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-07.10.31:971][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-07.10.31:972][943]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-07.10.31:992][943]LogInit: FAudioDevice initialized.
+[2021.10.07-07.10.32:055][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.32:055][943]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.10.07-07.10.32:057][943]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.10.07-09.10.32
+[2021.10.07-07.10.32:058][943]LogWorld: Bringing up level for play took: 0.001432
+[2021.10.07-07.10.32:058][943]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.10.07-07.10.32:071][943]PIE: Server logged in
+[2021.10.07-07.10.32:073][943]PIE: Play in editor total start time 0,179 seconds.
+[2021.10.07-07.10.33:227][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.33:227][977]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.33:228][977]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.10.07-07.10.33:232][977]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-07.10.33:234][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.33:250][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-07.10.33:258][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.33:342][977]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E8AD8E840), frame # 76977
+[2021.10.07-07.10.33:342][977]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020E8E37D600), frame # 76977
+[2021.10.07-07.10.33:347][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.10.07-07.10.33:384][978]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.10.07-07.10.37:468][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-07.10.37:468][202]PIE: New page: SIE session: Moon (7 okt. 2021 11:10:37)
+[2021.10.07-07.10.37:468][202]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.37:472][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003895s)
+[2021.10.07-07.10.37:475][202]LogAIModule: Creating AISystem for world Moon
+[2021.10.07-07.10.37:475][202]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020E87153E00), frame # 77202
+[2021.10.07-07.10.37:475][202]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E8715FD80), frame # 77202
+[2021.10.07-07.10.37:475][202]LogPlayLevel: PIE: World Init took: (0.002659s)
+[2021.10.07-07.10.37:475][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.006762s)
+[2021.10.07-07.10.37:509][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.10.07-07.10.37:510][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-07.10.37:510][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-07.10.37:510][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-07.10.37:510][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-07.10.37:510][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-07.10.37:510][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-07.10.37:510][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-07.10.37:510][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-07.10.37:511][202]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.07-07.10.37:511][202]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-07.10.37:513][202]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-07.10.37:513][202]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-07.10.37:535][202]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.10.07-07.10.37:535][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-07.10.37:535][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-07.10.37:535][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-07.10.37:536][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-07.10.37:556][202]LogInit: FAudioDevice initialized.
+[2021.10.07-07.10.37:569][202]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.10.07-07.10.37:571][202]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.10.07-09.10.37
+[2021.10.07-07.10.37:571][202]LogWorld: Bringing up level for play took: 0.000849
+[2021.10.07-07.10.37:571][202]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.10.07-07.10.37:578][202]PIE: Server logged in
+[2021.10.07-07.10.37:579][202]PIE: Play in editor total start time 0,111 seconds.
+[2021.10.07-07.10.39:032][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.39:032][287]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.39:033][287]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-07.10.39:034][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.39:049][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-07.10.39:054][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.39:118][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.39:119][287]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E8715FD80), frame # 77287
+[2021.10.07-07.10.39:119][287]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020E87153E00), frame # 77287
+[2021.10.07-07.10.39:123][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.10.07-07.10.39:163][288]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.10.07-07.10.43:072][495]LogTemp: Repeating last play command: Simulate
+[2021.10.07-07.10.43:095][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-07.10.43:095][495]PIE: New page: SIE session: Moon (7 okt. 2021 11:10:43)
+[2021.10.07-07.10.43:096][495]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.43:099][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003848s)
+[2021.10.07-07.10.43:101][495]LogAIModule: Creating AISystem for world Moon
+[2021.10.07-07.10.43:101][495]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020E954D4600), frame # 77495
+[2021.10.07-07.10.43:101][495]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E8FB891C0), frame # 77495
+[2021.10.07-07.10.43:101][495]LogPlayLevel: PIE: World Init took: (0.001751s)
+[2021.10.07-07.10.43:101][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.005770s)
+[2021.10.07-07.10.43:139][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.10.07-07.10.43:142][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-07.10.43:142][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-07.10.43:142][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-07.10.43:142][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-07.10.43:142][495]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-07.10.43:142][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-07.10.43:142][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-07.10.43:142][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-07.10.43:144][495]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.07-07.10.43:144][495]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-07.10.43:146][495]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-07.10.43:146][495]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-07.10.43:169][495]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.10.07-07.10.43:169][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-07.10.43:169][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-07.10.43:169][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-07.10.43:169][495]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-07.10.43:190][495]LogInit: FAudioDevice initialized.
+[2021.10.07-07.10.43:205][495]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.10.07-07.10.43:207][495]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.10.07-09.10.43
+[2021.10.07-07.10.43:208][495]LogWorld: Bringing up level for play took: 0.001007
+[2021.10.07-07.10.43:208][495]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.10.07-07.10.43:217][495]PIE: Server logged in
+[2021.10.07-07.10.43:218][495]PIE: Play in editor total start time 0,124 seconds.
+[2021.10.07-07.10.44:297][554]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.07-07.10.45:737][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.07-07.10.46:992][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.46:992][684]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.46:994][684]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-07.10.46:996][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.47:020][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-07.10.47:034][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.47:110][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.47:112][684]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E8FB891C0), frame # 77684
+[2021.10.07-07.10.47:112][684]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020E954D4600), frame # 77684
+[2021.10.07-07.10.47:117][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.10.07-07.10.47:156][685]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.10.07-07.10.49:001][763]LogTemp: Repeating last play command: Simulate
+[2021.10.07-07.10.49:032][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-07.10.49:032][763]PIE: New page: SIE session: Moon (7 okt. 2021 11:10:49)
+[2021.10.07-07.10.49:032][763]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.49:039][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006249s)
+[2021.10.07-07.10.49:040][763]LogAIModule: Creating AISystem for world Moon
+[2021.10.07-07.10.49:041][763]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020E88BEA400), frame # 77763
+[2021.10.07-07.10.49:041][763]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E8FB89800), frame # 77763
+[2021.10.07-07.10.49:041][763]LogPlayLevel: PIE: World Init took: (0.002328s)
+[2021.10.07-07.10.49:041][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.008777s)
+[2021.10.07-07.10.49:088][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.10.07-07.10.49:091][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-07.10.49:091][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-07.10.49:091][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-07.10.49:091][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-07.10.49:091][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-07.10.49:091][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-07.10.49:091][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-07.10.49:091][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-07.10.49:093][763]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.07-07.10.49:093][763]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-07.10.49:097][763]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-07.10.49:097][763]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-07.10.49:125][763]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.10.07-07.10.49:125][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-07.10.49:126][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-07.10.49:126][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-07.10.49:126][763]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-07.10.49:151][763]LogInit: FAudioDevice initialized.
+[2021.10.07-07.10.49:165][763]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.10.07-07.10.49:167][763]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.10.07-09.10.49
+[2021.10.07-07.10.49:167][763]LogWorld: Bringing up level for play took: 0.001012
+[2021.10.07-07.10.49:168][763]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.10.07-07.10.49:175][763]PIE: Server logged in
+[2021.10.07-07.10.49:176][763]PIE: Play in editor total start time 0,145 seconds.
+[2021.10.07-07.10.49:882][799]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.07-07.10.50:857][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.50:857][847]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.10.50:857][847]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-07.10.50:860][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.50:873][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-07.10.50:878][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.10.50:949][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.10.50:951][847]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E8FB89800), frame # 77847
+[2021.10.07-07.10.50:951][847]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020E88BEA400), frame # 77847
+[2021.10.07-07.10.50:955][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.10.07-07.10.50:999][848]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.07-07.11.11:298][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-07.11.11:298][922]PIE: New page: PIE session: Moon (7 okt. 2021 11:11:11)
+[2021.10.07-07.11.11:299][922]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.11.11:304][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005280s)
+[2021.10.07-07.11.11:306][922]LogAIModule: Creating AISystem for world Moon
+[2021.10.07-07.11.11:306][922]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020EED97BE00), frame # 78922
+[2021.10.07-07.11.11:306][922]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E875A5580), frame # 78922
+[2021.10.07-07.11.11:307][922]LogPlayLevel: PIE: World Init took: (0.002734s)
+[2021.10.07-07.11.11:307][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Moon.Moon to /Game/Map/UEDPIE_0_Moon.Moon (0.008217s)
+[2021.10.07-07.11.11:345][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.10.07-07.11.11:349][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-07.11.11:349][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-07.11.11:349][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-07.11.11:349][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-07.11.11:349][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-07.11.11:349][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-07.11.11:349][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-07.11.11:349][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-07.11.11:349][922]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.07-07.11.11:349][922]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-07.11.11:352][922]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-07.11.11:352][922]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-07.11.11:375][922]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.10.07-07.11.11:376][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-07.11.11:376][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-07.11.11:376][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-07.11.11:376][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-07.11.11:398][922]LogInit: FAudioDevice initialized.
+[2021.10.07-07.11.11:411][922]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.10.07-07.11.11:413][922]LogWorld: Bringing World /Game/Map/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2021.10.07-09.11.11
+[2021.10.07-07.11.11:414][922]LogWorld: Bringing up level for play took: 0.000867
+[2021.10.07-07.11.11:414][922]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.10.07-07.11.11:425][922]PIE: Server logged in
+[2021.10.07-07.11.11:426][922]PIE: Play in editor total start time 0,129 seconds.
+[2021.10.07-07.11.15:369][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.11.15:369][ 71]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Moon
+[2021.10.07-07.11.15:369][ 71]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-07.11.15:370][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.11.15:392][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-07.11.15:399][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-07.11.15:459][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-07.11.15:460][ 71]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E875A5580), frame # 79071
+[2021.10.07-07.11.15:460][ 71]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020EED97BE00), frame # 79071
+[2021.10.07-07.11.15:464][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.10.07-07.11.15:509][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.07-07.11.20:113][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.10.07-07.11.21:276][380]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.11.21:351][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.10.07-07.12.14:635][ 27]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2021.10.07-07.13.43:131][117]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.13.43:155][117]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "Redo?" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set Redo?
+[2021.10.07-07.13.43:155][117]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "Redo?" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set Redo?
+[2021.10.07-07.13.43:155][117]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "Redo?" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Get Redo?
+[2021.10.07-07.13.43:158][117]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Redo?  could not be found in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C'
+[2021.10.07-07.13.43:158][117]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Redo?  could not be found in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C'
+[2021.10.07-07.13.43:158][117]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Redo?  could not be found in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C'
+[2021.10.07-07.13.43:226][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.10.07-07.13.43:346][117]LogSlate: Took 0.024885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.07-07.14.17:147][ 58]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.14.17:232][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.10.07-07.14.41:578][498]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.14.41:646][498]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2021.10.07-07.14.50:609][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.07-07.14.52:981][140]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.14.53:040][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.10.07-07.14.55:145][140]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.14.55:204][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.14.55:245][140]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/ProjectileFBDCF76A4854D9CD1F662F94478D575E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.14.55:321][140]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter781818134F6A6CE5AE8F0C866870DB3B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.14.55:368][141]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-07.14.55:368][141]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.14.55:368][141]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.15.59:938][141]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.16.00:005][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.10.07-07.16.01:856][236]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.16.01:917][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.10.07-07.16.03:200][236]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.16.03:258][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.16.03:293][236]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile3C568F634BFD92D220F0A7948802F6D6.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.16.03:337][237]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.16.03:337][237]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.17.01:794][871]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.17.01:858][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.10.07-07.17.52:074][692]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2021.10.07-07.18.48:581][482]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2021.10.07-07.21.15:707][250]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.21.15:719][250]LogBlueprint: Error: [Compiler Projectile] The current value of the ' Tag Container ' pin is invalid: 'Tag Container' in action 'Has Tag' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.10.07-07.21.15:802][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.10.07-07.21.49:876][125]LogSlate: Took 0.014843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.07-07.22.01:947][796]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.22.02:021][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.10.07-07.22.10:171][252]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.22.10:249][252]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.10.07-07.22.19:750][762]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.22.19:815][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.10.07-07.22.21:454][762]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.22.21:511][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.22.21:574][762]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile2B3266EB446E0284EE2CBD80B40CE131.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.22.21:656][762]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterB88EA77547AF2C9EB28F43A1FEF4271A.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.22.21:707][763]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-07.22.21:707][763]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.22.21:707][763]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.22.54:497][296]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.07-07.22.55:559][358]LogWindows: LaunchFileInExternalEditor C:/Unreal/UE_4.25/Engine/Source/Runtime/GameplayTags/Classes/BlueprintGameplayTagLibrary.h 
+[2021.10.07-07.22.55:654][358]LogWindows: Launch application code for C:/Unreal/UE_4.25/Engine/Source/Runtime/GameplayTags/Classes/BlueprintGameplayTagLibrary.h : 42
+[2021.10.07-07.22.55:654][358]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.10.07-07.22.55:660][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:660][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:660][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:660][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:660][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:660][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:660][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:661][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:662][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:663][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:664][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:665][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:666][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:666][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:666][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:666][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:666][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:666][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:667][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:668][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:669][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:670][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:671][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:672][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:673][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:673][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:676][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:676][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:676][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:676][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:676][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:677][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:681][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:693][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:693][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:694][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:694][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:694][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:703][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:703][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:703][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:709][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:724][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:736][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:739][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:740][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:740][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:817][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:833][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:833][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:833][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:833][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:843][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:850][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:855][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:860][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:861][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.22.55:861][358]LogVSAccessor: Warning: Couldn't access module table
+[2021.10.07-07.24.25:968][507]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.24.26:038][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.10.07-07.24.37:302][118]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.24.37:404][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.10.07-07.26.34:816][766]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.26.34:869][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.10.07-07.26.59:030][197]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.26.59:089][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.10.07-07.27.44:426][756]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.27.44:503][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.10.07-07.27.45:631][812]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter9DEA99804C25C12D5114E98F679BC85F.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.27.45:647][812]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-07.27.45:647][812]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.28.13:261][228]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2021.10.07-07.28.13:265][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Moon' took 0.078
+[2021.10.07-07.28.13:266][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Gustav/Projectile] ([1] browsable assets)...
+[2021.10.07-07.28.13:267][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gustav/Projectile]
+[2021.10.07-07.28.13:347][228]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile_Auto12AEE3C384CF2B7EA475766943343D34C.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Gustav/Projectile_Auto1.uasset'
+[2021.10.07-07.28.13:351][228]LogFileHelpers: Auto-saving content packages took 0.086
+[2021.10.07-07.29.22:246][136]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.29.22:336][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.10.07-07.29.26:267][360]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.29.26:325][360]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.10.07-07.29.27:626][360]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.29.27:667][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.29.27:704][360]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/ProjectileC4F68DAD43804C553E30A8B1DE96F228.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.29.27:771][360]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter5B7085E746E96C9FC7757AAECBD35AE4.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.29.27:819][361]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-07.29.27:819][361]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.29.27:819][361]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.31.12:515][796]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.31.12:576][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.10.07-07.31.14:685][911]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.31.14:737][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.10.07-07.31.16:067][911]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.31.16:121][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.31.16:159][911]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile4456E6D14EB19165F655FE9E699FB894.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.31.16:193][912]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.31.16:193][912]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.31.29:917][704]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.31.29:986][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.10.07-07.32.16:305][492]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.32.16:363][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.10.07-07.32.17:528][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.32.17:561][555]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile002445F44E13AD7921C8A79166D0D94B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.32.17:577][555]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.32.17:577][555]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.33.12:214][764]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.33.12:276][764]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.10.07-07.33.14:069][861]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.33.14:124][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.10.07-07.33.15:815][861]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.33.15:853][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.33.15:887][861]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile2D52AE1E4F9394038150228B13F9F37B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.33.15:921][862]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.33.15:921][862]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.34.05:243][295]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.34.05:299][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.10.07-07.34.07:330][411]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.34.07:381][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.10.07-07.34.08:417][411]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.34.08:462][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.34.08:490][411]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile614C88F3460E253429D6DB9059CBB043.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.34.08:526][412]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.34.08:526][412]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.35.43:380][703]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.35.43:442][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.10.07-07.35.55:544][417]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.35.55:606][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.10.07-07.35.57:517][522]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.35.57:566][522]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.10.07-07.35.58:903][522]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.35.58:950][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.35.58:986][522]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/ProjectileFC159EB04FABD52BB5E97480AA1CF2B1.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.35.59:028][523]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.35.59:028][523]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.36.48:370][ 48]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.36.48:427][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.10.07-07.37.04:136][959]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.37.04:242][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.10.07-07.37.07:588][130]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.37.07:657][130]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.10.07-07.37.08:957][130]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.37.09:026][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.37.09:076][130]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile3B43FE2644F246251CD41E8205A32E27.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.37.09:166][130]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter4962363649DC6BDEC0E5A08083A1E20C.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.37.09:221][131]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-07.37.09:221][131]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.37.09:221][131]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.38.21:834][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.07-07.38.26:843][364]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.38.26:906][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.10.07-07.38.28:793][364]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.38.28:891][364]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter809843A04AF80BFCC83ED5AE7A9AB683.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.38.28:929][365]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-07.38.28:929][365]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.40.10:568][598]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.40.10:658][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.10.07-07.40.27:832][605]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.40.27:934][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.10.07-07.41.18:096][454]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.41.18:201][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.10.07-07.41.21:207][601]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.41.21:275][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.10.07-07.41.22:350][601]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.41.22:509][601]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter70F703134B9830DD6FB8C299B46B23F9.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.41.22:554][602]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-07.41.22:554][602]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.41.58:040][173]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.41.58:119][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.10.07-07.42.52:693][617]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.07-07.42.53:517][665]Cmd: TRANSACTION UNDO
+[2021.10.07-07.42.53:517][665]LogEditorTransaction: Undo Move Actors
+[2021.10.07-07.42.59:673][  3]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.42.59:734][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.10.07-07.44.12:369][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.07-07.44.12:372][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Moon' took 0.032
+[2021.10.07-07.44.15:320][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.07-07.44.15:348][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.07-07.44.15:378][623]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/MoonBB232893481FEAA280627091224ADFEB.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.10.07-07.44.15:405][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.10.07-07.44.15:426][623]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltData60856348494EC99C8E357EBE5F5AA523.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.10.07-07.44.15:449][623]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-07.44.15:449][623]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.10.07-07.44.15:449][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
