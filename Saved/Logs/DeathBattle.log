@@ -819,3 +819,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-07.59.09:595][380]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/ProjectileF01CFE424D41F2D06388EBB09371613B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
 [2021.10.07-07.59.09:609][380]AssetCheck: New page: Asset Save: Projectile
 [2021.10.07-07.59.09:609][380]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-08.00.17:647][848]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-08.00.17:725][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.10.07-08.00.20:167][982]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-08.00.20:213][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.10.07-08.00.21:629][982]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-08.00.21:738][982]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter0CD076EA4D5B59A6EAB4DC81B4772DB3.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-08.00.21:766][983]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-08.00.21:766][983]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-08.00.54:641][938]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-08.00.54:705][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.07-08.00.59:907][243]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-08.00.59:955][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.10.07-08.01.02:395][243]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-08.01.02:505][243]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter00791E704A84B61D0E302BBFE663C3B3.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-08.01.02:532][244]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-08.01.02:532][244]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-08.03.00:954][731]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-08.03.01:019][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.10.07-08.03.13:553][440]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-08.03.13:617][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.10.07-08.03.15:164][524]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-08.03.15:213][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.10.07-08.03.16:281][524]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-08.03.16:393][524]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterDA7E75324BBB117910B2B48D8A8FB480.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-08.03.16:424][525]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-08.03.16:424][525]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-08.04.17:085][160]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-08.04.17:151][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.10.07-08.04.45:363][833]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-08.04.45:407][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.10.07-08.04.46:698][833]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-08.04.46:831][833]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterA4D9013A4EB0AA7AE77F009191CE61BB.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-08.04.46:862][834]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-08.04.46:862][834]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-08.05.54:440][842]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-08.05.54:505][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.07-08.05.55:381][882]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter99065BE2456B8748B66719A6F435CFEB.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-08.05.55:397][882]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-08.05.55:397][882]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
