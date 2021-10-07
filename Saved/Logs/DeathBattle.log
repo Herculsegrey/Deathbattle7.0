@@ -772,3 +772,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-07.53.22:315][256]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterDAA4EB654A911D62FE66D4A950D857D7.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
 [2021.10.07-07.53.22:330][256]AssetCheck: New page: Asset Save: SideScrollerCharacter
 [2021.10.07-07.53.22:330][256]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.53.51:032][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.54.09:740][471]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.54.09:783][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.10.07-07.54.55:937][638]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.54.56:004][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.10.07-07.54.59:075][809]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.54.59:122][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.10.07-07.55.00:504][809]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.55.00:626][809]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter89D2BBB5441E05D29D26FEB2A151EB52.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.55.00:656][810]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-07.55.00:656][810]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.55.18:558][394]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.55.18:618][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.10.07-07.55.21:165][534]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.55.21:211][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.10.07-07.55.22:719][534]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.55.22:837][534]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterEB75733F4E4794BEA316F4A280B05895.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.55.22:869][535]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-07.55.22:869][535]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.55.58:192][293]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.07-07.55.58:277][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.10.07-07.55.58:945][322]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterBB131FD44BFDA3AA83DE48A7493E5B2F.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.07-07.55.58:959][322]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.07-07.55.58:959][322]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.07-07.56.45:295][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gustav/Projectile1.Projectile1
+[2021.10.07-07.56.58:758][823]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.56.58:811][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.10.07-07.57.00:429][823]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.57.00:474][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.57.00:504][823]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile56468E164DE90D19259B5E8DE75FF2E8.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.57.00:537][824]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.57.00:537][824]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.58.23:294][790]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.58.23:348][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.07-07.58.25:332][899]LogTemp: Repeating last play command: Standalone Game
+[2021.10.07-07.58.25:378][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.10.07-07.58.26:897][899]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-07.58.26:945][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.58.26:974][899]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile13A8287346AD860003EC4EB0F7D42CAA.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.58.27:001][900]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.58.27:001][900]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2021.10.07-07.59.08:606][331]BlueprintLog: New page: Compile Projectile
+[2021.10.07-07.59.08:657][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.10.07-07.59.09:562][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2021.10.07-07.59.09:595][380]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/ProjectileF01CFE424D41F2D06388EBB09371613B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2021.10.07-07.59.09:609][380]AssetCheck: New page: Asset Save: Projectile
+[2021.10.07-07.59.09:609][380]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
