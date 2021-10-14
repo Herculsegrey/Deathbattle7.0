@@ -775,3 +775,64 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.14-06.56.37:721][206]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.14-06.56.37:721][206]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
 [2021.10.14-06.56.37:721][206]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.10.14-07.06.05:241][  9]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-07.06.05:355][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.10.14-07.06.10:323][468]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-07.06.10:384][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.10.14-07.06.11:968][468]LogSlate: Window 'Save Content' being destroyed
+[2021.10.14-07.06.12:069][468]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter2D50041947AED2B168C52790D82B5621.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.14-07.06.12:106][469]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.14-07.06.12:106][469]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.14-07.06.52:632][972]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-07.06.52:745][972]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.10.14-07.06.57:718][379]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-07.06.57:830][379]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.10.14-07.07.00:426][577]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-07.07.00:483][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.10.14-07.07.01:618][577]LogSlate: Window 'Save Content' being destroyed
+[2021.10.14-07.07.01:729][577]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter512F9B0C4F069A832C208E90E201D348.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.14-07.07.01:767][578]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.14-07.07.01:767][578]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.14-07.07.23:325][469]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-07.07.23:436][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.10.14-07.08.17:276][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.10.14-07.08.17:277][297]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Moon' took 0.043
+[2021.10.14-07.08.17:278][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2021.10.14-07.08.17:300][297]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2021.10.14-07.08.17:300][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2021.10.14-07.08.17:349][297]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter_Auto2E9B87850413542AE647F7690A6DE02C2.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto2.uasset'
+[2021.10.14-07.08.17:351][297]LogFileHelpers: Auto-saving content packages took 0.074
+[2021.10.14-07.11.49:479][890]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-07.11.49:639][890]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.10.14-07.11.51:527][ 43]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-07.11.51:586][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.10.14-07.11.52:673][ 43]LogSlate: Window 'Save Content' being destroyed
+[2021.10.14-07.11.52:773][ 43]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter139512884DBAD2D626F79D9C34AED3E8.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.14-07.11.52:807][ 44]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.14-07.11.52:807][ 44]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.14-07.12.24:144][296]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-07.12.24:282][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.10.14-07.12.26:553][501]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-07.12.26:613][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.10.14-07.12.29:345][501]LogSlate: Window 'Save Content' being destroyed
+[2021.10.14-07.12.29:434][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter3998D8774975E9B04B85CDBE5E41082F.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.14-07.12.29:467][502]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.14-07.12.29:467][502]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.14-07.12.57:454][495]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-07.12.57:674][495]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.10.14-07.12.59:586][651]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-07.12.59:648][651]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.10.14-07.13.02:324][651]LogSlate: Window 'Save Content' being destroyed
+[2021.10.14-07.13.02:414][651]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterC34A43554F34A707220B8E944A022F16.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.14-07.13.02:446][652]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.14-07.13.02:446][652]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.14-07.14.23:645][390]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterA88BDAE04714DA65B88897A3AEEC928E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.14-07.14.23:664][390]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.14-07.14.23:664][390]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.14-07.14.37:971][691]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-07.14.38:030][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.10.14-07.15.57:096][513]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-07.15.57:204][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.10.14-07.15.57:891][560]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterE62C4821417D2CF25806BFB862C5A47E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.14-07.15.57:908][560]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.14-07.15.57:908][560]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
