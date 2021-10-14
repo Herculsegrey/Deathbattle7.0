@@ -650,3 +650,128 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.14-06.30.45:616][937]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.14-06.30.45:616][937]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
 [2021.10.14-06.30.45:616][937]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.10.14-06.32.26:698][ 60]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/GubbeMesh5/Gubbe6Animation.Gubbe6Animation
+[2021.10.14-06.32.26:722][ 60]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.10.14-06.32.26:972][ 60]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.14-06.32.26:980][ 60]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.10.14-06.32.27:566][ 60]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2021.10.14-06.32.28:489][ 60]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.10.14-06.32.28:776][ 60]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/GubbeMesh5/Gubbe6BlendSpace.Gubbe6BlendSpace
+[2021.10.14-06.32.28:788][ 60]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.14-06.32.28:813][ 60]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.10.14-06.32.29:246][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.14-06.32.29:954][ 60]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.10.14-06.32.30:006][ 60]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.14-06.32.32:751][213]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.10.14-06.32.34:414][305]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.10.14-06.32.34:463][306]LogSlate: Took 0.006091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.14-06.32.36:314][422]LogSlate: Window 'Gubbe6Animation' being destroyed
+[2021.10.14-06.34.35:064][823]BlueprintLog: New page: Compile Gubbe6Animation
+[2021.10.14-06.34.35:071][823]LogBlueprint: Warning: [Compiler Gubbe6Animation] 'Side Scroller Character' does not inherit from 'Character Movement Component' ( Cast To SideScrollerCharacter  would always fail).
+[2021.10.14-06.34.35:073][823]LogBlueprint: Warning: [Compiler Gubbe6Animation] 'Side Scroller Character' does not inherit from 'Character Movement Component' ( Cast To SideScrollerCharacter  would always fail).
+[2021.10.14-06.34.35:073][823]LogBlueprint: Error: [Compiler Gubbe6Animation] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2021.10.14-06.34.35:074][823]LogBlueprint: Error: [Compiler Gubbe6Animation] Variable node  Get CharacterMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.10.14-06.34.35:152][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.10.14-06.34.35:201][823]LogSlate: Took 0.011914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.14-06.34.41:486][390]BlueprintLog: New page: Compile Gubbe6Animation
+[2021.10.14-06.34.41:489][390]LogBlueprint: Warning: [Compiler Gubbe6Animation] 'Side Scroller Character' does not inherit from 'Character Movement Component' ( Cast To SideScrollerCharacter  would always fail).
+[2021.10.14-06.34.41:492][390]LogBlueprint: Warning: [Compiler Gubbe6Animation] 'Side Scroller Character' does not inherit from 'Character Movement Component' ( Cast To SideScrollerCharacter  would always fail).
+[2021.10.14-06.34.41:493][390]LogBlueprint: Error: [Compiler Gubbe6Animation] Dependency cycle detected, preventing node  Get CharacterMovement  from being scheduled
+[2021.10.14-06.34.41:493][390]LogBlueprint: Error: [Compiler Gubbe6Animation] Dependency cycle detected, preventing node  Cast To SideScrollerCharacter  from being scheduled
+[2021.10.14-06.34.41:540][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD1A6BDCA-4895-4CA6-58D1-9D94E4393257%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=6e7967e34044a0e7c69c9ca98c0f9207%7Cdf1c9455e3f349f5a0e60309858c95f8%7Ce7c85b95-9dec-4f85-b84c-0855dabe6821&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: request failed, libcurl error: 0 (No error)
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x190ee587f70 [can pipeline])
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.242.16) port 443 (#3))
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 7 (Closing connection 3)
+[2021.10.14-06.38.56:428][249]LogHttp: Warning: 0000019170DD8F00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.10.14-06.38.56:439][250]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD1A6BDCA-4895-4CA6-58D1-9D94E4393257%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=6e7967e34044a0e7c69c9ca98c0f9207%7Cdf1c9455e3f349f5a0e60309858c95f8%7Ce7c85b95-9dec-4f85-b84c-0855dabe6821&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.10.14-06.39.32:942][954]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.14-06.41.31:565][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.10.14-06.41.31:568][637]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Moon' took 0.047
+[2021.10.14-06.41.31:569][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GubbeMesh5/Gubbe6Animation] ([1] browsable assets)...
+[2021.10.14-06.41.31:579][637]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/GubbeMesh5/Gubbe6Animation.Gubbe6Animation]
+[2021.10.14-06.41.31:579][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/GubbeMesh5/Gubbe6Animation]
+[2021.10.14-06.41.31:628][637]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Gubbe6Animation_Auto1E96364CF4B5D78B09411A1B59C36E243.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/GubbeMesh5/Gubbe6Animation_Auto1.uasset'
+[2021.10.14-06.41.31:629][637]LogFileHelpers: Auto-saving content packages took 0.062
+[2021.10.14-06.44.04:490][391]BlueprintLog: New page: Compile Gubbe6Animation
+[2021.10.14-06.44.04:547][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.10.14-06.44.05:405][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GubbeMesh5/Gubbe6Animation" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset" SILENT=true
+[2021.10.14-06.44.05:440][457]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Gubbe6Animation6860D09A4BAFF2AABC3526A82C5A56C9.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset'
+[2021.10.14-06.44.05:461][457]AssetCheck: New page: Asset Save: Gubbe6Animation
+[2021.10.14-06.44.05:461][457]LogContentValidation: Display: Validating AnimBlueprint /Game/GubbeMesh5/Gubbe6Animation.Gubbe6Animation
+[2021.10.14-06.44.07:184][627]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-06.44.07:229][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.10.14-06.47.20:226][692]BlueprintLog: New page: Compile Gubbe6Animation
+[2021.10.14-06.47.20:301][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.10.14-06.47.20:969][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GubbeMesh5/Gubbe6Animation" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset" SILENT=true
+[2021.10.14-06.47.21:021][744]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Gubbe6Animation2EBE39864566AA601D171997902AB344.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset'
+[2021.10.14-06.47.21:040][744]AssetCheck: New page: Asset Save: Gubbe6Animation
+[2021.10.14-06.47.21:040][744]LogContentValidation: Display: Validating AnimBlueprint /Game/GubbeMesh5/Gubbe6Animation.Gubbe6Animation
+[2021.10.14-06.48.06:162][484]BlueprintLog: New page: Compile Gubbe6Animation
+[2021.10.14-06.48.06:232][484]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.10.14-06.48.06:965][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GubbeMesh5/Gubbe6Animation" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset" SILENT=true
+[2021.10.14-06.48.07:018][540]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Gubbe6Animation42CA4FDC42FEE260BF47A8B4BA672394.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset'
+[2021.10.14-06.48.07:038][540]AssetCheck: New page: Asset Save: Gubbe6Animation
+[2021.10.14-06.48.07:038][540]LogContentValidation: Display: Validating AnimBlueprint /Game/GubbeMesh5/Gubbe6Animation.Gubbe6Animation
+[2021.10.14-06.48.08:587][669]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-06.48.08:647][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.10.14-06.52.13:936][155]BlueprintLog: New page: Compile Gubbe6Animation
+[2021.10.14-06.52.14:025][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.10.14-06.52.14:715][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GubbeMesh5/Gubbe6Animation" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset" SILENT=true
+[2021.10.14-06.52.14:776][196]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Gubbe6AnimationB085FEAF4728AEF62F9AA083AEC9B871.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset'
+[2021.10.14-06.52.14:797][196]AssetCheck: New page: Asset Save: Gubbe6Animation
+[2021.10.14-06.52.14:797][196]LogContentValidation: Display: Validating AnimBlueprint /Game/GubbeMesh5/Gubbe6Animation.Gubbe6Animation
+[2021.10.14-06.52.16:638][350]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-06.52.16:711][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.10.14-06.53.31:021][919]BlueprintLog: New page: Compile Gubbe6Animation
+[2021.10.14-06.53.31:096][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.10.14-06.53.33:021][ 81]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-06.53.33:087][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.10.14-06.53.34:875][ 81]LogSlate: Window 'Save Content' being destroyed
+[2021.10.14-06.53.34:933][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GubbeMesh5/Gubbe6Animation" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset" SILENT=true
+[2021.10.14-06.53.34:981][ 81]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Gubbe6AnimationE8CC8BFE430030AB68395989A685B64B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset'
+[2021.10.14-06.53.35:016][ 82]AssetCheck: New page: Asset Save: Gubbe6Animation
+[2021.10.14-06.53.35:016][ 82]LogContentValidation: Display: Validating AnimBlueprint /Game/GubbeMesh5/Gubbe6Animation.Gubbe6Animation
+[2021.10.14-06.53.59:531][249]BlueprintLog: New page: Compile Gubbe6Animation
+[2021.10.14-06.53.59:600][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.10.14-06.54.00:416][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GubbeMesh5/Gubbe6Animation" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset" SILENT=true
+[2021.10.14-06.54.00:469][313]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Gubbe6Animation5B5A520D470B0A3D9958DB88976B8A1E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6Animation.uasset'
+[2021.10.14-06.54.00:488][313]AssetCheck: New page: Asset Save: Gubbe6Animation
+[2021.10.14-06.54.00:489][313]LogContentValidation: Display: Validating AnimBlueprint /Game/GubbeMesh5/Gubbe6Animation.Gubbe6Animation
+[2021.10.14-06.54.20:366][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GubbeMesh5/Gubbe6BlendSpace" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6BlendSpace.uasset" SILENT=true
+[2021.10.14-06.54.20:395][ 58]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Gubbe6BlendSpace7A2007AA4485799DCCB2DF8D64CB4EB2.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/GubbeMesh5/Gubbe6BlendSpace.uasset'
+[2021.10.14-06.54.20:416][ 58]AssetCheck: New page: Asset Save: Gubbe6BlendSpace
+[2021.10.14-06.54.20:416][ 58]LogContentValidation: Display: Validating BlendSpace /Game/GubbeMesh5/Gubbe6BlendSpace.Gubbe6BlendSpace
+[2021.10.14-06.54.22:150][211]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-06.54.22:214][211]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.10.14-06.55.24:395][104]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.10.14-06.55.24:527][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.10.14-06.55.25:161][147]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter531205434B942EEAD92204B0C1D05D4E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.14-06.55.25:187][147]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.10.14-06.55.25:187][147]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.14-06.55.26:858][295]LogTemp: Repeating last play command: Standalone Game
+[2021.10.14-06.55.26:927][295]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.10.14-06.56.35:883][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.14-06.56.35:929][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.10.14-06.56.35:984][119]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon1AAFB1B348F52E5E276218B3747F81A8.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.10.14-06.56.35:984][119]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap', retrying in .5s...
+[2021.10.14-06.56.36:485][119]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.10.14-06.56.36:536][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.10.14-06.56.36:569][119]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltData98EDE7014711C6EAA4B100B5E1FEACAA.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.10.14-06.56.36:624][119]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.14-06.56.36:624][119]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.10.14-06.56.36:624][119]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.10.14-06.56.37:504][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.14-06.56.37:558][206]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2021.10.14-06.56.37:610][206]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon633535F04DD3BDE675CA85BE4FAB3F8F.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.10.14-06.56.37:658][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.10.14-06.56.37:694][206]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltData917C9E554DEF221683B770BB2490597D.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.10.14-06.56.37:721][206]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.14-06.56.37:721][206]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.10.14-06.56.37:721][206]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
