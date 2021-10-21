@@ -26855,3 +26855,82 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.21-07.12.56:767][ 42]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.21-07.12.56:767][ 42]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
 [2021.10.21-07.12.56:767][ 42]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.10.21-07.18.06:846][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon" FILE="../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.21-07.18.06:878][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.10.21-07.18.06:925][216]LogSavePackage: Moving '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Saved/MoonF72AF6554B49644C65AE3DBCAE8279CD.tmp' to '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/Moon.umap'
+[2021.10.21-07.18.06:955][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Moon_BuiltData" FILE="../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset" SILENT=true
+[2021.10.21-07.18.06:984][216]LogSavePackage: Moving '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Saved/Moon_BuiltData95E0657E4CA0E41139B7499094B20861.tmp' to '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/Moon_BuiltData.uasset'
+[2021.10.21-07.18.07:000][216]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.21-07.18.07:000][216]LogContentValidation: Display: Validating World /Game/Map/Moon.Moon
+[2021.10.21-07.18.07:001][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Moon_BuiltData.Moon_BuiltData
+[2021.10.21-07.18.21:845][ 98]LogLinker: Warning: While loading '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:845][ 98]LogLinker: Warning: While loading '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:847][ 98]LogLinker: Warning: While loading '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:847][ 98]LogLinker: Warning: While loading '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:848][ 98]LogLinker: Warning: While loading '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:848][ 98]LogLinker: Warning: While loading '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:848][ 98]LogLinker: Warning: While loading '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:848][ 98]LogLinker: Warning: While loading '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap' failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:849][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:849][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:849][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:849][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:849][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:849][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:849][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:850][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:851][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:851][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:851][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:851][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:851][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:851][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:851][ 98]LogLinker: Warning: Failed to load '/Game/Blueprints/test': Can't find file.
+[2021.10.21-07.18.21:926][ 98]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/NewMap.NewMap
+[2021.10.21-07.18.21:952][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.10.21-07.18.23:984][ 98]LogSlate: Window 'Save Content' being destroyed
+[2021.10.21-07.18.24:007][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StartGameWidget" FILE="../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Blueprints/StartGameWidget.uasset" SILENT=true
+[2021.10.21-07.18.24:039][ 98]LogSavePackage: Moving '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Saved/StartGameWidget6B02A16A418C37E26CD3CB9F807D879D.tmp' to '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Blueprints/StartGameWidget.uasset'
+[2021.10.21-07.18.24:110][ 98]LogSavePackage: Moving '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter0701A0F64CE7F81ABF1EC3B21E9B744A.tmp' to '../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.10.21-07.18.24:112][ 98]Cmd: MAP LOAD FILE="../../../../../../Users/gustav.anderssongut/Documents/GitHub/Deathbattle7.0/Content/Map/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.21-07.18.24:112][ 98]LightingResults: New page: Lighting Build
+[2021.10.21-07.18.24:112][ 98]LoadErrors: New page: Loading map: NewMap.umap
+[2021.10.21-07.18.24:113][ 98]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2021.10.21-07.18.24:113][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.21-07.18.24:113][ 98]MapCheck: New page: Map Check
+[2021.10.21-07.18.24:113][ 98]LightingResults: New page: Lighting Build
+[2021.10.21-07.18.24:141][ 98]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B604E75E00), frame # 52098
+[2021.10.21-07.18.24:141][ 98]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B604FFDD00), frame # 52098
+[2021.10.21-07.18.24:144][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.10.21-07.18.24:151][ 98]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.21-07.18.24:151][ 98]LogAIModule: Creating AISystem for world NewMap
+[2021.10.21-07.18.24:152][ 98]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B602665200), frame # 52098
+[2021.10.21-07.18.24:152][ 98]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B616A40A40), frame # 52098
+[2021.10.21-07.18.24:179][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.21-07.18.24:205][ 98]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.21-07.18.24:226][ 98]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 20,973ms to complete.
+[2021.10.21-07.18.24:226][ 98]LogFileHelpers: Loading map 'NewMap' took 0.114
+[2021.10.21-07.18.24:271][ 98]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.21-07.18.24:271][ 98]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/StartGameWidget.StartGameWidget
+[2021.10.21-07.18.24:271][ 98]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test2_2
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test3
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test4
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test5
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test6
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test_2
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test2_2
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test3
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test4
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test5
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test6
+[2021.10.21-07.18.24:271][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': test_C /Game/Map/NewMap.NewMap:PersistentLevel.test_2
