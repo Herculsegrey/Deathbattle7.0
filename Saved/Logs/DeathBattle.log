@@ -41797,3 +41797,1281 @@ Purging the undo buffer...
 [2021.12.09-09.06.01:182][445]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.09-09.06.01:182][445]LogContentValidation: Display: Validating World /Game/Map/Test1.Test1
 [2021.12.09-09.06.01:182][445]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Test1_BuiltData.Test1_BuiltData
+[2021.12.09-09.48.43:038][952]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\rasmus.jacobsson\Desktop\Blender Grejer\Satelite.fbx)
+[2021.12.09-09.48.43:051][952]LogFbx: Loading FBX Scene from C:\Users\rasmus.jacobsson\Desktop\Blender Grejer\Satelite.fbx
+[2021.12.09-09.48.43:065][952]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.09-09.48.44:264][952]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.09-09.48.44:303][952]LogMaterial: Display: Missing cached shader map for material Material_021, compiling. 
+[2021.12.09-09.48.44:314][952]LogFbx: Display: Triangulating static mesh Sphere.001
+[2021.12.09-09.48.44:362][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.12.09-09.48.44:362][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.12.09-09.48.44:363][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.12.09-09.48.44:363][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.12.09-09.48.44:369][952]LogStaticMesh: Building static mesh Satelite_Sphere_001...
+[2021.12.09-09.48.44:393][952]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Grejer/satelite/Satelite_Sphere_001.Satelite_Sphere_001
+[2021.12.09-09.48.44:418][952]LogMaterial: Display: Missing cached shader map for material Material_039, compiling. 
+[2021.12.09-09.48.44:442][952]LogMaterial: Display: Missing cached shader map for material Material_038, compiling. 
+[2021.12.09-09.48.44:465][952]LogMaterial: Display: Missing cached shader map for material Material_037, compiling. 
+[2021.12.09-09.48.44:490][952]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2021.12.09-09.48.44:513][952]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.12.09-09.48.44:540][952]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2021.12.09-09.48.44:563][952]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2021.12.09-09.48.44:590][952]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2021.12.09-09.48.44:614][952]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2021.12.09-09.48.44:639][952]LogMaterial: Display: Missing cached shader map for material Material_019, compiling. 
+[2021.12.09-09.48.44:667][952]LogMaterial: Display: Missing cached shader map for material Material_020, compiling. 
+[2021.12.09-09.48.44:695][952]LogMaterial: Display: Missing cached shader map for material Material_022, compiling. 
+[2021.12.09-09.48.44:726][952]LogMaterial: Display: Missing cached shader map for material Material_023, compiling. 
+[2021.12.09-09.48.44:756][952]LogMaterial: Display: Missing cached shader map for material Material_024, compiling. 
+[2021.12.09-09.48.44:786][952]LogMaterial: Display: Missing cached shader map for material Material_026, compiling. 
+[2021.12.09-09.48.44:817][952]LogMaterial: Display: Missing cached shader map for material Material_027, compiling. 
+[2021.12.09-09.48.44:851][952]LogMaterial: Display: Missing cached shader map for material Material_031, compiling. 
+[2021.12.09-09.48.44:886][952]LogMaterial: Display: Missing cached shader map for material Material_032, compiling. 
+[2021.12.09-09.48.44:921][952]LogMaterial: Display: Missing cached shader map for material Material_033, compiling. 
+[2021.12.09-09.48.44:959][952]LogMaterial: Display: Missing cached shader map for material Material_036, compiling. 
+[2021.12.09-09.48.44:994][952]LogMaterial: Display: Missing cached shader map for material Material_035, compiling. 
+[2021.12.09-09.48.45:033][952]LogMaterial: Display: Missing cached shader map for material Material_034, compiling. 
+[2021.12.09-09.48.45:070][952]LogMaterial: Display: Missing cached shader map for material Material_042, compiling. 
+[2021.12.09-09.48.45:107][952]LogMaterial: Display: Missing cached shader map for material Material_041, compiling. 
+[2021.12.09-09.48.45:141][952]LogMaterial: Display: Missing cached shader map for material Material_040, compiling. 
+[2021.12.09-09.48.45:179][952]LogMaterial: Display: Missing cached shader map for material Material_044, compiling. 
+[2021.12.09-09.48.45:206][952]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.12.09-09.48.45:586][952]LogStaticMesh: Building static mesh Satelite_Cube_002...
+[2021.12.09-09.48.45:768][952]LogStaticMesh: Built static mesh [0.18s] /Game/Blueprints/Grejer/satelite/Satelite_Cube_002.Satelite_Cube_002
+[2021.12.09-09.48.45:797][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 390
+[2021.12.09-09.48.45:895][952]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.09-09.48.48:879][ 18]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 380
+[2021.12.09-09.48.49:651][ 45]LogSlate: Window 'Message Log' being destroyed
+[2021.12.09-09.48.49:668][ 45]LogSlate: Window 'Message Log' being destroyed
+[2021.12.09-09.48.50:014][ 58]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 370
+[2021.12.09-09.48.50:344][ 70]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 360
+[2021.12.09-09.49.00:938][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 350
+[2021.12.09-09.49.01:459][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 340
+[2021.12.09-09.49.03:159][488]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 330
+[2021.12.09-09.49.05:804][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 320
+[2021.12.09-09.49.11:907][782]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 310
+[2021.12.09-09.49.13:740][844]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 300
+[2021.12.09-09.49.16:934][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 290
+[2021.12.09-09.49.18:010][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 280
+[2021.12.09-09.49.24:373][203]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 270
+[2021.12.09-09.49.27:896][323]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 260
+[2021.12.09-09.49.28:327][338]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 250
+[2021.12.09-09.49.30:519][412]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 240
+[2021.12.09-09.49.38:899][698]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 230
+[2021.12.09-09.49.39:228][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 220
+[2021.12.09-09.49.40:647][757]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2021.12.09-09.49.45:418][919]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 200
+[2021.12.09-09.49.50:076][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 190
+[2021.12.09-09.49.51:639][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 180
+[2021.12.09-09.49.55:947][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 170
+[2021.12.09-09.49.57:134][316]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 160
+[2021.12.09-09.50.02:467][498]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 150
+[2021.12.09-09.50.06:719][642]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 140
+[2021.12.09-09.50.07:031][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 130
+[2021.12.09-09.50.09:491][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 120
+[2021.12.09-09.50.17:329][  5]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 110
+[2021.12.09-09.50.17:752][ 20]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2021.12.09-09.50.19:312][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 90
+[2021.12.09-09.50.25:053][240]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 80
+[2021.12.09-09.50.29:861][386]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2021.12.09-09.50.32:187][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2021.12.09-09.50.36:421][580]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2021.12.09-09.50.37:357][634]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2021.12.09-09.50.41:932][847]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.12.09-09.50.45:805][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.12.09-09.50.46:038][ 55]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.12.09-09.50.48:000][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.12.09-09.50.51:898][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.12.09-09.50.52:198][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.12.09-09.50.52:492][311]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.12.09-09.50.52:907][334]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.12.09-09.50.53:008][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.12.09-09.51.04:825][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.12.09-09.51.04:831][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Test1' took 0.053
+[2021.12.09-09.51.04:832][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_044] ([1] browsable assets)...
+[2021.12.09-09.51.04:840][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_044.Material_044]
+[2021.12.09-09.51.04:840][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_044]
+[2021.12.09-09.51.04:848][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_044_Auto3D198D80D4EEB37E8713B63899AAE2D06.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_044_Auto3.uasset'
+[2021.12.09-09.51.04:849][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Satelite_Sphere_001] ([1] browsable assets)...
+[2021.12.09-09.51.04:858][501]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/Grejer/satelite/Satelite_Sphere_001.Satelite_Sphere_001]
+[2021.12.09-09.51.04:858][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Satelite_Sphere_001]
+[2021.12.09-09.51.04:869][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Satelite_Sphere_001_Auto396839FA04C3DCA337AA21F92C8D85144.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Satelite_Sphere_001_Auto3.uasset'
+[2021.12.09-09.51.04:869][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_021] ([1] browsable assets)...
+[2021.12.09-09.51.04:877][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_021.Material_021]
+[2021.12.09-09.51.04:877][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_021]
+[2021.12.09-09.51.04:887][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_021_Auto39945508F47FB8BBF1D0409BC7B389314.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_021_Auto3.uasset'
+[2021.12.09-09.51.04:888][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Satelite_Cube_002] ([1] browsable assets)...
+[2021.12.09-09.51.04:902][501]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/Grejer/satelite/Satelite_Cube_002.Satelite_Cube_002]
+[2021.12.09-09.51.04:902][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Satelite_Cube_002]
+[2021.12.09-09.51.04:927][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Satelite_Cube_002_Auto309BB67304701250965E9579BB5D4C79E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Satelite_Cube_002_Auto3.uasset'
+[2021.12.09-09.51.04:928][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_039] ([1] browsable assets)...
+[2021.12.09-09.51.04:939][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_039.Material_039]
+[2021.12.09-09.51.04:939][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_039]
+[2021.12.09-09.51.04:947][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_039_Auto3535C7BD44A28A44F44969981915FD403.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_039_Auto3.uasset'
+[2021.12.09-09.51.04:948][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_038] ([1] browsable assets)...
+[2021.12.09-09.51.04:959][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_038.Material_038]
+[2021.12.09-09.51.04:959][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_038]
+[2021.12.09-09.51.04:967][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_038_Auto3CB8F129B4EB54E4D3BB5D8A632E32F02.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_038_Auto3.uasset'
+[2021.12.09-09.51.04:968][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_037] ([1] browsable assets)...
+[2021.12.09-09.51.04:976][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_037.Material_037]
+[2021.12.09-09.51.04:976][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_037]
+[2021.12.09-09.51.04:984][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_037_Auto3E5E510704939D5D75E6395A4F0C8C5EC.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_037_Auto3.uasset'
+[2021.12.09-09.51.04:985][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_017] ([1] browsable assets)...
+[2021.12.09-09.51.04:993][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_017.Material_017]
+[2021.12.09-09.51.04:993][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_017]
+[2021.12.09-09.51.05:000][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_017_Auto32FE6EC9C4D43C2D9C2B1808C24D3FB03.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_017_Auto3.uasset'
+[2021.12.09-09.51.05:001][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_001] ([1] browsable assets)...
+[2021.12.09-09.51.05:010][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_001.Material_001]
+[2021.12.09-09.51.05:010][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_001]
+[2021.12.09-09.51.05:016][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_001_Auto3AA6A0C844B645D26B2754984AF915E8A.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_001_Auto3.uasset'
+[2021.12.09-09.51.05:017][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_002] ([1] browsable assets)...
+[2021.12.09-09.51.05:026][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_002.Material_002]
+[2021.12.09-09.51.05:026][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_002]
+[2021.12.09-09.51.05:033][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_002_Auto3E6E10839430C0FD85B39F09105923C11.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_002_Auto3.uasset'
+[2021.12.09-09.51.05:034][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_003] ([1] browsable assets)...
+[2021.12.09-09.51.05:041][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_003.Material_003]
+[2021.12.09-09.51.05:041][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_003]
+[2021.12.09-09.51.05:048][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_003_Auto37390A9BC4531EF72D272BC997B40226E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_003_Auto3.uasset'
+[2021.12.09-09.51.05:048][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_018] ([1] browsable assets)...
+[2021.12.09-09.51.05:058][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_018.Material_018]
+[2021.12.09-09.51.05:058][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_018]
+[2021.12.09-09.51.05:065][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_018_Auto3704963654D91908048510A89696B22D9.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_018_Auto3.uasset'
+[2021.12.09-09.51.05:065][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_016] ([1] browsable assets)...
+[2021.12.09-09.51.05:074][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_016.Material_016]
+[2021.12.09-09.51.05:074][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_016]
+[2021.12.09-09.51.05:083][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_016_Auto3B512A605429C1FB814E55F88C5BE66B0.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_016_Auto3.uasset'
+[2021.12.09-09.51.05:084][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_019] ([1] browsable assets)...
+[2021.12.09-09.51.05:095][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_019.Material_019]
+[2021.12.09-09.51.05:095][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_019]
+[2021.12.09-09.51.05:104][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_019_Auto3107DB9D94C81DAB21F868C829B97AFCD.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_019_Auto3.uasset'
+[2021.12.09-09.51.05:105][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_020] ([1] browsable assets)...
+[2021.12.09-09.51.05:113][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_020.Material_020]
+[2021.12.09-09.51.05:113][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_020]
+[2021.12.09-09.51.05:122][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_020_Auto348E5FA5B447D699DE7E5ABB8A2CD12A6.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_020_Auto3.uasset'
+[2021.12.09-09.51.05:123][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_022] ([1] browsable assets)...
+[2021.12.09-09.51.05:132][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_022.Material_022]
+[2021.12.09-09.51.05:132][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_022]
+[2021.12.09-09.51.05:139][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_022_Auto3C26E1B8F4759AA53E1ACC6BDD81662A0.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_022_Auto3.uasset'
+[2021.12.09-09.51.05:140][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_023] ([1] browsable assets)...
+[2021.12.09-09.51.05:151][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_023.Material_023]
+[2021.12.09-09.51.05:151][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_023]
+[2021.12.09-09.51.05:162][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_023_Auto38C04BD614E9268BD9EE55F905FF14F4B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_023_Auto3.uasset'
+[2021.12.09-09.51.05:164][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_024] ([1] browsable assets)...
+[2021.12.09-09.51.05:177][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_024.Material_024]
+[2021.12.09-09.51.05:178][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_024]
+[2021.12.09-09.51.05:188][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_024_Auto35D1BACE644A59C2E04520C826E7449DF.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_024_Auto3.uasset'
+[2021.12.09-09.51.05:188][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_026] ([1] browsable assets)...
+[2021.12.09-09.51.05:197][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_026.Material_026]
+[2021.12.09-09.51.05:197][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_026]
+[2021.12.09-09.51.05:205][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_026_Auto367BDB2A9416E75E21B7C77B3895218FA.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_026_Auto3.uasset'
+[2021.12.09-09.51.05:205][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_027] ([1] browsable assets)...
+[2021.12.09-09.51.05:215][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_027.Material_027]
+[2021.12.09-09.51.05:215][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_027]
+[2021.12.09-09.51.05:223][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_027_Auto324B59BF04987B5EA3338F9B14A1C4EB3.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_027_Auto3.uasset'
+[2021.12.09-09.51.05:223][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_031] ([1] browsable assets)...
+[2021.12.09-09.51.05:232][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_031.Material_031]
+[2021.12.09-09.51.05:232][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_031]
+[2021.12.09-09.51.05:240][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_031_Auto3312067FF47EE11C6BF6CC6894BD3799B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_031_Auto3.uasset'
+[2021.12.09-09.51.05:241][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_032] ([1] browsable assets)...
+[2021.12.09-09.51.05:250][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_032.Material_032]
+[2021.12.09-09.51.05:250][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_032]
+[2021.12.09-09.51.05:259][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_032_Auto30FE6C6A643CD475BC2A86EBEDAF7AC70.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_032_Auto3.uasset'
+[2021.12.09-09.51.05:259][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_033] ([1] browsable assets)...
+[2021.12.09-09.51.05:269][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_033.Material_033]
+[2021.12.09-09.51.05:269][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_033]
+[2021.12.09-09.51.05:277][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_033_Auto3B20C394C48E6E026A25FA292684FE60D.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_033_Auto3.uasset'
+[2021.12.09-09.51.05:277][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_036] ([1] browsable assets)...
+[2021.12.09-09.51.05:286][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_036.Material_036]
+[2021.12.09-09.51.05:286][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_036]
+[2021.12.09-09.51.05:293][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_036_Auto3065CB52B4B180D00DDADBC987998C46B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_036_Auto3.uasset'
+[2021.12.09-09.51.05:294][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_035] ([1] browsable assets)...
+[2021.12.09-09.51.05:301][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_035.Material_035]
+[2021.12.09-09.51.05:301][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_035]
+[2021.12.09-09.51.05:308][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_035_Auto3D75F25F34AF4DE7286DE40B2F33FC3C8.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_035_Auto3.uasset'
+[2021.12.09-09.51.05:309][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_034] ([1] browsable assets)...
+[2021.12.09-09.51.05:316][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_034.Material_034]
+[2021.12.09-09.51.05:316][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_034]
+[2021.12.09-09.51.05:324][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_034_Auto34AED341845EA9C98AFCAC5B44B1E3125.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_034_Auto3.uasset'
+[2021.12.09-09.51.05:324][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_042] ([1] browsable assets)...
+[2021.12.09-09.51.05:333][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_042.Material_042]
+[2021.12.09-09.51.05:333][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_042]
+[2021.12.09-09.51.05:341][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_042_Auto3C45B8BF947BBFEBB4E2A4FBB782EA92E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_042_Auto3.uasset'
+[2021.12.09-09.51.05:342][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_041] ([1] browsable assets)...
+[2021.12.09-09.51.05:350][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_041.Material_041]
+[2021.12.09-09.51.05:350][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_041]
+[2021.12.09-09.51.05:358][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_041_Auto3491AC509420017A581266DADD0496F85.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_041_Auto3.uasset'
+[2021.12.09-09.51.05:359][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grejer/satelite/Material_040] ([1] browsable assets)...
+[2021.12.09-09.51.05:367][501]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Grejer/satelite/Material_040.Material_040]
+[2021.12.09-09.51.05:367][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grejer/satelite/Material_040]
+[2021.12.09-09.51.05:375][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Material_040_Auto32EA450AF4BAC9CDDC5A29F9413CF25D7.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Blueprints/Grejer/satelite/Material_040_Auto3.uasset'
+[2021.12.09-09.51.05:376][501]LogFileHelpers: Auto-saving content packages took 0.544
+[2021.12.09-09.51.19:700][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.12.09-09.51.21:819][791]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.09-09.51.22:080][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.09-09.51.27:223][905]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\rasmus.jacobsson\Desktop\Blender Grejer\Satelite.fbx)
+[2021.12.09-09.51.27:234][905]LogFbx: Loading FBX Scene from C:\Users\rasmus.jacobsson\Desktop\Blender Grejer\Satelite.fbx
+[2021.12.09-09.51.27:246][905]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.09-09.51.35:302][905]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.09-09.51.35:330][905]LogMaterial: Display: Missing cached shader map for material Material_031, compiling. 
+[2021.12.09-09.51.35:341][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.12.09-09.51.35:341][905]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.12.09-09.51.35:341][905]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.12.09-09.51.35:341][905]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.12.09-09.51.35:341][905]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2021.12.09-09.51.35:361][905]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.12.09-09.51.35:385][905]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2021.12.09-09.51.35:408][905]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2021.12.09-09.51.35:428][905]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2021.12.09-09.51.35:449][905]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2021.12.09-09.51.35:488][905]LogMaterial: Display: Missing cached shader map for material Material_019, compiling. 
+[2021.12.09-09.51.35:515][905]LogMaterial: Display: Missing cached shader map for material Material_020, compiling. 
+[2021.12.09-09.51.35:538][905]LogMaterial: Display: Missing cached shader map for material Material_021, compiling. 
+[2021.12.09-09.51.35:560][905]LogMaterial: Display: Missing cached shader map for material Material_022, compiling. 
+[2021.12.09-09.51.35:579][905]LogMaterial: Display: Missing cached shader map for material Material_023, compiling. 
+[2021.12.09-09.51.35:600][905]LogMaterial: Display: Missing cached shader map for material Material_024, compiling. 
+[2021.12.09-09.51.35:620][905]LogMaterial: Display: Missing cached shader map for material Material_026, compiling. 
+[2021.12.09-09.51.35:637][905]LogMaterial: Display: Missing cached shader map for material Material_027, compiling. 
+[2021.12.09-09.51.35:654][905]LogMaterial: Display: Missing cached shader map for material Material_032, compiling. 
+[2021.12.09-09.51.35:672][905]LogMaterial: Display: Missing cached shader map for material Material_033, compiling. 
+[2021.12.09-09.51.35:689][905]LogMaterial: Display: Missing cached shader map for material Material_036, compiling. 
+[2021.12.09-09.51.35:707][905]LogMaterial: Display: Missing cached shader map for material Material_035, compiling. 
+[2021.12.09-09.51.35:727][905]LogMaterial: Display: Missing cached shader map for material Material_034, compiling. 
+[2021.12.09-09.51.35:748][905]LogMaterial: Display: Missing cached shader map for material Material_042, compiling. 
+[2021.12.09-09.51.35:771][905]LogMaterial: Display: Missing cached shader map for material Material_041, compiling. 
+[2021.12.09-09.51.35:796][905]LogMaterial: Display: Missing cached shader map for material Material_040, compiling. 
+[2021.12.09-09.51.35:818][905]LogMaterial: Display: Missing cached shader map for material Material_039, compiling. 
+[2021.12.09-09.51.35:844][905]LogMaterial: Display: Missing cached shader map for material Material_038, compiling. 
+[2021.12.09-09.51.35:869][905]LogMaterial: Display: Missing cached shader map for material Material_037, compiling. 
+[2021.12.09-09.51.35:894][905]LogMaterial: Display: Missing cached shader map for material Material_044, compiling. 
+[2021.12.09-09.51.35:912][905]LogFbx: Display: Triangulating static mesh Cube.005
+[2021.12.09-09.51.36:298][905]LogStaticMesh: Building static mesh Satelite...
+[2021.12.09-09.51.36:456][905]LogStaticMesh: Built static mesh [0.16s] /Game/Blueprints/Grejer/satelite/Satelite.Satelite
+[2021.12.09-09.51.36:544][905]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.09-09.51.36:596][905]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 390
+[2021.12.09-09.51.40:001][982]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 380
+[2021.12.09-09.51.41:380][ 21]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 370
+[2021.12.09-09.51.41:575][ 27]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 360
+[2021.12.09-09.51.42:058][ 42]LogSlate: Window 'Message Log' being destroyed
+[2021.12.09-09.51.42:074][ 42]LogSlate: Window 'Message Log' being destroyed
+[2021.12.09-09.51.51:804][371]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 350
+[2021.12.09-09.51.52:103][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 340
+[2021.12.09-09.51.54:350][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 330
+[2021.12.09-09.51.57:918][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 320
+[2021.12.09-09.52.05:727][832]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 310
+[2021.12.09-09.52.06:898][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 300
+[2021.12.09-09.52.12:657][ 63]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 290
+[2021.12.09-09.52.13:137][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 280
+[2021.12.09-09.52.23:577][430]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 270
+[2021.12.09-09.52.28:198][585]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 260
+[2021.12.09-09.52.28:579][598]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 250
+[2021.12.09-09.52.29:561][630]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 240
+[2021.12.09-09.52.39:469][968]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 230
+[2021.12.09-09.52.39:568][972]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 220
+[2021.12.09-09.52.41:329][ 32]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 210
+[2021.12.09-09.52.44:853][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 200
+[2021.12.09-09.52.50:952][365]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 190
+[2021.12.09-09.52.51:945][399]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 180
+[2021.12.09-09.52.56:149][543]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2021.12.09-09.52.56:149][543]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 160
+[2021.12.09-09.53.03:758][805]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 150
+[2021.12.09-09.53.07:453][932]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 140
+[2021.12.09-09.53.07:942][949]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 130
+[2021.12.09-09.53.08:948][982]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 120
+[2021.12.09-09.53.18:636][316]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 110
+[2021.12.09-09.53.18:823][323]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2021.12.09-09.53.20:373][376]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2021.12.09-09.53.23:976][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 80
+[2021.12.09-09.53.29:992][708]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2021.12.09-09.53.31:354][755]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2021.12.09-09.53.35:314][889]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2021.12.09-09.53.35:435][893]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2021.12.09-09.53.42:628][139]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2021.12.09-09.53.47:019][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.12.09-09.53.47:184][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.12.09-09.53.48:588][343]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.12.09-09.53.52:779][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.12.09-09.53.53:297][505]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.12.09-09.53.54:575][548]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.12.09-09.53.54:695][552]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.12.09-09.53.55:034][563]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.12.09-09.54.11:387][453]LogActorFactory: Actor Factory created Satelite
+[2021.12.09-09.54.12:495][509]LogActorFactory: Actor Factory created Satelite
+[2021.12.09-09.55.04:901][541]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.09-09.55.04:930][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.09-09.55.04:931][541]PIE: New page: PIE session: Test1 (9 dec. 2021 11:55:04)
+[2021.12.09-09.55.04:931][541]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Test1
+[2021.12.09-09.55.04:947][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015976s)
+[2021.12.09-09.55.04:949][541]LogAIModule: Creating AISystem for world Test1
+[2021.12.09-09.55.04:951][541]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B4CA4F7E00), frame # 162541
+[2021.12.09-09.55.04:951][541]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B4E8B4BD80), frame # 162541
+[2021.12.09-09.55.04:951][541]LogPlayLevel: PIE: World Init took: (0.003610s)
+[2021.12.09-09.55.04:952][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Test1.Test1 to /Game/Map/UEDPIE_0_Test1.Test1 (0.019918s)
+[2021.12.09-09.55.04:997][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.12.09-09.55.05:003][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.09-09.55.05:003][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.09-09.55.05:003][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.09-09.55.05:003][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.09-09.55.05:003][541]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.09-09.55.05:003][541]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.09-09.55.05:003][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.09-09.55.05:003][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.09-09.55.05:003][541]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.09-09.55.05:003][541]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.09-09.55.05:007][541]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.09-09.55.05:007][541]LogAudioMixer: Display: 1: FrontRight
+[2021.12.09-09.55.05:035][541]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.12.09-09.55.05:035][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.09-09.55.05:035][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.09-09.55.05:036][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.09-09.55.05:036][541]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.09-09.55.05:065][541]LogInit: FAudioDevice initialized.
+[2021.12.09-09.55.05:078][541]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.12.09-09.55.05:081][541]LogWorld: Bringing World /Game/Map/UEDPIE_0_Test1.Test1 up for play (max tick rate 60) at 2021.12.09-10.55.05
+[2021.12.09-09.55.05:081][541]LogWorld: Bringing up level for play took: 0.001618
+[2021.12.09-09.55.05:081][541]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.12.09-09.55.05:085][541]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2021.12.09-09.55.05:093][541]PIE: Server logged in
+[2021.12.09-09.55.05:094][541]PIE: Play in editor total start time 0,165 seconds.
+[2021.12.09-09.55.05:096][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:096][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:096][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:096][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:151][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:151][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:151][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:151][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:171][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:171][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:171][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:171][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:190][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:190][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:190][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:190][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:208][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:208][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:208][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:208][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:225][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:225][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:225][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:225][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:241][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:241][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:241][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:241][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:257][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:257][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:258][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:258][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:274][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:274][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:274][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:274][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:292][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:292][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:292][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:292][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:311][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:311][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:311][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:311][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:330][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:330][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:330][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:330][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:349][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:349][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:349][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:349][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:367][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:367][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:367][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:367][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:383][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:384][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:384][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:384][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:401][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:401][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:401][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:401][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:419][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:420][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:420][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:420][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:440][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:440][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:440][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:440][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:458][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:458][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:458][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:458][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:475][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:475][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:475][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:475][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:492][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:492][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:492][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:492][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:512][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:512][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:512][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:512][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:529][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:529][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:529][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:529][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:546][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:546][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:546][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:546][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:564][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:564][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:565][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:565][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:582][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:582][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:582][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:582][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:598][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:599][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:599][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:599][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:615][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:615][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:615][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:616][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:636][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:636][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:636][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:636][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:653][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:653][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:653][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:653][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:669][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:670][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:670][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:670][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:686][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:686][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:686][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:686][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:708][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:708][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:708][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:708][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:722][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:722][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:722][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:722][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:739][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:739][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:739][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:739][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:755][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:755][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:755][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:755][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:772][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:772][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:772][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:772][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:789][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:789][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:789][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:789][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:805][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:805][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:806][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:806][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:822][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:822][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:822][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:822][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:839][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:839][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:840][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:840][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:856][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:856][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:856][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:856][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:874][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:874][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:874][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:874][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:891][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:891][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:891][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:891][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:908][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:908][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:908][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:908][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:924][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:924][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:925][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:925][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:941][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:941][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:941][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:941][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:958][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:958][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:958][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:958][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:973][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:974][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:974][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:974][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:990][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:990][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.05:990][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.05:990][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:007][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:007][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:007][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:007][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:024][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:024][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:024][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:024][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:040][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:040][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:041][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:041][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:057][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:057][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:057][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:057][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:074][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:074][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:074][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:074][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:091][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:091][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:091][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:091][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:107][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:107][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:107][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:107][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:124][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:124][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:124][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:124][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:141][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:141][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:141][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:141][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:157][600]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:157][600]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:157][600]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:157][600]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:174][601]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:174][601]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:174][601]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:174][601]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:191][602]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:191][602]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:191][602]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:191][602]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:207][603]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:208][603]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:208][603]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:208][603]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:224][604]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:224][604]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:224][604]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:224][604]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:241][605]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:241][605]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:241][605]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:241][605]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:258][606]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:258][606]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:258][606]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:258][606]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:274][607]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:274][607]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:274][607]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:274][607]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:291][608]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:291][608]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:291][608]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:291][608]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:308][609]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:308][609]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:308][609]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:308][609]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:324][610]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:324][610]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:325][610]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:325][610]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:340][611]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:340][611]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:340][611]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:340][611]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:357][612]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:357][612]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:357][612]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:357][612]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:374][613]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:374][613]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:374][613]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:374][613]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:390][614]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:390][614]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:390][614]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:390][614]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:407][615]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:407][615]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:407][615]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:407][615]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:424][616]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:424][616]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:424][616]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:424][616]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:440][617]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:441][617]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:441][617]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:441][617]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:457][618]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:457][618]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:457][618]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:457][618]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:474][619]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:474][619]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:474][619]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:474][619]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:491][620]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:491][620]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:491][620]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:491][620]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:507][621]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:507][621]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:507][621]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:507][621]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:524][622]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:524][622]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:524][622]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:524][622]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:541][623]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:541][623]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:541][623]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:541][623]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:557][624]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:557][624]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:557][624]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:558][624]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:574][625]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:574][625]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:574][625]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:574][625]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:591][626]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:591][626]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.06:591][626]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:591][626]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.06:621][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.09-09.55.06:621][626]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Test1
+[2021.12.09-09.55.06:621][626]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2021.12.09-09.55.06:622][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.09-09.55.06:635][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.09-09.55.06:641][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.09-09.55.06:706][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.09-09.55.06:708][626]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B4E8B4BD80), frame # 162626
+[2021.12.09-09.55.06:708][626]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B4CA4F7E00), frame # 162626
+[2021.12.09-09.55.06:713][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.12.09-09.55.06:762][627]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.12.09-09.55.17:964][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Satelite)
+[2021.12.09-09.55.21:238][469]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.09-09.55.21:264][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.09-09.55.21:264][469]PIE: New page: PIE session: Test1 (9 dec. 2021 11:55:21)
+[2021.12.09-09.55.21:264][469]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Test1
+[2021.12.09-09.55.21:279][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013947s)
+[2021.12.09-09.55.21:280][469]LogAIModule: Creating AISystem for world Test1
+[2021.12.09-09.55.21:280][469]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B4E950B800), frame # 163469
+[2021.12.09-09.55.21:280][469]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B4EA4CD6C0), frame # 163469
+[2021.12.09-09.55.21:281][469]LogPlayLevel: PIE: World Init took: (0.002513s)
+[2021.12.09-09.55.21:281][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Test1.Test1 to /Game/Map/UEDPIE_0_Test1.Test1 (0.016675s)
+[2021.12.09-09.55.21:321][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.12.09-09.55.21:324][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.09-09.55.21:324][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.09-09.55.21:324][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.09-09.55.21:324][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.09-09.55.21:324][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.09-09.55.21:324][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.09-09.55.21:324][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.09-09.55.21:324][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.09-09.55.21:324][469]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.09-09.55.21:324][469]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.09-09.55.21:328][469]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.09-09.55.21:328][469]LogAudioMixer: Display: 1: FrontRight
+[2021.12.09-09.55.21:352][469]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.12.09-09.55.21:352][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.09-09.55.21:352][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.09-09.55.21:352][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.09-09.55.21:353][469]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.09-09.55.21:380][469]LogInit: FAudioDevice initialized.
+[2021.12.09-09.55.21:389][469]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.12.09-09.55.21:391][469]LogWorld: Bringing World /Game/Map/UEDPIE_0_Test1.Test1 up for play (max tick rate 60) at 2021.12.09-10.55.21
+[2021.12.09-09.55.21:391][469]LogWorld: Bringing up level for play took: 0.001334
+[2021.12.09-09.55.21:392][469]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.12.09-09.55.21:394][469]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2021.12.09-09.55.21:402][469]PIE: Server logged in
+[2021.12.09-09.55.21:403][469]PIE: Play in editor total start time 0,139 seconds.
+[2021.12.09-09.55.21:404][469]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:404][469]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:404][469]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:405][469]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:445][470]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:445][470]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:445][470]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:445][470]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:464][471]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:464][471]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:464][471]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:464][471]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:481][472]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:481][472]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:481][472]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:481][472]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:497][473]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:497][473]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:497][473]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:497][473]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:514][474]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:514][474]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:514][474]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:515][474]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:530][475]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:530][475]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:530][475]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:530][475]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:548][476]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:548][476]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:548][476]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:548][476]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:565][477]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:565][477]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:565][477]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:565][477]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:581][478]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:581][478]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:581][478]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:581][478]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:598][479]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:598][479]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:598][479]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:598][479]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:615][480]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:615][480]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:615][480]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:615][480]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:631][481]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:631][481]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:631][481]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:631][481]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:648][482]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:648][482]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:648][482]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:648][482]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:665][483]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:665][483]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:665][483]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:665][483]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:682][484]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:682][484]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:682][484]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:682][484]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:698][485]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:698][485]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:698][485]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:698][485]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:715][486]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:715][486]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:715][486]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:715][486]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:731][487]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:731][487]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:731][487]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:731][487]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:747][488]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:748][488]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:748][488]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:748][488]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:764][489]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:764][489]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:764][489]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:764][489]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:781][490]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:781][490]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:781][490]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:781][490]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:797][491]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:797][491]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:797][491]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:797][491]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:814][492]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:814][492]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:814][492]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:814][492]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:836][493]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:836][493]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:836][493]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:836][493]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:851][494]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:851][494]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:851][494]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:851][494]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:868][495]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:868][495]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:868][495]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:868][495]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:885][496]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:885][496]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:885][496]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:885][496]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:901][497]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:901][497]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:901][497]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:901][497]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:918][498]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:918][498]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:918][498]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:918][498]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:935][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:935][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:935][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:935][499]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:952][500]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:952][500]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:952][500]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:952][500]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:968][501]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:968][501]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:968][501]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:968][501]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:985][502]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:985][502]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.21:985][502]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.21:985][502]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:002][503]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:002][503]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:002][503]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:002][503]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:018][504]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:018][504]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:018][504]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:018][504]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:034][505]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:034][505]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:034][505]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:034][505]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:051][506]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:051][506]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:051][506]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:051][506]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:067][507]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:067][507]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:068][507]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:068][507]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:084][508]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:084][508]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:084][508]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:084][508]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:102][509]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:102][509]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:102][509]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:102][509]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:118][510]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:118][510]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:118][510]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:118][510]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:135][511]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:135][511]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:135][511]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:135][511]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:151][512]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:151][512]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:152][512]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:152][512]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:168][513]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:169][513]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:169][513]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:169][513]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:185][514]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:185][514]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:185][514]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:185][514]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:202][515]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:202][515]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:202][515]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:202][515]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:218][516]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:218][516]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:218][516]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:218][516]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:235][517]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:235][517]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:235][517]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:235][517]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:252][518]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:252][518]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:252][518]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:252][518]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:269][519]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:269][519]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:269][519]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:269][519]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:285][520]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:285][520]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:285][520]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:285][520]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:302][521]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:302][521]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:302][521]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:302][521]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:318][522]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:318][522]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:318][522]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:318][522]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:335][523]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:335][523]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:335][523]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:335][523]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:352][524]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:352][524]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:352][524]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:352][524]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:368][525]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:368][525]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:368][525]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:368][525]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:385][526]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:385][526]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:385][526]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:385][526]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:402][527]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:402][527]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:402][527]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:402][527]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:418][528]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:418][528]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:418][528]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:418][528]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:435][529]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:435][529]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:435][529]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:435][529]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:452][530]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:452][530]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:452][530]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:452][530]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:468][531]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:468][531]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:469][531]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:469][531]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:485][532]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:485][532]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:485][532]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:485][532]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:502][533]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:502][533]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:502][533]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:502][533]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:519][534]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:519][534]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:519][534]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:519][534]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:535][535]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:535][535]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:536][535]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:536][535]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:552][536]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:552][536]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:552][536]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:553][536]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:569][537]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:569][537]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:569][537]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:569][537]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:586][538]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:586][538]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:586][538]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:586][538]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:602][539]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:603][539]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:603][539]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:603][539]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:619][540]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:619][540]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:620][540]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:620][540]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:636][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:636][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:636][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:636][541]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:652][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:652][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:652][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:652][542]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:668][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:668][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:668][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:668][543]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:685][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:685][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:685][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:685][544]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:702][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:702][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:702][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:702][545]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:718][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:719][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:719][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:719][546]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:735][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:735][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:735][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:735][547]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:752][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:752][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:752][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:752][548]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:769][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:769][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:769][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:769][549]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:785][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:785][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:785][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:785][550]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:802][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:802][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:802][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:802][551]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:819][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:819][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:819][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:819][552]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:836][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:836][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:836][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:836][553]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:852][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:852][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:852][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:852][554]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:869][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:869][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:869][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:869][555]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:885][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:885][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:885][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:885][556]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:902][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:902][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:902][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:902][557]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:919][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:919][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:919][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:919][558]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:936][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:936][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:936][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:936][559]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:952][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:952][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:953][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:953][560]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:969][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:969][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:969][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:969][561]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:985][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:985][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.22:985][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.22:985][562]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:002][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:002][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:002][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:002][563]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:019][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:019][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:019][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:019][564]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:035][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:035][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:035][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:036][565]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:052][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:052][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:052][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:052][566]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:069][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:069][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:069][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:069][567]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:085][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:085][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:085][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:086][568]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:102][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:102][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:102][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:102][569]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:119][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:119][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:119][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:119][570]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:136][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:136][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:136][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:136][571]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:153][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:153][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:153][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:153][572]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:169][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:169][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:169][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:169][573]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:186][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:186][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:186][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:186][574]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:203][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:203][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:203][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:203][575]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:219][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:220][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:220][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:220][576]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:236][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:236][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:236][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:236][577]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:253][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:253][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:253][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:253][578]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:270][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:270][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:270][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:270][579]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:286][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:286][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:286][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:286][580]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:303][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:303][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:303][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:303][581]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:320][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:320][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:320][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:320][582]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:336][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:336][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:336][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:336][583]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:353][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:353][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:353][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:353][584]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:370][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:370][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:370][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:370][585]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:385][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:385][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:386][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:386][586]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:402][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:402][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:402][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:402][587]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:419][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:419][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:419][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:419][588]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:435][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:436][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:436][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:436][589]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:452][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:452][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:452][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:452][590]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:469][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:470][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:470][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:470][591]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:486][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:486][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:486][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:486][592]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:503][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:503][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:503][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:503][593]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:519][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:519][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:520][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:520][594]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:536][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:536][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:536][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:536][595]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:553][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:553][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:553][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:553][596]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:569][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:569][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:569][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:570][597]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:586][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:586][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:586][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:586][598]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:603][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:603][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] 
+[2021.12.09-09.55.23:603][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:603][599]LogBlueprintUserMessages: [SideScrollerCharacter_C_1] 
+[2021.12.09-09.55.23:651][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.09-09.55.23:651][599]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Test1
+[2021.12.09-09.55.23:651][599]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2021.12.09-09.55.23:651][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.09-09.55.23:665][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.09-09.55.23:670][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.09-09.55.23:703][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.09-09.55.23:734][599]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B4EA4CD6C0), frame # 163599
+[2021.12.09-09.55.23:734][599]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B4E950B800), frame # 163599
+[2021.12.09-09.55.23:738][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.12.09-09.55.23:786][600]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.12.09-09.55.24:845][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.09-09.55.24:891][656]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.12.09-09.55.25:017][656]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Test1264518C446BA2B10E900B79A99A659F7.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Test1.umap'
+[2021.12.09-09.55.25:068][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test1_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Test1_BuiltData.uasset" SILENT=true
+[2021.12.09-09.55.25:129][656]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Test1_BuiltDataD24BCE744DB683162CD526B376E420A7.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Test1_BuiltData.uasset'
+[2021.12.09-09.55.25:157][656]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.09-09.55.25:157][656]LogContentValidation: Display: Validating World /Game/Map/Test1.Test1
+[2021.12.09-09.55.25:157][656]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Test1_BuiltData.Test1_BuiltData
+[2021.12.09-09.55.47:926][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.09-09.55.47:968][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.12.09-09.55.48:067][  6]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Test1552B92F94AB8C9FF5FE63DAFB5E70E1C.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Test1.umap'
+[2021.12.09-09.55.48:111][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test1_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Test1_BuiltData.uasset" SILENT=true
+[2021.12.09-09.55.48:164][  6]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Test1_BuiltDataC11E212B42D06EA9F57DC99CF6D5B11C.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/Test1_BuiltData.uasset'
+[2021.12.09-09.55.48:190][  6]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.09-09.55.48:190][  6]LogContentValidation: Display: Validating World /Game/Map/Test1.Test1
+[2021.12.09-09.55.48:190][  6]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Test1_BuiltData.Test1_BuiltData
