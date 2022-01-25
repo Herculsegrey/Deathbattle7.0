@@ -19818,3 +19818,901 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.25-19.26.17:672][924]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.25-19.26.17:672][924]LogContentValidation: Display: Validating World /Game/Map/Test1.Test1
 [2022.01.25-19.26.17:672][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Test1_BuiltData.Test1_BuiltData
+[2022.01.25-19.27.03:499][ 90]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.25-19.27.40:347][193]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/CoffeOverlayTargetCECF879C4C5C49F03DC05E955288763F.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayTarget.uasset'
+[2022.01.25-19.27.40:415][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.01.25-19.27.40:430][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.25-19.27.40:439][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.01.25-19.27.40:594][193]AssetCheck: New page: Asset Save: CoffeOverlayTarget
+[2022.01.25-19.27.40:594][193]LogContentValidation: Display: Validating TextureRenderTarget2D /Game/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayTarget.CoffeOverlayTarget
+[2022.01.25-19.28.06:029][718]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.28.06:066][719]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.01.25-19.28.06:066][719]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.01.25-19.28.06:066][719]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.01.25-19.28.06:066][719]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.01.25-19.28.06:066][719]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.01.25-19.28.06:066][719]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.01.25-19.28.06:066][719]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.01.25-19.28.06:066][719]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.01.25-19.28.08:797][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test1" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.25-19.28.08:805][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.25-19.28.08:872][986]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/Test18FFD997E4B88256B792ACD85EF1EEA59.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1.umap'
+[2022.01.25-19.28.08:886][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test1_BuiltData" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1_BuiltData.uasset" SILENT=true
+[2022.01.25-19.28.08:914][986]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/Test1_BuiltData9CA4BE78428E7CA72EBF70910816DD25.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1_BuiltData.uasset'
+[2022.01.25-19.28.08:923][986]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.25-19.28.08:923][986]LogContentValidation: Display: Validating World /Game/Map/Test1.Test1
+[2022.01.25-19.28.08:923][986]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Test1_BuiltData.Test1_BuiltData
+[2022.01.25-19.28.10:268][136]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayMenu.CoffeOverlayMenu
+[2022.01.25-19.28.10:386][136]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2022.01.25-19.28.12:937][323]LogRenderer: Reallocating scene render targets to support 1208x716 Format 10 NumSamples 1 (Frame:191).
+[2022.01.25-19.28.13:155][349]LogSlate: Window 'CoffeOverlayMenu' being destroyed
+[2022.01.25-19.28.14:330][482]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.25-19.28.28:897][978]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.25-19.28.40:006][177]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:3037).
+[2022.01.25-19.28.41:651][321]LogSlate: Window 'CoffeOverlayMenu' being destroyed
+[2022.01.25-19.29.20:892][956]BlueprintLog: New page: Compile CoffeOverlayMenu
+[2022.01.25-19.29.20:918][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.01.25-19.29.21:402][  1]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/CoffeOverlayMenu161C93FC497A38B95780FF8CFF58A953.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayMenu.uasset'
+[2022.01.25-19.29.21:412][  1]AssetCheck: New page: Asset Save: CoffeOverlayMenu
+[2022.01.25-19.29.21:412][  1]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayMenu.CoffeOverlayMenu
+[2022.01.25-19.31.11:898][855]BlueprintLog: New page: Compile CoffeOverlayMenu
+[2022.01.25-19.31.11:940][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.01.25-19.31.12:405][898]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/CoffeOverlayMenu28EBF8644DDC53E213E6EB9E7B0BC1AB.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayMenu.uasset'
+[2022.01.25-19.31.12:414][898]AssetCheck: New page: Asset Save: CoffeOverlayMenu
+[2022.01.25-19.31.12:414][898]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayMenu.CoffeOverlayMenu
+[2022.01.25-19.31.22:482][147]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.25-19.32.09:507][244]BlueprintLog: New page: Compile CoffeOverlayMenu
+[2022.01.25-19.32.09:533][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.01.25-19.32.09:972][284]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/CoffeOverlayMenu317A053641C6C4B943E645888C386944.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayMenu.uasset'
+[2022.01.25-19.32.09:987][284]AssetCheck: New page: Asset Save: CoffeOverlayMenu
+[2022.01.25-19.32.09:987][284]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayMenu.CoffeOverlayMenu
+[2022.01.25-19.32.38:730][912]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayTarget_Mat.CoffeOverlayTarget_Mat
+[2022.01.25-19.32.38:732][912]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.32.38:973][912]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.32.38:985][912]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.01.25-19.32.38:985][912]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.01.25-19.32.38:985][912]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.01.25-19.32.38:985][912]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.25-19.32.38:988][912]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.25-19.32.38:989][912]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.01.25-19.32.38:989][912]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.01.25-19.32.38:989][912]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.01.25-19.32.38:989][912]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.01.25-19.32.39:495][956]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.01.25-19.32.39:523][959]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.01.25-19.32.39:651][974]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.25-19.32.39:719][982]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.01.25-19.32.39:769][988]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.01.25-19.32.39:868][999]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.01.25-19.32.39:868][999]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.01.25-19.32.39:868][999]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.01.25-19.32.39:868][999]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.25-19.32.39:868][999]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.32.39:868][999]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.33.17:060][739]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.17:075][740]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.01.25-19.33.17:075][740]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.01.25-19.33.17:075][740]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.01.25-19.33.17:075][740]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.25-19.33.17:075][740]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.01.25-19.33.17:075][740]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.01.25-19.33.17:075][740]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.01.25-19.33.17:075][740]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.01.25-19.33.17:647][791]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.25-19.33.17:923][821]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.01.25-19.33.17:923][821]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.01.25-19.33.17:923][821]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.01.25-19.33.17:923][821]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.25-19.33.17:923][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.33.17:923][821]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.33.18:253][859]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.18:264][859]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.01.25-19.33.18:264][859]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.01.25-19.33.18:264][859]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.01.25-19.33.18:264][859]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.25-19.33.18:264][859]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.01.25-19.33.18:264][859]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.01.25-19.33.18:264][859]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.01.25-19.33.18:264][859]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.01.25-19.33.18:264][859]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.18:269][859]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.18:407][873]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.01.25-19.33.18:424][875]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.25-19.33.18:467][880]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.01.25-19.33.18:467][880]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.25-19.33.18:467][880]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.01.25-19.33.18:483][882]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.25-19.33.18:589][894]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.01.25-19.33.18:610][896]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.01.25-19.33.18:658][902]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.25-19.33.18:778][916]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2022.01.25-19.33.18:778][916]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.18:778][916]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.18:778][916]MaterialEditorStats: Texture samplers: 1/16
+[2022.01.25-19.33.24:035][139]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.24:040][139]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.25-19.33.24:048][140]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2022.01.25-19.33.24:048][140]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.01.25-19.33.24:048][140]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.01.25-19.33.24:048][140]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2022.01.25-19.33.24:048][140]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.01.25-19.33.24:048][140]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.01.25-19.33.24:048][140]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.01.25-19.33.24:048][140]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.01.25-19.33.24:184][153]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.01.25-19.33.24:184][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.01.25-19.33.24:234][159]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.01.25-19.33.24:235][159]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.01.25-19.33.24:235][159]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.25-19.33.24:434][178]MaterialEditorStats: Default UI Pixel Shader: 33 instructions
+[2022.01.25-19.33.24:434][178]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.24:434][178]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.24:434][178]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.25-19.33.24:434][178]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.33.24:434][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.33.35:973][918]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.35:984][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.01.25-19.33.35:984][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.01.25-19.33.35:984][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.01.25-19.33.35:984][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.25-19.33.35:984][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.01.25-19.33.35:984][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.01.25-19.33.35:984][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.01.25-19.33.35:984][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.01.25-19.33.36:096][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.25-19.33.36:300][955]MaterialEditorStats: Default UI Pixel Shader: 33 instructions
+[2022.01.25-19.33.36:300][955]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.36:300][955]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.36:300][955]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.25-19.33.36:300][955]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.33.36:300][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.33.36:903][ 27]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.36:910][ 27]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.36:914][ 27]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.36:929][ 29]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.01.25-19.33.36:929][ 29]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.01.25-19.33.36:929][ 29]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.01.25-19.33.36:929][ 29]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.25-19.33.36:929][ 29]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.01.25-19.33.36:929][ 29]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.33.36:929][ 29]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.25-19.33.36:929][ 29]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.25-19.33.37:084][ 45]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.01.25-19.33.37:104][ 47]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.01.25-19.33.37:198][ 58]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.01.25-19.33.37:224][ 61]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.25-19.33.37:224][ 61]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.25-19.33.37:264][ 66]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.25-19.33.37:340][ 75]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.25-19.33.37:526][ 97]MaterialEditorStats: Default UI Pixel Shader: 33 instructions
+[2022.01.25-19.33.37:526][ 97]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.37:526][ 97]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.37:526][ 97]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.25-19.33.37:526][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.33.37:526][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.33.50:597][743]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.50:602][743]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.50:613][743]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.01.25-19.33.50:613][743]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.01.25-19.33.50:613][743]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.01.25-19.33.50:613][743]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.25-19.33.50:613][743]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.01.25-19.33.50:613][743]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.33.50:613][743]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.25-19.33.50:613][743]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.25-19.33.50:617][743]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.25-19.33.50:790][761]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.01.25-19.33.50:790][761]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.33.50:905][775]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.01.25-19.33.50:915][776]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.01.25-19.33.50:915][776]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.01.25-19.33.50:945][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.01.25-19.33.51:013][788]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.01.25-19.33.51:013][788]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.01.25-19.33.51:030][790]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.01.25-19.33.51:053][793]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.01.25-19.33.51:053][793]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.25-19.33.51:309][823]MaterialEditorStats: Default UI Pixel Shader: 33 instructions
+[2022.01.25-19.33.51:309][823]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.51:309][823]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.51:309][823]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.25-19.33.51:309][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.33.51:309][823]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.33.57:015][ 60]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.33.57:020][ 60]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.01.25-19.33.57:020][ 60]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.01.25-19.33.57:020][ 60]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.01.25-19.33.57:020][ 60]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.25-19.33.57:020][ 60]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.01.25-19.33.57:020][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.33.57:020][ 60]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.25-19.33.57:020][ 60]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.25-19.33.57:224][ 77]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.01.25-19.33.57:224][ 77]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.01.25-19.33.57:353][ 91]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.01.25-19.33.57:353][ 91]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.01.25-19.33.57:354][ 91]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.01.25-19.33.57:354][ 91]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.25-19.33.57:432][100]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.25-19.33.57:636][124]MaterialEditorStats: Default UI Pixel Shader: 34 instructions
+[2022.01.25-19.33.57:636][124]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.57:636][124]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.33.57:636][124]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.25-19.33.57:636][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.33.57:636][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.34.13:961][262]LogMaterialEditor: Saving and Compiling material CoffeOverlayTarget_Mat
+[2022.01.25-19.34.14:346][262]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.34.14:370][262]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.01.25-19.34.14:370][262]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.01.25-19.34.14:370][262]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.01.25-19.34.14:370][262]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.25-19.34.14:370][262]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.01.25-19.34.14:370][262]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.34.14:370][262]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.25-19.34.14:370][262]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.25-19.34.14:373][262]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.34.14:400][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.01.25-19.34.14:402][262]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.01.25-19.34.14:422][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.01.25-19.34.14:977][262]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.01.25-19.34.15:513][262]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.25-19.34.15:513][262]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.01.25-19.34.15:513][262]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.01.25-19.34.15:649][262]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/CoffeOverlayTarget_Mat6DA8E10C40118CB46ED9679F53D3EF23.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayTarget_Mat.uasset'
+[2022.01.25-19.34.15:674][262]AssetCheck: New page: Asset Save: CoffeOverlayTarget_Mat
+[2022.01.25-19.34.15:674][262]LogContentValidation: Display: Validating Material /Game/Blueprints/Grejer/skott/SkottOverlayMenu/CoffeOverlayTarget_Mat.CoffeOverlayTarget_Mat
+[2022.01.25-19.34.29:240][773]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.01.25-19.34.55:450][950]LogEditorTransaction: Undo Move Widget
+[2022.01.25-19.34.55:480][950]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.34.55:488][950]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.01.25-19.34.55:488][950]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.01.25-19.34.55:488][950]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.01.25-19.34.55:488][950]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.25-19.34.55:488][950]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.01.25-19.34.55:488][950]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.34.55:488][950]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.25-19.34.55:488][950]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.25-19.34.55:745][959]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.01.25-19.34.55:778][960]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.01.25-19.34.55:888][964]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.01.25-19.34.55:888][964]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.25-19.34.55:915][965]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.25-19.34.55:945][967]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.25-19.34.56:023][972]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.25-19.34.56:237][993]MaterialEditorStats: Default UI Pixel Shader: 34 instructions
+[2022.01.25-19.34.56:237][993]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.34.56:237][993]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.34.56:237][993]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.25-19.34.56:237][993]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.34.56:237][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.34.59:552][351]LogEditorTransaction: Undo Move Widget
+[2022.01.25-19.34.59:568][351]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.34.59:614][352]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.01.25-19.34.59:614][352]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.01.25-19.34.59:615][352]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.01.25-19.34.59:615][352]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.25-19.34.59:615][352]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.01.25-19.34.59:615][352]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.34.59:615][352]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.25-19.34.59:615][352]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.25-19.34.59:790][359]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2022.01.25-19.34.59:820][359]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.25-19.34.59:903][362]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.01.25-19.34.59:903][362]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.25-19.34.59:903][362]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.01.25-19.34.59:956][364]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.01.25-19.34.59:985][365]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.25-19.35.00:190][383]MaterialEditorStats: Default UI Pixel Shader: 34 instructions
+[2022.01.25-19.35.00:190][383]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.35.00:190][383]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.35.00:190][383]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.25-19.35.00:190][383]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.35.00:190][383]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.35.02:096][582]LogEditorTransaction: Undo Move Widget
+[2022.01.25-19.35.02:112][582]LogMaterial: Display: Missing cached shader map for material CoffeOverlayTarget_Mat, compiling. 
+[2022.01.25-19.35.02:138][583]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.01.25-19.35.02:138][583]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.01.25-19.35.02:138][583]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.01.25-19.35.02:138][583]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.25-19.35.02:138][583]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.01.25-19.35.02:138][583]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.01.25-19.35.02:138][583]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.25-19.35.02:138][583]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.25-19.35.02:351][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2022.01.25-19.35.02:351][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.25-19.35.02:504][611]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.01.25-19.35.02:504][611]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.01.25-19.35.02:531][613]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.25-19.35.02:553][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.01.25-19.35.02:594][619]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.25-19.35.02:840][646]MaterialEditorStats: Default UI Pixel Shader: 34 instructions
+[2022.01.25-19.35.02:841][646]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.01.25-19.35.02:841][646]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.01.25-19.35.02:841][646]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.25-19.35.02:841][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.25-19.35.02:841][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.25-19.35.32:244][449]BlueprintLog: New page: Compile Shop_menu
+[2022.01.25-19.35.32:296][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.01.25-19.35.32:976][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.01.25-19.35.33:004][520]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/Shop_menuA571549E45A1F4AAE72F57AC0952C1D2.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.01.25-19.35.33:015][520]AssetCheck: New page: Asset Save: Shop_menu
+[2022.01.25-19.35.33:015][520]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.01.25-19.36.34:794][718]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.36.34:818][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.01.25-19.36.36:875][718]LogSlate: Window 'Save Content' being destroyed
+[2022.01.25-19.36.36:881][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.01.25-19.36.36:909][718]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/Shop_menu7960A52147F09DAE2B950BA2408D9FE1.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.01.25-19.36.36:910][718]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.36.36:911][718]LightingResults: New page: Lighting Build
+[2022.01.25-19.36.36:911][718]LoadErrors: New page: Loading map: WeaponChange.umap
+[2022.01.25-19.36.36:950][718]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.36.36:950][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.36.36:950][718]MapCheck: New page: Map Check
+[2022.01.25-19.36.36:950][718]LightingResults: New page: Lighting Build
+[2022.01.25-19.36.36:970][718]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FB3BAB0540), frame # 1007718
+[2022.01.25-19.36.36:970][718]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FB043CF800), frame # 1007718
+[2022.01.25-19.36.36:973][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.01.25-19.36.36:976][718]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.36.36:976][718]LogAIModule: Creating AISystem for world WeaponChange
+[2022.01.25-19.36.36:976][718]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FB31F53000), frame # 1007718
+[2022.01.25-19.36.36:976][718]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBB5223880), frame # 1007718
+[2022.01.25-19.36.36:998][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.01.25-19.36.37:012][718]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.36.37:012][718]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,13ms to complete.
+[2022.01.25-19.36.37:012][718]LogFileHelpers: Loading map 'WeaponChange' took 0.101
+[2022.01.25-19.36.37:043][718]AssetCheck: New page: Asset Save: Shop_menu
+[2022.01.25-19.36.37:043][718]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.01.25-19.36.39:579][995]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/WeaponChange.WeaponChange:PersistentLevel.WeaponChange
+[2022.01.25-19.36.47:103][836]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.25-19.37.42:102][869]BlueprintLog: New page: Compile WeaponChange
+[2022.01.25-19.37.42:140][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.01.25-19.37.42:591][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.01.25-19.37.42:621][912]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/WeaponChange74AC50EB4E6F9FC06444FB84C32B713E.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap'
+[2022.01.25-19.37.42:636][912]LogFileHelpers: Saving map 'WeaponChange' took 0.068
+[2022.01.25-19.37.42:649][912]AssetCheck: New page: Asset Save: WeaponChange
+[2022.01.25-19.37.42:649][912]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.38.00:013][477]BlueprintLog: New page: Compile WeaponChange
+[2022.01.25-19.38.00:050][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.01.25-19.38.00:421][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.01.25-19.38.00:452][509]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/WeaponChange2340CB144D981772A2DFB186C2CEE84F.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap'
+[2022.01.25-19.38.00:467][509]LogFileHelpers: Saving map 'WeaponChange' took 0.070
+[2022.01.25-19.38.00:478][509]AssetCheck: New page: Asset Save: WeaponChange
+[2022.01.25-19.38.00:478][509]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.38.25:615][918]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.25-19.38.25:624][918]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.25-19.38.25:626][918]LogPlayLevel: [PlayLevel] Compiling Shop_menu before play...
+[2022.01.25-19.38.25:695][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.01.25-19.38.25:695][918]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2022.01.25-19.38.25:695][918]PIE: New page: PIE session: WeaponChange (25 jan. 2022 21:38:25)
+[2022.01.25-19.38.25:696][918]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_WeaponChange
+[2022.01.25-19.38.25:698][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001903s)
+[2022.01.25-19.38.25:699][918]LogAIModule: Creating AISystem for world WeaponChange
+[2022.01.25-19.38.25:699][918]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FB40A49A00), frame # 1014918
+[2022.01.25-19.38.25:699][918]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FB31FD9D00), frame # 1014918
+[2022.01.25-19.38.25:699][918]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2022.01.25-19.38.25:699][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/WeaponChange.WeaponChange to /Game/Map/UEDPIE_0_WeaponChange.WeaponChange (0.003153s)
+[2022.01.25-19.38.25:721][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.01.25-19.38.25:722][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.25-19.38.25:722][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.25-19.38.25:722][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.25-19.38.25:722][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.25-19.38.25:722][918]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.25-19.38.25:722][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.25-19.38.25:722][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.25-19.38.25:722][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.25-19.38.25:722][918]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.25-19.38.25:722][918]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.25-19.38.25:724][918]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.25-19.38.25:724][918]LogAudioMixer: Display: 1: FrontRight
+[2022.01.25-19.38.25:735][918]LogAudioMixer: Display: Using Audio Device Högtalare (High Definition Audio Device)
+[2022.01.25-19.38.25:735][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.25-19.38.25:735][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.25-19.38.25:735][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.25-19.38.25:735][918]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.25-19.38.25:749][918]LogInit: FAudioDevice initialized.
+[2022.01.25-19.38.25:775][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.25-19.38.25:776][918]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.25-19.38.25:776][918]LogWorld: Bringing World /Game/Map/UEDPIE_0_WeaponChange.WeaponChange up for play (max tick rate 0) at 2022.01.25-20.38.25
+[2022.01.25-19.38.25:777][918]LogWorld: Bringing up level for play took: 0.000497
+[2022.01.25-19.38.25:777][918]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.01.25-19.38.25:780][918]PIE: Server logged in
+[2022.01.25-19.38.25:781][918]PIE: Play in editor total start time 0,158 seconds.
+[2022.01.25-19.38.25:839][920]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.01.25-19.38.34:930][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.25-19.38.34:930][991]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_WeaponChange
+[2022.01.25-19.38.34:930][991]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.01.25-19.38.34:934][991]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.38.34:934][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.38.34:943][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.25-19.38.34:946][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.38.34:984][991]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FB31FD9D00), frame # 1015991
+[2022.01.25-19.38.34:984][991]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FB40A49A00), frame # 1015991
+[2022.01.25-19.38.34:986][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.01.25-19.38.35:003][992]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.01.25-19.38.37:169][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.01.25-19.38.37:198][246]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/WeaponChange89D961F64A63A8668F22688CE123B9B7.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap'
+[2022.01.25-19.38.37:212][246]LogFileHelpers: Saving map 'WeaponChange' took 0.067
+[2022.01.25-19.38.37:221][246]AssetCheck: New page: Asset Save: WeaponChange
+[2022.01.25-19.38.37:221][246]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.38.37:515][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.25-19.38.37:544][275]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/WeaponChange06FE06CE46008512B2D360AC6177098E.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap'
+[2022.01.25-19.38.37:558][275]LogFileHelpers: Saving map 'WeaponChange' took 0.066
+[2022.01.25-19.38.37:566][275]AssetCheck: New page: Asset Save: WeaponChange
+[2022.01.25-19.38.37:566][275]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.39.02:488][260]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.25-19.39.02:496][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.25-19.39.02:496][260]PIE: New page: PIE session: WeaponChange (25 jan. 2022 21:39:02)
+[2022.01.25-19.39.02:497][260]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_WeaponChange
+[2022.01.25-19.39.02:499][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001995s)
+[2022.01.25-19.39.02:499][260]LogAIModule: Creating AISystem for world WeaponChange
+[2022.01.25-19.39.02:499][260]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FB8EC58C00), frame # 1019260
+[2022.01.25-19.39.02:499][260]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBF59A8180), frame # 1019260
+[2022.01.25-19.39.02:500][260]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2022.01.25-19.39.02:500][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/WeaponChange.WeaponChange to /Game/Map/UEDPIE_0_WeaponChange.WeaponChange (0.003136s)
+[2022.01.25-19.39.02:523][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.01.25-19.39.02:524][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.25-19.39.02:524][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.25-19.39.02:524][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.25-19.39.02:524][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.25-19.39.02:524][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.25-19.39.02:524][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.25-19.39.02:524][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.25-19.39.02:524][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.25-19.39.02:524][260]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.25-19.39.02:524][260]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.25-19.39.02:526][260]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.25-19.39.02:526][260]LogAudioMixer: Display: 1: FrontRight
+[2022.01.25-19.39.02:536][260]LogAudioMixer: Display: Using Audio Device Högtalare (High Definition Audio Device)
+[2022.01.25-19.39.02:536][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.25-19.39.02:536][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.25-19.39.02:536][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.25-19.39.02:536][260]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.25-19.39.02:549][260]LogInit: FAudioDevice initialized.
+[2022.01.25-19.39.02:574][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.25-19.39.02:575][260]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.25-19.39.02:575][260]LogWorld: Bringing World /Game/Map/UEDPIE_0_WeaponChange.WeaponChange up for play (max tick rate 0) at 2022.01.25-20.39.02
+[2022.01.25-19.39.02:575][260]LogWorld: Bringing up level for play took: 0.000406
+[2022.01.25-19.39.02:576][260]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.01.25-19.39.02:579][260]PIE: Server logged in
+[2022.01.25-19.39.02:580][260]PIE: Play in editor total start time 0,084 seconds.
+[2022.01.25-19.39.03:320][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.25-19.39.03:320][325]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_WeaponChange
+[2022.01.25-19.39.03:320][325]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.01.25-19.39.03:324][325]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.39.03:325][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.39.03:333][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.25-19.39.03:336][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.39.03:373][325]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBF59A8180), frame # 1019325
+[2022.01.25-19.39.03:373][325]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FB8EC58C00), frame # 1019325
+[2022.01.25-19.39.03:375][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.01.25-19.39.03:393][326]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.01.25-19.40.19:382][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.01.25-19.40.19:414][121]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/WeaponChangeDB0895FA4C991607D44CD4B01B43C4A0.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap'
+[2022.01.25-19.40.19:428][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/WeaponChange_BuiltData" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange_BuiltData.uasset" SILENT=true
+[2022.01.25-19.40.19:457][121]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/WeaponChange_BuiltData39F265174331BCB97E8AE4B4C8FFFCD0.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange_BuiltData.uasset'
+[2022.01.25-19.40.19:472][121]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.25-19.40.19:472][121]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.40.19:472][121]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/WeaponChange_BuiltData.WeaponChange_BuiltData
+[2022.01.25-19.40.21:894][392]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Moon.Moon
+[2022.01.25-19.40.21:919][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.25-19.40.22:908][392]LogSlate: Window 'Save Content' being destroyed
+[2022.01.25-19.40.22:919][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.01.25-19.40.22:950][392]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/Shop_menuEB6C8A234639C267219F78B7D217E3DF.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.01.25-19.40.22:951][392]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Moon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.40.22:951][392]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.22:951][392]LoadErrors: New page: Loading map: Moon.umap
+[2022.01.25-19.40.22:988][392]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.22:989][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.23:024][392]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.23:025][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.23:025][392]MapCheck: New page: Map Check
+[2022.01.25-19.40.23:025][392]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.23:047][392]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBB5223880), frame # 1028392
+[2022.01.25-19.40.23:047][392]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FB31F53000), frame # 1028392
+[2022.01.25-19.40.23:050][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.01.25-19.40.23:054][392]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.40.23:054][392]LogAIModule: Creating AISystem for world Moon
+[2022.01.25-19.40.23:054][392]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBA225D600), frame # 1028392
+[2022.01.25-19.40.23:054][392]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FB984E4540), frame # 1028392
+[2022.01.25-19.40.23:080][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.01.25-19.40.23:094][392]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.40.23:094][392]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2022.01.25-19.40.23:094][392]LogFileHelpers: Loading map 'Moon' took 0.143
+[2022.01.25-19.40.23:130][392]AssetCheck: New page: Asset Save: Shop_menu
+[2022.01.25-19.40.23:130][392]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.01.25-19.40.25:501][653]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/NewMap.NewMap
+[2022.01.25-19.40.25:523][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.01.25-19.40.25:525][653]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.40.25:525][653]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.25:525][653]LoadErrors: New page: Loading map: NewMap.umap
+[2022.01.25-19.40.25:549][653]LogWorld: UWorld::CleanupWorld for Moon, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.25:550][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.25:550][653]MapCheck: New page: Map Check
+[2022.01.25-19.40.25:550][653]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.25:570][653]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FB984E4540), frame # 1028653
+[2022.01.25-19.40.25:570][653]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBA225D600), frame # 1028653
+[2022.01.25-19.40.25:572][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.01.25-19.40.25:577][653]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.40.25:577][653]LogAIModule: Creating AISystem for world NewMap
+[2022.01.25-19.40.25:578][653]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBF4DFA600), frame # 1028653
+[2022.01.25-19.40.25:578][653]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FB984E5D00), frame # 1028653
+[2022.01.25-19.40.25:601][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.01.25-19.40.25:615][653]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.40.25:615][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,119ms to complete.
+[2022.01.25-19.40.25:615][653]LogFileHelpers: Loading map 'NewMap' took 0.090
+[2022.01.25-19.40.26:673][768]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Test.Test
+[2022.01.25-19.40.26:696][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.25-19.40.26:697][768]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.40.26:697][768]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.26:697][768]LoadErrors: New page: Loading map: Test.umap
+[2022.01.25-19.40.26:729][768]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.26:729][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.26:729][768]MapCheck: New page: Map Check
+[2022.01.25-19.40.26:729][768]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.26:749][768]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FB984E5D00), frame # 1028768
+[2022.01.25-19.40.26:750][768]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBF4DFA600), frame # 1028768
+[2022.01.25-19.40.26:752][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.01.25-19.40.26:756][768]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.40.26:756][768]LogAIModule: Creating AISystem for world Test
+[2022.01.25-19.40.26:756][768]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FB31F52E00), frame # 1028768
+[2022.01.25-19.40.26:756][768]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FB983B7380), frame # 1028768
+[2022.01.25-19.40.26:780][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.01.25-19.40.26:794][768]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.40.26:794][768]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2022.01.25-19.40.26:794][768]LogFileHelpers: Loading map 'Test' took 0.097
+[2022.01.25-19.40.27:640][860]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Test1.Test1
+[2022.01.25-19.40.27:663][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.01.25-19.40.27:664][860]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.40.27:664][860]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.27:664][860]LoadErrors: New page: Loading map: Test1.umap
+[2022.01.25-19.40.27:665][860]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.27:665][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.27:665][860]MapCheck: New page: Map Check
+[2022.01.25-19.40.27:665][860]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.27:686][860]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FB983B7380), frame # 1028860
+[2022.01.25-19.40.27:686][860]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FB31F52E00), frame # 1028860
+[2022.01.25-19.40.27:688][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.01.25-19.40.27:694][860]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.40.27:694][860]LogAIModule: Creating AISystem for world Test1
+[2022.01.25-19.40.27:694][860]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBEB864200), frame # 1028860
+[2022.01.25-19.40.27:694][860]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBF49D9800), frame # 1028860
+[2022.01.25-19.40.27:717][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.01.25-19.40.27:730][860]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.40.27:730][860]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,132ms to complete.
+[2022.01.25-19.40.27:731][860]LogFileHelpers: Loading map 'Test1' took 0.067
+[2022.01.25-19.40.29:626][ 75]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.40.29:648][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.01.25-19.40.29:650][ 75]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.40.29:650][ 75]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.29:650][ 75]LoadErrors: New page: Loading map: WeaponChange.umap
+[2022.01.25-19.40.29:651][ 75]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.29:651][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.29:651][ 75]MapCheck: New page: Map Check
+[2022.01.25-19.40.29:651][ 75]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.29:673][ 75]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBF49D9800), frame # 1029075
+[2022.01.25-19.40.29:673][ 75]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBEB864200), frame # 1029075
+[2022.01.25-19.40.29:675][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.25-19.40.29:678][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.40.29:678][ 75]LogAIModule: Creating AISystem for world WeaponChange
+[2022.01.25-19.40.29:678][ 75]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBF3865200), frame # 1029075
+[2022.01.25-19.40.29:678][ 75]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FB98291F80), frame # 1029075
+[2022.01.25-19.40.29:701][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.01.25-19.40.29:714][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.40.29:714][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2022.01.25-19.40.29:714][ 75]LogFileHelpers: Loading map 'WeaponChange' took 0.065
+[2022.01.25-19.40.31:384][264]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Test1.Test1
+[2022.01.25-19.40.31:407][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.01.25-19.40.31:408][264]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.40.31:408][264]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.31:408][264]LoadErrors: New page: Loading map: Test1.umap
+[2022.01.25-19.40.31:439][264]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.31:439][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.31:439][264]MapCheck: New page: Map Check
+[2022.01.25-19.40.31:439][264]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.31:460][264]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FB98291F80), frame # 1029264
+[2022.01.25-19.40.31:460][264]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBF3865200), frame # 1029264
+[2022.01.25-19.40.31:462][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.01.25-19.40.31:466][264]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.40.31:466][264]LogAIModule: Creating AISystem for world Test1
+[2022.01.25-19.40.31:466][264]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBD36D1C00), frame # 1029264
+[2022.01.25-19.40.31:466][264]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBB47CE5C0), frame # 1029264
+[2022.01.25-19.40.31:492][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.01.25-19.40.31:505][264]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.40.31:505][264]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2022.01.25-19.40.31:505][264]LogFileHelpers: Loading map 'Test1' took 0.098
+[2022.01.25-19.40.33:185][456]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.40.33:207][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.01.25-19.40.33:208][456]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.40.33:208][456]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.33:208][456]LoadErrors: New page: Loading map: WeaponChange.umap
+[2022.01.25-19.40.33:210][456]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.33:210][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.33:210][456]MapCheck: New page: Map Check
+[2022.01.25-19.40.33:210][456]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.33:232][456]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBB47CE5C0), frame # 1029456
+[2022.01.25-19.40.33:232][456]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBD36D1C00), frame # 1029456
+[2022.01.25-19.40.33:235][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.01.25-19.40.33:237][456]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.40.33:237][456]LogAIModule: Creating AISystem for world WeaponChange
+[2022.01.25-19.40.33:237][456]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBF4DF8400), frame # 1029456
+[2022.01.25-19.40.33:237][456]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBCE96DBC0), frame # 1029456
+[2022.01.25-19.40.33:259][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.01.25-19.40.33:273][456]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.40.33:273][456]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,137ms to complete.
+[2022.01.25-19.40.33:273][456]LogFileHelpers: Loading map 'WeaponChange' took 0.065
+[2022.01.25-19.40.36:580][742]LogSlate: Window 'New Level' being destroyed
+[2022.01.25-19.40.36:584][742]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.40.36:599][742]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.36:599][742]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.01.25-19.40.36:600][742]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.40.36:600][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.40.36:600][742]MapCheck: New page: Map Check
+[2022.01.25-19.40.36:600][742]LightingResults: New page: Lighting Build
+[2022.01.25-19.40.36:624][742]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBCE96DBC0), frame # 1029742
+[2022.01.25-19.40.36:624][742]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBF4DF8400), frame # 1029742
+[2022.01.25-19.40.36:626][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.01.25-19.40.36:640][742]LogAIModule: Creating AISystem for world Untitled_1
+[2022.01.25-19.40.36:640][742]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBD36D2000), frame # 1029742
+[2022.01.25-19.40.36:641][742]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBCEAC2200), frame # 1029742
+[2022.01.25-19.40.36:642][742]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.40.36:668][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.01.25-19.40.36:681][742]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.40.36:682][742]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,206ms to complete.
+[2022.01.25-19.40.36:682][742]LogFileHelpers: Loading map 'Template_Default' took 0.098
+[2022.01.25-19.40.44:643][919]LogSlate: Window 'Save Level As' being destroyed
+[2022.01.25-19.40.44:664][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/MainMenu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.25-19.40.44:723][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.01.25-19.40.44:733][919]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenu5B62F7D74DB794ACC390C099FD8C079E.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap'
+[2022.01.25-19.40.44:747][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/MainMenu_BuiltData" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu_BuiltData.uasset" SILENT=true
+[2022.01.25-19.40.44:754][919]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenu_BuiltData5D14F0C2410123CFAF8824BB32E66DDA.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu_BuiltData.uasset'
+[2022.01.25-19.40.44:761][919]LogFileHelpers: Saving map 'MainMenu' took 0.113
+[2022.01.25-19.40.44:771][919]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.25-19.40.44:771][919]LogContentValidation: Display: Validating World /Game/Map/MainMenu.MainMenu
+[2022.01.25-19.40.44:771][919]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/MainMenu_BuiltData.MainMenu_BuiltData
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6037CF39-4208-FF73-753E-649E127CE322%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=f346bf57406b7b3752815c9d84a72c64%7Cdf1c9455e3f349f5a0e60309858c95f8%7C810a1a55-150e-4b2a-8a94-8fe5648b4895&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: request failed, libcurl error: 0 (No error)
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fb67eaff70 [can pipeline])
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 1 (Re-using existing connection! (#50) with host datarouter.ol.epicgames.com)
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.156.232.14) port 443 (#50))
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 7 (Closing connection 50)
+[2022.01.25-19.40.44:829][923]LogHttp: Warning: 000001FB97090800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.01.25-19.40.44:853][924]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6037CF39-4208-FF73-753E-649E127CE322%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=f346bf57406b7b3752815c9d84a72c64%7Cdf1c9455e3f349f5a0e60309858c95f8%7C810a1a55-150e-4b2a-8a94-8fe5648b4895&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2022.01.25-19.40.46:613][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/MainMenu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.25-19.40.46:655][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.01.25-19.40.46:686][128]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenuB5F3440747434156000DA284D35E5521.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap'
+[2022.01.25-19.40.46:701][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/MainMenu_BuiltData" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu_BuiltData.uasset" SILENT=true
+[2022.01.25-19.40.46:728][128]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenu_BuiltData4A9939B84068069DC254878CC94C9839.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu_BuiltData.uasset'
+[2022.01.25-19.40.46:741][128]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.25-19.40.46:741][128]LogContentValidation: Display: Validating World /Game/Map/MainMenu.MainMenu
+[2022.01.25-19.40.46:741][128]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/MainMenu_BuiltData.MainMenu_BuiltData
+[2022.01.25-19.40.56:899][326]BlueprintLog: New page: Compile Shop_menu
+[2022.01.25-19.40.56:922][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.01.25-19.40.57:467][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.01.25-19.40.57:494][385]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/Shop_menu1CA567684F71460F8C8C8EBF7BD723E2.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.01.25-19.40.57:503][385]AssetCheck: New page: Asset Save: Shop_menu
+[2022.01.25-19.40.57:503][385]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.01.25-19.41.13:470][222]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/WeaponChange.WeaponChange
+[2022.01.25-19.41.13:491][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.01.25-19.41.13:492][222]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.41.13:492][222]LightingResults: New page: Lighting Build
+[2022.01.25-19.41.13:492][222]LoadErrors: New page: Loading map: WeaponChange.umap
+[2022.01.25-19.41.13:528][222]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.41.13:529][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.13:529][222]MapCheck: New page: Map Check
+[2022.01.25-19.41.13:529][222]LightingResults: New page: Lighting Build
+[2022.01.25-19.41.13:549][222]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBCEAC2200), frame # 1033222
+[2022.01.25-19.41.13:549][222]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBD36D2000), frame # 1033222
+[2022.01.25-19.41.13:551][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.01.25-19.41.13:553][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.41.13:553][222]LogAIModule: Creating AISystem for world WeaponChange
+[2022.01.25-19.41.13:553][222]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBFBA5BC00), frame # 1033222
+[2022.01.25-19.41.13:553][222]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBF2BA5800), frame # 1033222
+[2022.01.25-19.41.13:575][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.01.25-19.41.13:589][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.41.13:589][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,168ms to complete.
+[2022.01.25-19.41.13:589][222]LogFileHelpers: Loading map 'WeaponChange' took 0.097
+[2022.01.25-19.41.15:184][408]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.25-19.41.15:192][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.25-19.41.15:192][408]PIE: New page: PIE session: WeaponChange (25 jan. 2022 21:41:15)
+[2022.01.25-19.41.15:219][408]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_WeaponChange
+[2022.01.25-19.41.15:221][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2022.01.25-19.41.15:221][408]LogAIModule: Creating AISystem for world WeaponChange
+[2022.01.25-19.41.15:221][408]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBDB04A600), frame # 1033408
+[2022.01.25-19.41.15:222][408]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBEF195E40), frame # 1033408
+[2022.01.25-19.41.15:222][408]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2022.01.25-19.41.15:222][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/WeaponChange.WeaponChange to /Game/Map/UEDPIE_0_WeaponChange.WeaponChange (0.002987s)
+[2022.01.25-19.41.15:243][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.01.25-19.41.15:244][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.25-19.41.15:244][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.25-19.41.15:244][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.25-19.41.15:244][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.25-19.41.15:244][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.25-19.41.15:244][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.25-19.41.15:244][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.25-19.41.15:244][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.25-19.41.15:244][408]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.25-19.41.15:244][408]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.25-19.41.15:246][408]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.25-19.41.15:246][408]LogAudioMixer: Display: 1: FrontRight
+[2022.01.25-19.41.15:257][408]LogAudioMixer: Display: Using Audio Device Högtalare (High Definition Audio Device)
+[2022.01.25-19.41.15:257][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.25-19.41.15:257][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.25-19.41.15:257][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.25-19.41.15:257][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.25-19.41.15:270][408]LogInit: FAudioDevice initialized.
+[2022.01.25-19.41.15:276][408]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.25-19.41.15:277][408]LogWorld: Bringing World /Game/Map/UEDPIE_0_WeaponChange.WeaponChange up for play (max tick rate 0) at 2022.01.25-20.41.15
+[2022.01.25-19.41.15:277][408]LogWorld: Bringing up level for play took: 0.000373
+[2022.01.25-19.41.15:277][408]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.01.25-19.41.15:280][408]PIE: Server logged in
+[2022.01.25-19.41.15:281][408]PIE: Play in editor total start time 0,089 seconds.
+[2022.01.25-19.41.16:745][582]LogNet: Browse: /Game/Map/MainMenu
+[2022.01.25-19.41.16:745][582]LogLoad: LoadMap: /Game/Map/MainMenu
+[2022.01.25-19.41.16:745][582]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_WeaponChange
+[2022.01.25-19.41.16:745][582]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.41.16:746][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.16:789][582]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBEF195E40), frame # 1033582
+[2022.01.25-19.41.16:789][582]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBDB04A600), frame # 1033582
+[2022.01.25-19.41.16:791][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.01.25-19.41.16:798][582]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.25-19.41.16:798][582]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBF0F8F800), frame # 1033582
+[2022.01.25-19.41.16:798][582]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBD39974C0), frame # 1033582
+[2022.01.25-19.41.16:798][582]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.25-19.41.16:799][582]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.25-20.41.16
+[2022.01.25-19.41.16:799][582]LogWorld: Bringing up level for play took: 0.000822
+[2022.01.25-19.41.16:800][582]LogLoad: Took 0.054563 seconds to LoadMap(/Game/Map/MainMenu)
+[2022.01.25-19.41.18:219][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.25-19.41.18:219][749]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainMenu
+[2022.01.25-19.41.18:220][749]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.41.18:220][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.18:224][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.25-19.41.18:227][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.18:262][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.25-19.41.18:262][749]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBD39974C0), frame # 1033749
+[2022.01.25-19.41.18:262][749]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBF0F8F800), frame # 1033749
+[2022.01.25-19.41.18:264][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.01.25-19.41.18:298][752]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.01.25-19.41.18:825][813]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.25-19.41.18:833][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.25-19.41.18:833][813]PIE: New page: PIE session: WeaponChange (25 jan. 2022 21:41:18)
+[2022.01.25-19.41.18:833][813]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_WeaponChange
+[2022.01.25-19.41.18:835][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001912s)
+[2022.01.25-19.41.18:836][813]LogAIModule: Creating AISystem for world WeaponChange
+[2022.01.25-19.41.18:836][813]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBECB43C00), frame # 1033813
+[2022.01.25-19.41.18:836][813]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBF136F9C0), frame # 1033813
+[2022.01.25-19.41.18:836][813]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2022.01.25-19.41.18:836][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/WeaponChange.WeaponChange to /Game/Map/UEDPIE_0_WeaponChange.WeaponChange (0.003078s)
+[2022.01.25-19.41.18:857][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.01.25-19.41.18:858][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.25-19.41.18:858][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.25-19.41.18:858][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.25-19.41.18:858][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.25-19.41.18:858][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.25-19.41.18:858][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.25-19.41.18:858][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.25-19.41.18:858][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.25-19.41.18:859][813]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.25-19.41.18:859][813]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.25-19.41.18:861][813]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.25-19.41.18:861][813]LogAudioMixer: Display: 1: FrontRight
+[2022.01.25-19.41.18:870][813]LogAudioMixer: Display: Using Audio Device Högtalare (High Definition Audio Device)
+[2022.01.25-19.41.18:870][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.25-19.41.18:870][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.25-19.41.18:870][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.25-19.41.18:870][813]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.25-19.41.18:884][813]LogInit: FAudioDevice initialized.
+[2022.01.25-19.41.18:890][813]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.25-19.41.18:891][813]LogWorld: Bringing World /Game/Map/UEDPIE_0_WeaponChange.WeaponChange up for play (max tick rate 0) at 2022.01.25-20.41.18
+[2022.01.25-19.41.18:891][813]LogWorld: Bringing up level for play took: 0.000356
+[2022.01.25-19.41.18:891][813]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.01.25-19.41.18:894][813]PIE: Server logged in
+[2022.01.25-19.41.18:895][813]PIE: Play in editor total start time 0,062 seconds.
+[2022.01.25-19.41.19:797][920]LogNet: Browse: /Game/Map/MainMenu
+[2022.01.25-19.41.19:797][920]LogLoad: LoadMap: /Game/Map/MainMenu
+[2022.01.25-19.41.19:797][920]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_WeaponChange
+[2022.01.25-19.41.19:798][920]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.41.19:798][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.19:838][920]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBF136F9C0), frame # 1033920
+[2022.01.25-19.41.19:838][920]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBECB43C00), frame # 1033920
+[2022.01.25-19.41.19:841][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.01.25-19.41.19:845][920]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.25-19.41.19:845][920]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBF4DF8A00), frame # 1033920
+[2022.01.25-19.41.19:845][920]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBF05C65C0), frame # 1033920
+[2022.01.25-19.41.19:845][920]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.25-19.41.19:846][920]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.25-20.41.19
+[2022.01.25-19.41.19:847][920]LogWorld: Bringing up level for play took: 0.000715
+[2022.01.25-19.41.19:847][920]LogLoad: Took 0.049773 seconds to LoadMap(/Game/Map/MainMenu)
+[2022.01.25-19.41.21:059][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.25-19.41.21:059][ 62]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainMenu
+[2022.01.25-19.41.21:060][ 62]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.41.21:060][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.21:064][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.25-19.41.21:067][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.21:102][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.25-19.41.21:103][ 62]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBF05C65C0), frame # 1034062
+[2022.01.25-19.41.21:103][ 62]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBF4DF8A00), frame # 1034062
+[2022.01.25-19.41.21:105][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.01.25-19.41.21:130][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.01.25-19.41.35:125][690]LogMaterial: Display: Missing cached shader map for material P1RenderTarget2D_Mat, compiling. 
+[2022.01.25-19.41.35:125][690]LogMaterial: Warning: C:\Users\rasmu\OneDrive\Dokument\GitHub\Deathbattle7.0\Content\Blueprints\P1RenderTarget2D_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.25-19.41.35:125][690]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Blueprints/P1RenderTarget2D.P1RenderTarget2D
+[2022.01.25-19.41.35:140][690]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/SceneWidget.SceneWidget
+[2022.01.25-19.41.41:559][424]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.41.41:559][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.41:569][424]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.41.41:569][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.41.44:801][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.01.25-19.41.46:413][775]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.25-19.41.46:487][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.01.25-19.41.46:513][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.01.25-19.41.46:533][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.25-19.42.01:120][462]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/MainMenu.MainMenu
+[2022.01.25-19.42.09:098][363]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/WeaponChange.WeaponChange:PersistentLevel.WeaponChange
+[2022.01.25-19.42.17:381][300]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/MainMenu.MainMenu
+[2022.01.25-19.42.17:409][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.01.25-19.42.18:325][300]LogSlate: Window 'Save Content' being destroyed
+[2022.01.25-19.42.18:338][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2022.01.25-19.42.18:341][300]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenu8FC1B8AF483C0D3D6EE408B14751AD33.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Blueprints/MainMenu.uasset'
+[2022.01.25-19.42.18:342][300]Cmd: MAP LOAD FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.25-19.42.18:342][300]LightingResults: New page: Lighting Build
+[2022.01.25-19.42.18:342][300]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.01.25-19.42.18:389][300]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.42.18:389][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.42.18:422][300]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.42.18:422][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.42.18:422][300]MapCheck: New page: Map Check
+[2022.01.25-19.42.18:422][300]LightingResults: New page: Lighting Build
+[2022.01.25-19.42.18:446][300]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FBF2BA5800), frame # 1040300
+[2022.01.25-19.42.18:446][300]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FBFBA5BC00), frame # 1040300
+[2022.01.25-19.42.18:448][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.01.25-19.42.18:451][300]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.25-19.42.18:451][300]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.25-19.42.18:451][300]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FBFBA59A00), frame # 1040300
+[2022.01.25-19.42.18:451][300]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FBF056A840), frame # 1040300
+[2022.01.25-19.42.18:476][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.01.25-19.42.18:490][300]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.25-19.42.18:490][300]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,143ms to complete.
+[2022.01.25-19.42.18:490][300]LogFileHelpers: Loading map 'MainMenu' took 0.148
+[2022.01.25-19.42.18:529][300]AssetCheck: New page: Asset Save: MainMenu
+[2022.01.25-19.42.18:529][300]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainMenu.MainMenu
+[2022.01.25-19.42.20:613][530]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.01.25-19.42.26:534][187]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.25-19.43.03:180][408]LogTexture: Display: Building textures: text-1634795704697-removebg-preview (BGRA8, 507X65)
+[2022.01.25-19.43.03:190][408]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu/Main_Menu_Wiget.Main_Menu_Wiget
+[2022.01.25-19.43.15:034][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.01.25-19.43.16:432][732]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.25-19.43.17:398][732]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.43.17:398][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.43.17:402][732]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.01.25-19.43.17:402][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.25-19.43.17:435][732]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/MainMenu.MainMenu
+[2022.01.25-19.43.18:408][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.01.25-19.43.18:434][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.01.25-19.43.18:458][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.25-19.43.20:767][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/MainMenu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.25-19.43.20:792][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.25-19.43.20:822][997]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenuD7074B004F4DB28022C61882EEE06AC4.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap'
+[2022.01.25-19.43.20:838][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/MainMenu_BuiltData" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu_BuiltData.uasset" SILENT=true
+[2022.01.25-19.43.20:863][997]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenu_BuiltData7AE007524015A6ACFBA27DB3B19607B8.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu_BuiltData.uasset'
+[2022.01.25-19.43.20:877][997]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.25-19.43.20:877][997]LogContentValidation: Display: Validating World /Game/Map/MainMenu.MainMenu
+[2022.01.25-19.43.20:877][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/MainMenu_BuiltData.MainMenu_BuiltData
