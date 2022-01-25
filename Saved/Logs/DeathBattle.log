@@ -762,3 +762,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.25-16.23.27:889][217]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.25-16.23.27:889][217]LogContentValidation: Display: Validating World /Game/Map/Test1.Test1
 [2022.01.25-16.23.27:889][217]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Test1_BuiltData.Test1_BuiltData
+[2022.01.25-16.23.44:979][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test1" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.25-16.23.44:987][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.25-16.23.45:053][946]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/Test127A3C3D442C3A7248150BF83BA716481.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1.umap'
+[2022.01.25-16.23.45:068][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test1_BuiltData" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1_BuiltData.uasset" SILENT=true
+[2022.01.25-16.23.45:096][946]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/Test1_BuiltData68919FB74CD4DE29745337BFA3CFC786.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/Test1_BuiltData.uasset'
+[2022.01.25-16.23.45:104][946]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.25-16.23.45:105][946]LogContentValidation: Display: Validating World /Game/Map/Test1.Test1
+[2022.01.25-16.23.45:105][946]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/Test1_BuiltData.Test1_BuiltData
