@@ -864,3 +864,11 @@ Script Stack (0 frames):
 [2022.01.31-17.38.37:983][598]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.31-17.38.37:983][598]LogContentValidation: Display: Validating World /Game/Map/MainMenu.MainMenu
 [2022.01.31-17.38.37:983][598]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/MainMenu_BuiltData.MainMenu_BuiltData
+[2022.01.31-17.39.12:566][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/MainMenu" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.31-17.39.12:574][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.01.31-17.39.12:606][929]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenu5D0E564B440C44E269D376B20E1B3217.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu.umap'
+[2022.01.31-17.39.12:624][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/MainMenu_BuiltData" FILE="../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu_BuiltData.uasset" SILENT=true
+[2022.01.31-17.39.12:650][929]LogSavePackage: Moving '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Saved/MainMenu_BuiltData7D28BF18497F4DB31D4B9FA11A62D57F.tmp' to '../../../../../../Users/rasmu/OneDrive/Dokument/GitHub/Deathbattle7.0/Content/Map/MainMenu_BuiltData.uasset'
+[2022.01.31-17.39.12:660][929]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.31-17.39.12:660][929]LogContentValidation: Display: Validating World /Game/Map/MainMenu.MainMenu
+[2022.01.31-17.39.12:660][929]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/MainMenu_BuiltData.MainMenu_BuiltData
