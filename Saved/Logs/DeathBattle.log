@@ -685,3 +685,328 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.08-09.21.14:689][130]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
 [2022.02.08-09.21.15:773][130]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.02.08-09.21.16:203][131]LogSlate: Took 0.005868 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.08-09.38.34:252][222]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\rasmus.jacobsson\Documents\BakgrundDeathBattle.png)
+[2022.02.08-09.38.34:295][222]LogTexture: Display: Building textures: BakgrundDeathBattle (AutoDXT, 1920X1080)
+[2022.02.08-09.38.41:250][526]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/StartGameWidget.StartGameWidget
+[2022.02.08-09.38.43:998][631]LogSlate: Window 'StartGameWidget' being destroyed
+[2022.02.08-09.38.44:006][631]LogSlate: Window 'StartGameWidget' being destroyed
+[2022.02.08-09.38.44:019][631]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.38.44:019][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.38.44:036][631]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.38.44:036][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.39.22:641][798]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.02.08-09.39.28:652][ 94]LogSlate: Window 'MainMenu' being destroyed
+[2022.02.08-09.39.28:659][ 94]LogSlate: Window 'MainMenu' being destroyed
+[2022.02.08-09.39.28:672][ 94]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.39.28:672][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.39.46:734][164]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu/Main_Menu_Wiget.Main_Menu_Wiget
+[2022.02.08-09.39.51:282][403]LogSlate: Window 'Main_Menu_Wiget' being destroyed
+[2022.02.08-09.39.52:901][496]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.39.52:901][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.40.03:547][ 70]LogSlate: Window 'Main_Menu_Wiget' being destroyed
+[2022.02.08-09.40.41:299][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/Main_Menu_Wiget" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset" SILENT=true
+[2022.02.08-09.40.41:355][200]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Main_Menu_Wiget2B91F8F04E7EFEDA3C01B7803DBD4E10.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset'
+[2022.02.08-09.40.41:375][200]AssetCheck: New page: Asset Save: Main_Menu_Wiget
+[2022.02.08-09.40.41:375][200]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/Main_Menu_Wiget.Main_Menu_Wiget
+[2022.02.08-09.41.06:513][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/Main_Menu_Wiget" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset" SILENT=true
+[2022.02.08-09.41.06:542][540]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Main_Menu_Wiget4EF349A74E8C986F8C50498EE4CF0E46.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset'
+[2022.02.08-09.41.06:558][540]AssetCheck: New page: Asset Save: Main_Menu_Wiget
+[2022.02.08-09.41.06:558][540]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/Main_Menu_Wiget.Main_Menu_Wiget
+[2022.02.08-09.41.07:877][617]BlueprintLog: New page: Compile Main_Menu_Wiget
+[2022.02.08-09.41.07:970][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.02.08-09.41.08:493][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/Main_Menu_Wiget" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset" SILENT=true
+[2022.02.08-09.41.08:520][644]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Main_Menu_Wiget7D896C0148DEFC0E628D25AF083F7379.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset'
+[2022.02.08-09.41.08:561][644]AssetCheck: New page: Asset Save: Main_Menu_Wiget
+[2022.02.08-09.41.08:561][644]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/Main_Menu_Wiget.Main_Menu_Wiget
+[2022.02.08-09.41.09:123][673]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-09.41.09:139][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-09.41.09:139][673]PIE: New page: PIE session: MainMenu (8 feb. 2022 11:41:09)
+[2022.02.08-09.41.09:140][673]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.41.09:142][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002605s)
+[2022.02.08-09.41.09:144][673]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.08-09.41.09:144][673]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026B13129E00), frame # 16673
+[2022.02.08-09.41.09:144][673]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026B184C6C00), frame # 16673
+[2022.02.08-09.41.09:144][673]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2022.02.08-09.41.09:144][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.004368s)
+[2022.02.08-09.41.09:198][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.02.08-09.41.09:199][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-09.41.09:199][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-09.41.09:199][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-09.41.09:199][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-09.41.09:199][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-09.41.09:199][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-09.41.09:199][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-09.41.09:199][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-09.41.09:199][673]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-09.41.09:199][673]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-09.41.09:202][673]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-09.41.09:202][673]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-09.41.09:221][673]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2022.02.08-09.41.09:221][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-09.41.09:222][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-09.41.09:222][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-09.41.09:222][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-09.41.09:235][673]LogInit: FAudioDevice initialized.
+[2022.02.08-09.41.09:289][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.41.09:290][673]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.02.08-09.41.09:291][673]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.02.08-10.41.09
+[2022.02.08-09.41.09:292][673]LogWorld: Bringing up level for play took: 0.000736
+[2022.02.08-09.41.09:292][673]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.02.08-09.41.09:297][673]PIE: Server logged in
+[2022.02.08-09.41.09:299][673]PIE: Play in editor total start time 0,159 seconds.
+[2022.02.08-09.41.18:736][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.41.18:736][237]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.41.18:736][237]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.02.08-09.41.18:743][237]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.41.18:744][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.41.18:757][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-09.41.18:761][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.41.18:805][237]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026B184C6C00), frame # 17237
+[2022.02.08-09.41.18:805][237]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026B13129E00), frame # 17237
+[2022.02.08-09.41.18:807][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.08-09.41.18:829][238]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.02.08-09.41.28:134][769]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.41.33:472][ 83]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.41.39:255][416]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.41.40:988][516]BlueprintLog: New page: Compile Main_Menu_Wiget
+[2022.02.08-09.41.41:017][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.02.08-09.41.41:969][562]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-09.41.41:985][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-09.41.41:985][562]PIE: New page: PIE session: MainMenu (8 feb. 2022 11:41:41)
+[2022.02.08-09.41.41:985][562]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.41.41:988][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002530s)
+[2022.02.08-09.41.41:989][562]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.08-09.41.41:989][562]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026B279DC400), frame # 18562
+[2022.02.08-09.41.41:989][562]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026B18609F80), frame # 18562
+[2022.02.08-09.41.41:989][562]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2022.02.08-09.41.41:989][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.004148s)
+[2022.02.08-09.41.42:012][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.08-09.41.42:012][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-09.41.42:013][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-09.41.42:013][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-09.41.42:013][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-09.41.42:013][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-09.41.42:013][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-09.41.42:013][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-09.41.42:013][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-09.41.42:013][562]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-09.41.42:013][562]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-09.41.42:015][562]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-09.41.42:015][562]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-09.41.42:032][562]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2022.02.08-09.41.42:032][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-09.41.42:032][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-09.41.42:032][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-09.41.42:032][562]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-09.41.42:048][562]LogInit: FAudioDevice initialized.
+[2022.02.08-09.41.42:116][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.41.42:117][562]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.02.08-09.41.42:120][562]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.02.08-10.41.42
+[2022.02.08-09.41.42:120][562]LogWorld: Bringing up level for play took: 0.001295
+[2022.02.08-09.41.42:121][562]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.02.08-09.41.42:126][562]PIE: Server logged in
+[2022.02.08-09.41.42:128][562]PIE: Play in editor total start time 0,144 seconds.
+[2022.02.08-09.41.56:645][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.41.56:645][424]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.41.56:645][424]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.02.08-09.41.56:651][424]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.41.56:652][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.41.56:668][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-09.41.56:672][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.41.56:718][424]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026B18609F80), frame # 19424
+[2022.02.08-09.41.56:719][424]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026B279DC400), frame # 19424
+[2022.02.08-09.41.56:721][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.02.08-09.41.56:751][425]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.02.08-09.42.17:950][688]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.42.24:248][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.42.29:063][324]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.42.31:862][487]BlueprintLog: New page: Compile Main_Menu_Wiget
+[2022.02.08-09.42.31:894][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.08-09.42.32:382][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/Main_Menu_Wiget" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset" SILENT=true
+[2022.02.08-09.42.32:417][507]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Main_Menu_Wiget379776BD4FD2EEF7212E51B26C41A0BA.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset'
+[2022.02.08-09.42.32:433][507]AssetCheck: New page: Asset Save: Main_Menu_Wiget
+[2022.02.08-09.42.32:433][507]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/Main_Menu_Wiget.Main_Menu_Wiget
+[2022.02.08-09.42.32:961][538]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-09.42.32:976][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-09.42.32:977][538]PIE: New page: PIE session: MainMenu (8 feb. 2022 11:42:32)
+[2022.02.08-09.42.32:977][538]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.42.32:979][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002661s)
+[2022.02.08-09.42.32:981][538]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.08-09.42.32:981][538]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026B0EF4BE00), frame # 21538
+[2022.02.08-09.42.32:981][538]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026B185EA980), frame # 21538
+[2022.02.08-09.42.32:981][538]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2022.02.08-09.42.32:981][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.004452s)
+[2022.02.08-09.42.33:005][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.08-09.42.33:006][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-09.42.33:006][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-09.42.33:006][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-09.42.33:006][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-09.42.33:006][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-09.42.33:006][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-09.42.33:006][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-09.42.33:006][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-09.42.33:006][538]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-09.42.33:006][538]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-09.42.33:009][538]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-09.42.33:009][538]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-09.42.33:027][538]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2022.02.08-09.42.33:027][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-09.42.33:027][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-09.42.33:027][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-09.42.33:027][538]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-09.42.33:044][538]LogInit: FAudioDevice initialized.
+[2022.02.08-09.42.33:096][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.42.33:096][538]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.02.08-09.42.33:097][538]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.02.08-10.42.33
+[2022.02.08-09.42.33:097][538]LogWorld: Bringing up level for play took: 0.000780
+[2022.02.08-09.42.33:098][538]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.02.08-09.42.33:103][538]PIE: Server logged in
+[2022.02.08-09.42.33:105][538]PIE: Play in editor total start time 0,128 seconds.
+[2022.02.08-09.42.36:674][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.42.36:674][749]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.42.36:674][749]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.02.08-09.42.36:681][749]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.42.36:681][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.42.36:697][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-09.42.36:701][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.42.36:754][749]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026B185EA980), frame # 21749
+[2022.02.08-09.42.36:754][749]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026B0EF4BE00), frame # 21749
+[2022.02.08-09.42.36:760][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2022.02.08-09.42.36:795][750]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.02.08-09.42.48:944][462]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.42.52:327][659]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.42.57:959][985]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.43.02:092][222]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.43.07:607][540]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.43.11:856][788]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.08-09.43.14:055][914]BlueprintLog: New page: Compile Main_Menu_Wiget
+[2022.02.08-09.43.14:087][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.02.08-09.43.14:660][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/Main_Menu_Wiget" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset" SILENT=true
+[2022.02.08-09.43.14:695][939]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Main_Menu_Wiget45647CFA4E570749075915AAA6377BB1.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset'
+[2022.02.08-09.43.14:709][939]AssetCheck: New page: Asset Save: Main_Menu_Wiget
+[2022.02.08-09.43.14:710][939]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/Main_Menu_Wiget.Main_Menu_Wiget
+[2022.02.08-09.43.15:178][967]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-09.43.15:195][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-09.43.15:195][967]PIE: New page: PIE session: MainMenu (8 feb. 2022 11:43:15)
+[2022.02.08-09.43.15:195][967]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.43.15:198][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002763s)
+[2022.02.08-09.43.15:199][967]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.08-09.43.15:199][967]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026B13128E00), frame # 23967
+[2022.02.08-09.43.15:199][967]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026B18609080), frame # 23967
+[2022.02.08-09.43.15:200][967]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2022.02.08-09.43.15:200][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.004851s)
+[2022.02.08-09.43.15:224][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.08-09.43.15:225][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-09.43.15:225][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-09.43.15:225][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-09.43.15:225][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-09.43.15:225][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-09.43.15:225][967]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-09.43.15:225][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-09.43.15:225][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-09.43.15:225][967]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-09.43.15:225][967]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-09.43.15:228][967]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-09.43.15:228][967]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-09.43.15:247][967]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2022.02.08-09.43.15:247][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-09.43.15:248][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-09.43.15:248][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-09.43.15:248][967]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-09.43.15:264][967]LogInit: FAudioDevice initialized.
+[2022.02.08-09.43.15:323][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.43.15:323][967]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.02.08-09.43.15:324][967]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.02.08-10.43.15
+[2022.02.08-09.43.15:325][967]LogWorld: Bringing up level for play took: 0.000685
+[2022.02.08-09.43.15:325][967]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.02.08-09.43.15:329][967]PIE: Server logged in
+[2022.02.08-09.43.15:331][967]PIE: Play in editor total start time 0,136 seconds.
+[2022.02.08-09.43.22:960][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.43.22:960][423]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.43.22:961][423]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.02.08-09.43.22:976][423]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.43.22:976][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.43.22:987][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-09.43.22:991][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.43.23:052][423]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026B18609080), frame # 24423
+[2022.02.08-09.43.23:052][423]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026B13128E00), frame # 24423
+[2022.02.08-09.43.23:055][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.02.08-09.43.23:088][424]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.02.08-09.43.24:055][482]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-09.43.24:072][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-09.43.24:072][482]PIE: New page: PIE session: MainMenu (8 feb. 2022 11:43:24)
+[2022.02.08-09.43.24:072][482]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.43.24:075][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002980s)
+[2022.02.08-09.43.24:076][482]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.08-09.43.24:077][482]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026A8D6A2800), frame # 24482
+[2022.02.08-09.43.24:077][482]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026B1932D300), frame # 24482
+[2022.02.08-09.43.24:077][482]LogPlayLevel: PIE: World Init took: (0.001869s)
+[2022.02.08-09.43.24:077][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainMenu.MainMenu to /Game/Map/UEDPIE_0_MainMenu.MainMenu (0.004988s)
+[2022.02.08-09.43.24:100][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.08-09.43.24:101][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-09.43.24:101][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-09.43.24:101][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-09.43.24:101][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-09.43.24:101][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-09.43.24:101][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-09.43.24:101][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-09.43.24:101][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-09.43.24:101][482]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-09.43.24:101][482]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-09.43.24:104][482]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-09.43.24:104][482]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-09.43.24:123][482]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2022.02.08-09.43.24:123][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-09.43.24:123][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-09.43.24:123][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-09.43.24:124][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-09.43.24:142][482]LogInit: FAudioDevice initialized.
+[2022.02.08-09.43.24:189][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-09.43.24:189][482]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.02.08-09.43.24:190][482]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.02.08-10.43.24
+[2022.02.08-09.43.24:191][482]LogWorld: Bringing up level for play took: 0.000683
+[2022.02.08-09.43.24:191][482]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.02.08-09.43.24:196][482]PIE: Server logged in
+[2022.02.08-09.43.24:198][482]PIE: Play in editor total start time 0,127 seconds.
+[2022.02.08-09.43.25:422][554]LogNet: Browse: /Game/Map/WeaponChange
+[2022.02.08-09.43.25:423][554]LogLoad: LoadMap: /Game/Map/WeaponChange
+[2022.02.08-09.43.25:423][554]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainMenu
+[2022.02.08-09.43.25:424][554]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.43.25:424][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.43.25:451][554]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026B1932D300), frame # 24554
+[2022.02.08-09.43.25:451][554]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026A8D6A2800), frame # 24554
+[2022.02.08-09.43.25:454][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.02.08-09.43.25:495][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:495][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:495][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:496][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:497][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:497][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:498][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:498][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:500][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:500][554]LoadErrors: Failed to load /Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat.AtomOverlayTarget_Mat Referenced by Image_153
+[2022.02.08-09.43.25:500][554]LogLinker: Warning: While loading '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap' failed to load '/Game/Blueprints/Grejer/skott/SkottOverlayMenu2/AtomOverlayTarget_Mat': Can't find file.
+[2022.02.08-09.43.25:551][554]LogAIModule: Creating AISystem for world WeaponChange
+[2022.02.08-09.43.25:551][554]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026B11C78E00), frame # 24554
+[2022.02.08-09.43.25:551][554]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026B193A6980), frame # 24554
+[2022.02.08-09.43.25:552][554]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.02.08-09.43.25:556][554]LogWorld: Bringing World /Game/Map/UEDPIE_0_WeaponChange.WeaponChange up for play (max tick rate 60) at 2022.02.08-10.43.25
+[2022.02.08-09.43.25:556][554]LogWorld: Bringing up level for play took: 0.002679
+[2022.02.08-09.43.25:560][554]LogLoad: Took 0.138158 seconds to LoadMap(/Game/Map/WeaponChange)
+[2022.02.08-09.43.35:983][165]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.02.08-09.43.35:993][165]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_WeaponChange
+[2022.02.08-09.43.35:993][165]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-09.43.35:994][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.43.36:008][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-09.43.36:012][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-09.43.36:068][165]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026B193A6980), frame # 25165
+[2022.02.08-09.43.36:068][165]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026B11C78E00), frame # 25165
+[2022.02.08-09.43.36:072][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.02.08-09.43.36:107][166]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.02.08-09.43.39:770][383]BlueprintLog: New page: Compile Main_Menu_Wiget
+[2022.02.08-09.43.39:802][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.02.08-09.43.40:341][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/Main_Menu_Wiget" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset" SILENT=true
+[2022.02.08-09.43.40:374][413]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Main_Menu_Wiget7ABC5EF44BEF9AA8383640952991CD58.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Main_Menu/Main_Menu_Wiget.uasset'
+[2022.02.08-09.43.40:388][413]AssetCheck: New page: Asset Save: Main_Menu_Wiget
+[2022.02.08-09.43.40:388][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/Main_Menu_Wiget.Main_Menu_Wiget
