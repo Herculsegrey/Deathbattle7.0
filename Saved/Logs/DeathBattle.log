@@ -15686,3 +15686,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.10-09.07.08:792][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gustav/skott4.skott4
 [2022.02.10-09.07.13:101][159]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2022.02.10-09.07.13:101][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-09.08.08:334][540]LogSlate: Window 'Mugg1' being destroyed
+[2022.02.10-09.08.26:597][499]BlueprintLog: New page: Compile SideScrollerCharacter
+[2022.02.10-09.08.26:820][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.02.10-09.08.27:657][505]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter14543D4841455768ADAEACA7ED89C14E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.02.10-09.08.27:680][505]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2022.02.10-09.08.27:680][505]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
