@@ -15681,3 +15681,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.10-09.06.22:389][919]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.10-09.06.22:389][919]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
 [2022.02.10-09.06.22:389][919]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/WeaponChange_BuiltData.WeaponChange_BuiltData
+[2022.02.10-09.06.59:863][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.02.10-09.07.05:698][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.02.10-09.07.08:792][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gustav/skott4.skott4
+[2022.02.10-09.07.13:101][159]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-09.07.13:101][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
