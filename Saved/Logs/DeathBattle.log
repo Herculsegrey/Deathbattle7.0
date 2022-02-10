@@ -15384,3 +15384,300 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.10-08.17.07:113][991]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile19F2F34DE44CBD84710895E9BBFDD3B30.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
 [2022.02.10-08.17.07:130][991]AssetCheck: New page: Asset Save: Projectile1
 [2022.02.10-08.17.07:130][991]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.18.25:107][538]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.18.25:198][538]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2022.02.10-08.18.25:862][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.18.25:916][589]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1BB20C44D4D7B1BF4480DD59E1F23BA7D.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.18.25:930][589]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.18.25:930][589]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.18.51:569][173]BlueprintLog: New page: Compile Shop_menu
+[2022.02.10-08.18.51:633][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.02.10-08.18.52:246][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.02.10-08.18.52:286][225]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Shop_menuC47B83184DA30EC43118B4BAC16C3663.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.02.10-08.18.52:301][225]AssetCheck: New page: Asset Save: Shop_menu
+[2022.02.10-08.18.52:301][225]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.02.10-08.19.13:351][106]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.19.13:444][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2022.02.10-08.19.14:203][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.19.14:256][157]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1CBF7B79946FE45672A6209882158E4FE.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.19.14:277][157]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.19.14:277][157]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.19.56:414][234]BlueprintLog: New page: Compile Shop_menu
+[2022.02.10-08.19.56:488][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2022.02.10-08.19.57:105][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.02.10-08.19.57:150][281]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Shop_menu992478E545BB82D8BA8A7BAF2D6DCA6C.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.02.10-08.19.57:171][281]AssetCheck: New page: Asset Save: Shop_menu
+[2022.02.10-08.19.57:171][281]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.02.10-08.20.55:624][686]BlueprintLog: New page: Compile Shop_menu
+[2022.02.10-08.20.55:695][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.02.10-08.20.56:364][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.02.10-08.20.56:415][742]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Shop_menuFA3A252D4E11C72865BDD88DCB604CD8.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.02.10-08.20.56:432][742]AssetCheck: New page: Asset Save: Shop_menu
+[2022.02.10-08.20.56:432][742]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.02.10-08.21.39:914][499]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.21.39:927][499]LogBlueprint: Error: [Compiler Projectile1] This blueprint (self) is not a Shop_menu_C, therefore ' Target ' must have a connection.
+[2022.02.10-08.21.39:927][499]LogBlueprint: Error: [Compiler Projectile1] This blueprint (self) is not a Shop_menu_C, therefore ' Target ' must have a connection.
+[2022.02.10-08.21.39:927][499]LogBlueprint: Error: [Compiler Projectile1] Variable node  Get Skin  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.02.10-08.21.40:021][499]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2022.02.10-08.21.52:982][408]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.21.52:993][408]LogBlueprint: Error: [Compiler Projectile1] This blueprint (self) is not a Shop_menu_C, therefore ' Target ' must have a connection.
+[2022.02.10-08.21.52:993][408]LogBlueprint: Error: [Compiler Projectile1] This blueprint (self) is not a Shop_menu_C, therefore ' Target ' must have a connection.
+[2022.02.10-08.21.52:993][408]LogBlueprint: Error: [Compiler Projectile1] Variable node  Get Skin  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.02.10-08.21.53:084][408]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.02.10-08.21.53:660][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.21.53:723][442]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile14D46A7EC41B2643468CFE1BD1BB3DABE.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.21.53:748][442]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.21.53:748][442]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.22.59:340][770]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.10-08.23.48:104][927]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.02.10-08.23.48:106][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/MainMenu' took 0.053
+[2022.02.10-08.23.48:106][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gustav/Projectile] ([1] browsable assets)...
+[2022.02.10-08.23.48:153][927]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gustav/Projectile.Projectile]
+[2022.02.10-08.23.48:153][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gustav/Projectile]
+[2022.02.10-08.23.48:213][927]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile_Auto2CB453C294CFBEA5BB8FA68A689FE9B51.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Gustav/Projectile_Auto2.uasset'
+[2022.02.10-08.23.48:215][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gustav/Projectile1] ([1] browsable assets)...
+[2022.02.10-08.23.48:229][927]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gustav/Projectile1.Projectile1]
+[2022.02.10-08.23.48:229][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gustav/Projectile1]
+[2022.02.10-08.23.48:295][927]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1_Auto2D1E3697C4DE4645D1C8703ABB1E38E6C.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Gustav/Projectile1_Auto2.uasset'
+[2022.02.10-08.23.48:297][927]LogFileHelpers: Auto-saving content packages took 0.191
+[2022.02.10-08.24.08:335][166]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.24.08:433][166]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.02.10-08.31.26:713][501]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/WeaponChange.WeaponChange
+[2022.02.10-08.31.26:755][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.02.10-08.31.28:163][501]LogSlate: Window 'Save Content' being destroyed
+[2022.02.10-08.31.28:189][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset" SILENT=true
+[2022.02.10-08.31.28:235][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile632F941C41D31F02AF7251AB4DE91D51.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile.uasset'
+[2022.02.10-08.31.28:250][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.31.28:300][501]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile13CB05A55461253D6AE5251B7FB978099.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.31.28:301][501]Cmd: MAP LOAD FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.10-08.31.28:301][501]LightingResults: New page: Lighting Build
+[2022.02.10-08.31.28:303][501]LoadErrors: New page: Loading map: WeaponChange.umap
+[2022.02.10-08.31.28:328][501]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-08.31.28:328][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-08.31.28:328][501]MapCheck: New page: Map Check
+[2022.02.10-08.31.28:328][501]LightingResults: New page: Lighting Build
+[2022.02.10-08.31.28:364][501]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D034F97E00), frame # 83501
+[2022.02.10-08.31.28:364][501]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D03B113240), frame # 83501
+[2022.02.10-08.31.28:367][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.02.10-08.31.28:708][501]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.10-08.31.28:708][501]LogAIModule: Creating AISystem for world WeaponChange
+[2022.02.10-08.31.28:709][501]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D0ED7A4C00), frame # 83501
+[2022.02.10-08.31.28:709][501]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D08B6BD6C0), frame # 83501
+[2022.02.10-08.31.28:746][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.02.10-08.31.28:769][501]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.10-08.31.28:769][501]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,136ms to complete.
+[2022.02.10-08.31.28:769][501]LogFileHelpers: Loading map 'WeaponChange' took 0.469
+[2022.02.10-08.31.28:822][501]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-08.31.28:822][501]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile.Projectile
+[2022.02.10-08.31.28:822][501]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.31.30:579][623]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/WeaponChange.WeaponChange:PersistentLevel.WeaponChange
+[2022.02.10-08.33.04:536][159]BlueprintLog: New page: Compile WeaponChange
+[2022.02.10-08.33.04:602][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.02.10-08.33.05:162][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.10-08.33.05:197][205]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/WeaponChange32D77FFE4A06DAA5C2B6C79286F0F249.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap'
+[2022.02.10-08.33.05:225][205]LogFileHelpers: Saving map 'WeaponChange' took 0.104
+[2022.02.10-08.33.05:252][205]AssetCheck: New page: Asset Save: WeaponChange
+[2022.02.10-08.33.05:252][205]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
+[2022.02.10-08.35.04:814][247]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.10-08.35.24:456][897]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2022.02.10-08.36.34:549][519]LogRenderer: Reallocating scene render targets to support 1140x660 Format 9 NumSamples 1 (Frame:1).
+[2022.02.10-08.36.41:083][  7]LogEditorTransaction: Undo Modify Component(s)
+[2022.02.10-08.36.43:223][151]BlueprintLog: New page: Compile SideScrollerCharacter
+[2022.02.10-08.36.43:455][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.02.10-08.36.44:540][201]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter142E9FD847E2E8B286C15C87E6C1D3D5.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.02.10-08.36.44:561][201]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2022.02.10-08.36.44:561][201]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.02.10-08.36.51:768][831]LogRenderer: Reallocating scene render targets to support 1200x660 Format 9 NumSamples 1 (Frame:1).
+[2022.02.10-08.43.10:430][158]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.43.10:547][158]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.02.10-08.43.11:303][205]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2022.02.10-08.43.11:305][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/WeaponChange' took 0.055
+[2022.02.10-08.43.11:306][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gustav/Projectile1] ([1] browsable assets)...
+[2022.02.10-08.43.11:330][205]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gustav/Projectile1.Projectile1]
+[2022.02.10-08.43.11:330][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gustav/Projectile1]
+[2022.02.10-08.43.11:401][205]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1_Auto363C102DF400EB1F74D8E5BBFE70B059F.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Gustav/Projectile1_Auto3.uasset'
+[2022.02.10-08.43.11:403][205]LogFileHelpers: Auto-saving content packages took 0.097
+[2022.02.10-08.43.13:654][374]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.43.13:764][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.02.10-08.43.14:410][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.43.14:480][412]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1831C7FD14206B0F37C36A7946F6DB4FE.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.43.14:502][412]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.43.14:502][412]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.43.49:839][545]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.43.49:848][545]LogBlueprint: Warning: [Compiler Projectile1] 'Shop Menu' does not inherit from 'Skeletal Mesh Component' ( Cast To Shop_menu  would always fail).
+[2022.02.10-08.43.49:851][545]LogBlueprint: Error: [Compiler Projectile1] This blueprint (self) is not a Shop_menu_C, therefore ' Target ' must have a connection.
+[2022.02.10-08.43.49:852][545]LogBlueprint: Error: [Compiler Projectile1] Variable node  Get Skin  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.02.10-08.43.49:938][545]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2022.02.10-08.43.50:522][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.43.50:584][575]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1330A542C4E766EA7ED0D4E9C6D733B43.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.43.50:606][575]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.43.50:606][575]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.43.57:057][106]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.43.57:068][106]LogBlueprint: Warning: [Compiler Projectile1] 'Shop Menu' does not inherit from 'Skeletal Mesh Component' ( Cast To Shop_menu  would always fail).
+[2022.02.10-08.43.57:162][106]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2022.02.10-08.44.26:442][782]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.44.26:453][782]LogBlueprint: Error: [Compiler Projectile1] This blueprint (self) is not a WidgetComponent, therefore ' Target ' must have a connection.
+[2022.02.10-08.44.26:544][782]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2022.02.10-08.44.45:681][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.44.45:748][410]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1CC9EEBCA4C37DCA7B24245AE286B0CE9.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.44.45:767][410]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.44.45:767][410]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.44.53:176][978]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-08.44.53:200][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-08.44.53:200][978]BlueprintLog: Warning: Blueprint failed to compile:  Projectile1
+[2022.02.10-08.44.53:207][978]LogCustomDialog: Dialog displayed:
+[2022.02.10-08.44.54:841][978]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.02.10-08.44.56:460][ 94]LogSlate: Window 'Message Log' being destroyed
+[2022.02.10-08.44.56:470][ 94]LogSlate: Window 'Message Log' being destroyed
+[2022.02.10-08.45.51:703][114]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.10-08.46.26:850][222]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.46.26:862][222]LogBlueprint: Error: [Compiler Projectile1] This blueprint (self) is not a WidgetComponent, therefore ' Target ' must have a connection.
+[2022.02.10-08.46.26:957][222]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.02.10-08.46.45:319][598]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.46.45:420][598]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.02.10-08.46.46:218][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.46.46:283][643]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1C002147A4E9E1A38D85081903E1D02B2.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.46.46:312][643]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.46.46:312][643]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.46.59:216][595]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.46.59:332][595]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2022.02.10-08.46.59:919][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.46.59:985][623]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1E22C904A40A71FA2DEEE4B991CB3EF98.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.47.00:004][623]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.47.00:004][623]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.47.13:891][669]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.47.14:001][669]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.02.10-08.47.14:566][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.47.14:640][697]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile124E9D6344C5EFD422F783499C79F1991.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.47.14:661][697]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.47.14:661][697]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.47.56:688][818]BlueprintLog: New page: Compile Projectile1
+[2022.02.10-08.47.56:797][818]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2022.02.10-08.47.57:227][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Projectile1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset" SILENT=true
+[2022.02.10-08.47.57:293][838]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1652D1117427A45DAA1ECC59C878D3151.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Projectile1.uasset'
+[2022.02.10-08.47.57:322][838]AssetCheck: New page: Asset Save: Projectile1
+[2022.02.10-08.47.57:322][838]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Projectile1.Projectile1
+[2022.02.10-08.51.14:628][970]BlueprintLog: New page: Compile WeaponChange
+[2022.02.10-08.51.14:719][970]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.02.10-08.51.15:604][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.02.10-08.51.15:662][ 36]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/WeaponChange12F947D04F7706C16BF5A98C5054621B.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap'
+[2022.02.10-08.51.15:707][ 36]LogFileHelpers: Saving map 'WeaponChange' took 0.159
+[2022.02.10-08.51.15:729][ 36]AssetCheck: New page: Asset Save: WeaponChange
+[2022.02.10-08.51.15:730][ 36]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
+[2022.02.10-08.51.17:006][157]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-08.51.17:027][157]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.10-08.51.17:031][157]LogPlayLevel: [PlayLevel] Compiling Projectile1 before play...
+[2022.02.10-08.51.17:187][157]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.02.10-08.51.17:188][157]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2022.02.10-08.51.17:188][157]PIE: New page: PIE session: WeaponChange (10 feb. 2022 10:51:17)
+[2022.02.10-08.51.17:191][157]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_WeaponChange
+[2022.02.10-08.51.17:196][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005129s)
+[2022.02.10-08.51.17:198][157]LogAIModule: Creating AISystem for world WeaponChange
+[2022.02.10-08.51.17:198][157]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D0B0E31400), frame # 144157
+[2022.02.10-08.51.17:198][157]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D116E28B80), frame # 144157
+[2022.02.10-08.51.17:198][157]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2022.02.10-08.51.17:198][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/WeaponChange.WeaponChange to /Game/Map/UEDPIE_0_WeaponChange.WeaponChange (0.007153s)
+[2022.02.10-08.51.17:244][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.02.10-08.51.17:245][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-08.51.17:245][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-08.51.17:245][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-08.51.17:245][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-08.51.17:245][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-08.51.17:245][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-08.51.17:245][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-08.51.17:245][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-08.51.17:246][157]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.10-08.51.17:246][157]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-08.51.17:250][157]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-08.51.17:250][157]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-08.51.17:274][157]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2022.02.10-08.51.17:274][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-08.51.17:274][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-08.51.17:274][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-08.51.17:274][157]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-08.51.17:294][157]LogInit: FAudioDevice initialized.
+[2022.02.10-08.51.17:341][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-08.51.17:342][157]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.02.10-08.51.17:344][157]LogWorld: Bringing World /Game/Map/UEDPIE_0_WeaponChange.WeaponChange up for play (max tick rate 0) at 2022.02.10-09.51.17
+[2022.02.10-08.51.17:345][157]LogWorld: Bringing up level for play took: 0.001222
+[2022.02.10-08.51.17:345][157]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.02.10-08.51.17:352][157]PIE: Server logged in
+[2022.02.10-08.51.17:353][157]PIE: Play in editor total start time 0,325 seconds.
+[2022.02.10-08.51.21:805][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-08.51.21:805][459]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_WeaponChange
+[2022.02.10-08.51.21:806][459]LogSlate: Window 'DeathBattle Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.02.10-08.51.21:810][459]LogWorld: UWorld::CleanupWorld for WeaponChange, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-08.51.21:810][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-08.51.21:821][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-08.51.21:830][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-08.51.21:916][459]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D116E28B80), frame # 144459
+[2022.02.10-08.51.21:916][459]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D0B0E31400), frame # 144459
+[2022.02.10-08.51.21:922][459]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2022.02.10-08.51.21:960][460]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.02.10-08.52.51:003][412]BlueprintLog: New page: Compile Shop_menu
+[2022.02.10-08.52.51:089][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.02.10-08.52.51:907][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.02.10-08.52.51:957][475]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Shop_menuDAD0134C4FF207B2FC17829CF811D69E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.02.10-08.52.51:977][475]AssetCheck: New page: Asset Save: Shop_menu
+[2022.02.10-08.52.51:977][475]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.02.10-09.01.20:468][466]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.02.10-09.01.20:470][466]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/WeaponChange' took 0.047
+[2022.02.10-09.01.20:471][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2022.02.10-09.01.20:480][466]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2022.02.10-09.01.20:480][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2022.02.10-09.01.20:652][466]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter_Auto4E3F02F114D7C6CFF0CA8D1B304501F42.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto4.uasset'
+[2022.02.10-09.01.20:653][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gustav/Projectile1] ([1] browsable assets)...
+[2022.02.10-09.01.20:675][466]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gustav/Projectile1.Projectile1]
+[2022.02.10-09.01.20:675][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gustav/Projectile1]
+[2022.02.10-09.01.20:720][466]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Projectile1_Auto420878AD149A8F5BBCB052181C5678A69.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Autosaves/Game/Gustav/Projectile1_Auto4.uasset'
+[2022.02.10-09.01.20:721][466]LogFileHelpers: Auto-saving content packages took 0.251
+[2022.02.10-09.04.51:723][317]BlueprintLog: New page: Compile Shop_menu
+[2022.02.10-09.04.51:799][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.10-09.04.52:544][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shop_menu" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset" SILENT=true
+[2022.02.10-09.04.52:579][357]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Shop_menu0DB07C50448424358A66A8B597468C68.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Blueprints/Shop_menu.uasset'
+[2022.02.10-09.04.52:594][357]AssetCheck: New page: Asset Save: Shop_menu
+[2022.02.10-09.04.52:594][357]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Shop_menu.Shop_menu
+[2022.02.10-09.05.42:149][275]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.02.10-09.05.42:355][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.02.10-09.05.42:415][275]LogMetaData: Removing '/Game/Gustav/Mugg.Mugg:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Gustav/Projectile.PackageMetaData'
+[2022.02.10-09.05.42:415][275]LogMetaData: Removing '/Game/Gustav/Mugg.Mugg_C' ref from Metadata '/Game/Gustav/Projectile.PackageMetaData'
+[2022.02.10-09.05.42:415][275]LogMetaData: Removing '/Game/Gustav/Mugg.Mugg:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Gustav/Projectile.PackageMetaData'
+[2022.02.10-09.05.42:415][275]LogMetaData: Removing '/Game/Gustav/Mugg.Mugg:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Gustav/Projectile.PackageMetaData'
+[2022.02.10-09.05.42:415][275]LogMetaData: Removing '/Game/Gustav/Mugg.Mugg:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Gustav/Projectile.PackageMetaData'
+[2022.02.10-09.05.42:415][275]LogMetaData: Removing '/Game/Gustav/Mugg.SKEL_Mugg_C' ref from Metadata '/Game/Gustav/Projectile.PackageMetaData'
+[2022.02.10-09.05.42:512][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Mugg" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Mugg.uasset" SILENT=true
+[2022.02.10-09.05.42:541][275]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Mugg87731D1840BBAE49E85FDBBACD5BF77E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Mugg.uasset'
+[2022.02.10-09.05.42:808][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.02.10-09.05.42:858][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.02.10-09.05.42:894][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.02.10-09.05.43:122][275]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacter2E3F96F5431E6BCF3D20DE85692F7441.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.02.10-09.05.43:348][275]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-09.05.43:348][275]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Mugg.Mugg
+[2022.02.10-09.05.43:348][275]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.02.10-09.05.48:900][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.02.10-09.05.49:085][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.02.10-09.05.49:143][571]LogMetaData: Removing '/Game/Gustav/Mugg1.Mugg1_C' ref from Metadata '/Game/Gustav/Projectile1.PackageMetaData'
+[2022.02.10-09.05.49:143][571]LogMetaData: Removing '/Game/Gustav/Mugg1.SKEL_Mugg1_C' ref from Metadata '/Game/Gustav/Projectile1.PackageMetaData'
+[2022.02.10-09.05.49:227][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gustav/Mugg1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Mugg1.uasset" SILENT=true
+[2022.02.10-09.05.49:260][571]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/Mugg13089459C441C8BDBD360C49D98104AB0.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Gustav/Mugg1.uasset'
+[2022.02.10-09.05.49:527][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.02.10-09.05.49:577][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.02.10-09.05.49:611][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.10-09.05.49:837][571]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/SideScrollerCharacterF3BA0E044FD9193CEBC92E804A92AE27.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.02.10-09.05.50:044][571]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-09.05.50:044][571]LogContentValidation: Display: Validating Blueprint /Game/Gustav/Mugg1.Mugg1
+[2022.02.10-09.05.50:044][571]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.02.10-09.05.55:136][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.02.10-09.06.12:810][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.02.10-09.06.13:982][882]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.10-09.06.19:785][882]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Gustav/Mugg_2.Mugg_2
+[2022.02.10-09.06.21:104][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.02.10-09.06.21:464][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.10-09.06.22:257][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.10-09.06.22:298][919]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/WeaponChange165A6B3B4E32CB9C50D3F09BD4F549BB.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange.umap'
+[2022.02.10-09.06.22:330][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/WeaponChange_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange_BuiltData.uasset" SILENT=true
+[2022.02.10-09.06.22:364][919]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Saved/WeaponChange_BuiltDataBCF2316D4E98F8A5E465A09F92102692.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/Deathbattle7.0/Content/Map/WeaponChange_BuiltData.uasset'
+[2022.02.10-09.06.22:389][919]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-09.06.22:389][919]LogContentValidation: Display: Validating World /Game/Map/WeaponChange.WeaponChange
+[2022.02.10-09.06.22:389][919]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/WeaponChange_BuiltData.WeaponChange_BuiltData
